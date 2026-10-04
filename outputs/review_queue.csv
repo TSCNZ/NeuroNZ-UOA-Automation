@@ -48,7 +48,6 @@ pubmed:41368923,review,candidate,Neurological study focus requires review
 pubmed:42784819,review,candidate,Historical commentary requires data relevance review
 pubmed:42619342,review,candidate,Neurological study focus requires review
 pubmed:42800307,review,candidate,Neurological study focus requires review
-pubmed:42608334,review,candidate,Neurological study focus requires review
 ,review,candidate,Dataset source discovery failed: neurological: Expecting value: line 1 column 1 (char 0)
 ,review,candidate,Dataset source discovery failed: stroke: Expecting value: line 1 column 1 (char 0)
 ,review,candidate,Dataset source discovery failed: dementia: Expecting value: line 1 column 1 (char 0)
@@ -132,6 +131,8 @@ IH8HMGBF,review,metadata_taxonomy,condition_link_needs_review
 VPVTBEZM,review,metadata_taxonomy,condition_link_needs_review
 AHBSVIKR,review,metadata_taxonomy,condition_link_needs_review
 CACDWEB4,review,metadata_taxonomy,condition_link_needs_review
+ZPAJCGAS,review,metadata_taxonomy,catalogue_relationship_needs_review
+EF2KTAHS,review,metadata_taxonomy,catalogue_relationship_needs_review
 Z7UKKAU5,review,metadata_taxonomy,catalogue_relationship_needs_review
 E2FNEGZ2,review,metadata_taxonomy,catalogue_relationship_needs_review
 D683AFXG,review,metadata_taxonomy,catalogue_relationship_needs_review

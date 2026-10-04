@@ -38,6 +38,33 @@
     "reason": "Animal breed match does not establish NZ relevance"
   },
   {
+    "candidate_id": "pubmed:42829417",
+    "title": "Proton Pump Inhibitor Co-prescription, Dabigatran Use, and Ischaemic Stroke or Transient Ischaemic Attack in Atrial Fibrillation: A Population-Based Case-Control Study.",
+    "collection_key": "KFGR6AVK",
+    "condition_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "created_verified",
+    "evidence_id": "E051",
+    "zotero_key": "EF2KTAHS",
+    "date_added": "2026-10-04T20:34:49Z",
+    "date_modified": "2026-10-04T20:34:49Z",
+    "zotero_version": 287,
+    "source_unavailable_fields": [
+      "volume",
+      "issue",
+      "pages",
+      "PMCID"
+    ]
+  },
+  {
     "candidate_id": "pubmed:42725169",
     "title": "Kidney Donation After Circulatory Death Is Associated With Sustained Graft Function, Comparable Graft, and Patient Survival.",
     "collection_key": "KFGR6AVK",
@@ -66,29 +93,8 @@
     "zotero_key": "SQW7NPFB",
     "evidence_id": "E042",
     "source_unavailable_fields": [],
-    "status": "metadata_updated_verified",
-    "changed_fields": [
-      "ISSN",
-      "PMCID",
-      "PMID",
-      "accessDate",
-      "creators",
-      "date",
-      "extra",
-      "issue",
-      "journalAbbreviation",
-      "language",
-      "libraryCatalog",
-      "pages",
-      "publicationTitle",
-      "rights",
-      "tags",
-      "volume"
-    ],
-    "previous_date_modified": "2026-10-01T23:39:31Z",
-    "date_added": "2026-10-01T23:39:31Z",
-    "date_modified": "2026-10-02T02:38:06Z",
-    "zotero_version": 278
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42686207",
@@ -121,6 +127,28 @@
     "reason": "Neurological study focus requires review"
   },
   {
+    "candidate_id": "pubmed:42824915",
+    "title": "Stroke reperfusion in Aotearoa New Zealand: 5-year trends and a comparison of stroke clot retrieval and non-stroke clot retrieval centre presenters.",
+    "collection_key": "KFGR6AVK",
+    "condition_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "created_verified",
+    "evidence_id": "E052",
+    "zotero_key": "ZPAJCGAS",
+    "date_added": "2026-10-04T20:34:50Z",
+    "date_modified": "2026-10-04T20:34:50Z",
+    "zotero_version": 288,
+    "source_unavailable_fields": []
+  },
+  {
     "candidate_id": "pubmed:42806265",
     "title": "Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets.",
     "collection_key": "KFGR6AVK",
@@ -137,23 +165,8 @@
       "pages",
       "PMCID"
     ],
-    "status": "metadata_updated_verified",
-    "changed_fields": [
-      "ISSN",
-      "PMID",
-      "accessDate",
-      "creators",
-      "date",
-      "journalAbbreviation",
-      "language",
-      "libraryCatalog",
-      "publicationTitle",
-      "rights"
-    ],
-    "previous_date_modified": "2026-10-01T23:39:31Z",
-    "date_added": "2026-10-01T23:39:31Z",
-    "date_modified": "2026-10-02T02:38:07Z",
-    "zotero_version": 279
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42784819",
@@ -203,28 +216,8 @@
     "source_unavailable_fields": [
       "PMCID"
     ],
-    "status": "metadata_updated_verified",
-    "changed_fields": [
-      "ISSN",
-      "PMID",
-      "accessDate",
-      "creators",
-      "date",
-      "extra",
-      "issue",
-      "journalAbbreviation",
-      "language",
-      "libraryCatalog",
-      "pages",
-      "publicationTitle",
-      "rights",
-      "tags",
-      "volume"
-    ],
-    "previous_date_modified": "2026-10-01T23:39:32Z",
-    "date_added": "2026-10-01T23:39:32Z",
-    "date_modified": "2026-10-02T02:38:08Z",
-    "zotero_version": 280
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42800307",
@@ -260,25 +253,8 @@
       "pages",
       "PMCID"
     ],
-    "status": "metadata_updated_verified",
-    "changed_fields": [
-      "ISSN",
-      "PMID",
-      "accessDate",
-      "creators",
-      "date",
-      "extra",
-      "journalAbbreviation",
-      "language",
-      "libraryCatalog",
-      "publicationTitle",
-      "rights",
-      "tags"
-    ],
-    "previous_date_modified": "2026-10-01T23:39:32Z",
-    "date_added": "2026-10-01T23:39:32Z",
-    "date_modified": "2026-10-02T02:38:09Z",
-    "zotero_version": 281
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42704410",
@@ -304,25 +280,8 @@
       "pages",
       "PMCID"
     ],
-    "status": "metadata_updated_verified",
-    "changed_fields": [
-      "ISSN",
-      "PMID",
-      "accessDate",
-      "creators",
-      "date",
-      "extra",
-      "journalAbbreviation",
-      "language",
-      "libraryCatalog",
-      "publicationTitle",
-      "rights",
-      "tags"
-    ],
-    "previous_date_modified": "2026-10-01T23:39:33Z",
-    "date_added": "2026-10-01T23:39:33Z",
-    "date_modified": "2026-10-02T02:38:11Z",
-    "zotero_version": 282
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42704249",
@@ -347,26 +306,8 @@
       "issue",
       "pages"
     ],
-    "status": "metadata_updated_verified",
-    "changed_fields": [
-      "ISSN",
-      "PMCID",
-      "PMID",
-      "accessDate",
-      "creators",
-      "date",
-      "extra",
-      "journalAbbreviation",
-      "language",
-      "libraryCatalog",
-      "publicationTitle",
-      "rights",
-      "tags"
-    ],
-    "previous_date_modified": "2026-10-01T23:39:33Z",
-    "date_added": "2026-10-01T23:39:33Z",
-    "date_modified": "2026-10-02T02:38:12Z",
-    "zotero_version": 283
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42698334",
@@ -392,25 +333,8 @@
       "PMCID",
       "rights"
     ],
-    "status": "metadata_updated_verified",
-    "changed_fields": [
-      "ISSN",
-      "PMID",
-      "accessDate",
-      "creators",
-      "date",
-      "extra",
-      "journalAbbreviation",
-      "language",
-      "libraryCatalog",
-      "pages",
-      "publicationTitle",
-      "tags"
-    ],
-    "previous_date_modified": "2026-10-01T23:39:34Z",
-    "date_added": "2026-10-01T23:39:34Z",
-    "date_modified": "2026-10-02T02:38:13Z",
-    "zotero_version": 284
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42697710",
@@ -436,25 +360,8 @@
       "pages",
       "PMCID"
     ],
-    "status": "metadata_updated_verified",
-    "changed_fields": [
-      "ISSN",
-      "PMID",
-      "accessDate",
-      "creators",
-      "date",
-      "extra",
-      "journalAbbreviation",
-      "language",
-      "libraryCatalog",
-      "publicationTitle",
-      "rights",
-      "tags"
-    ],
-    "previous_date_modified": "2026-10-01T23:39:35Z",
-    "date_added": "2026-10-01T23:39:35Z",
-    "date_modified": "2026-10-02T02:38:15Z",
-    "zotero_version": 285
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42707892",
@@ -475,39 +382,8 @@
     "zotero_key": "Z7UKKAU5",
     "evidence_id": "E050",
     "source_unavailable_fields": [],
-    "status": "metadata_updated_verified",
-    "changed_fields": [
-      "ISSN",
-      "PMCID",
-      "PMID",
-      "accessDate",
-      "creators",
-      "date",
-      "extra",
-      "issue",
-      "journalAbbreviation",
-      "language",
-      "libraryCatalog",
-      "pages",
-      "publicationTitle",
-      "rights",
-      "tags",
-      "volume"
-    ],
-    "previous_date_modified": "2026-10-01T23:39:35Z",
-    "date_added": "2026-10-01T23:39:35Z",
-    "date_modified": "2026-10-02T02:38:16Z",
-    "zotero_version": 286
-  },
-  {
-    "candidate_id": "pubmed:42608334",
-    "title": "Beyond the protocol: navigating ethics and governance in the multicentre implementation trials - the QASC Australasia and T3 Trials.",
-    "collection_key": "KFGR6AVK",
-    "condition_matches": [],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "review",
-    "reason": "Neurological study focus requires review"
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "",

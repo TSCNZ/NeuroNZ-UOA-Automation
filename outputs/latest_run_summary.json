@@ -1,15 +1,15 @@
 {
-  "started_at": "2026-10-02T02:37:50.433140+00:00",
+  "started_at": "2026-10-04T20:34:29.775356+00:00",
   "status": "completed_with_review",
-  "github_run_id": "36956506481",
-  "unresolved_gap_records": 270,
-  "finished_at": "2026-10-02T02:39:52.820503+00:00",
+  "github_run_id": "37232615734",
+  "unresolved_gap_records": 272,
+  "finished_at": "2026-10-04T20:36:37.823535+00:00",
   "mode": "validated_evidence_import",
   "zotero_updates": {
-    "created_verified": 0,
-    "metadata_updated_verified": 9,
-    "duplicates": 1,
-    "review": 14,
+    "created_verified": 2,
+    "metadata_updated_verified": 0,
+    "duplicates": 10,
+    "review": 13,
     "manifest": "outputs/zotero_update_manifest.json"
   },
   "zotero_library_type": "groups",
@@ -27,8 +27,8 @@
       "collection_type": "evidence",
       "collection_name": "02 Evidence Log",
       "collection_key": "PA2ESN45",
-      "items_fetched": 112,
-      "records_with_stable_id": 112
+      "items_fetched": 114,
+      "records_with_stable_id": 114
     },
     {
       "collection_type": "taxonomy",
@@ -41,9 +41,9 @@
   "quality": {
     "blocker_count": 2,
     "review_count": 38,
-    "review_queue_count": 324,
+    "review_queue_count": 325,
     "source_monitor_count": 18,
-    "candidate_record_count": 24,
+    "candidate_record_count": 25,
     "catalogue_link_checks": 79
   },
   "outputs": [

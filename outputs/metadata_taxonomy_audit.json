@@ -960,6 +960,46 @@
     "date_modified": "2026-08-28T03:14:34Z"
   },
   {
+    "zotero_key": "ZPAJCGAS",
+    "kind": "evidence",
+    "title": "Stroke reperfusion in Aotearoa New Zealand: 5-year trends and a comparison of stroke clot retrieval and non-stroke clot retrieval centre presenters.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-04T20:34:50Z"
+  },
+  {
+    "zotero_key": "EF2KTAHS",
+    "kind": "evidence",
+    "title": "Proton Pump Inhibitor Co-prescription, Dabigatran Use, and Ischaemic Stroke or Transient Ischaemic Attack in Atrial Fibrillation: A Population-Based Case-Control Study.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-04T20:34:49Z"
+  },
+  {
     "zotero_key": "Z7UKKAU5",
     "kind": "evidence",
     "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",

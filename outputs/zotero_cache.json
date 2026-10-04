@@ -4348,6 +4348,168 @@
   ],
   "evidence": [
     {
+      "stable_id": "E052",
+      "zotero_key": "ZPAJCGAS",
+      "zotero_version": 288,
+      "title": "Stroke reperfusion in Aotearoa New Zealand: 5-year trends and a comparison of stroke clot retrieval and non-stroke clot retrieval centre presenters.",
+      "summary": "Intravenous thrombolysis (IVT) and stroke clot retrieval (SCR) are effective stroke reperfusion treatments with historical underuse and reported access disparities.\nThis study describes trends in stroke reperfusion treatment between 2020 and 2024 in New Zealand and compares outcomes between patients first presenting to SCR and non-SCR centres.\nThis observational registry-study uses data from the National Stroke Register for patients receiving reperfusion therapy. Outcomes include treatment rates, time delays, mortality and complications.\nIn 2020, 1021 of 7333 (13.9%) patients who had an ischaemic stroke had reperfusion therapy, increasing to 1237 of 6867 (18.0%) in 2024 (p<0.001). The greatest increases in therapy rates were among non-SCR centre first presenters. IVT rates increased from 11.2% in 2020 to 12.4% in 2024 (p=0.038), with reduced rates of symptomatic intracranial haemorrhage (3.2% to 1.5%; p=0.0272) and day-7 mortality (8.5% to 5.6%; p<0.001). SCR rates increased from 5.3% in 2020 to 9.7% in 2024 (p<0.001), with no change in patient outcomes. Between 2020 and 2024, national median door-to-needle time increased from 60 to 74 min (p<0.001). Patients first presenting to SCR centres were more likely to be treated with IVT within 60 min (48.4% vs 31.7%; p<0.001; adjusted OR of 2.8 (95% CI 2.0 to 4.0)).\nNew Zealand stroke reperfusion therapy rates are rising, especially at non-SCR centres, and outcomes following IVT are improving. IVT treatment delays are worsening suggesting more resources are needed to maintain workflow efficiencies as case complexity is rising.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42824915/",
+      "doi": "10.1136/bmjno-2026-001704",
+      "pmid": "42824915",
+      "item_type": "journalArticle",
+      "date": "2026",
+      "tags": [
+        "nzneuro:condition:NC-072",
+        "nzneuro:phase2",
+        "type:evidence"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E052",
+        "PMID": "42824915",
+        "Source candidate ID": "pubmed:42824915",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42824915/",
+        "NeuroNZ Condition IDs": "NC-072"
+      },
+      "bibliography": {
+        "publicationTitle": "BMJ neurology open",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Morgan",
+            "lastName": "Lam"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Alicia Ls",
+            "lastName": "Tyson"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Martin N",
+            "lastName": "Punter"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "P Alan",
+            "lastName": "Barber"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Matthew Cl",
+            "lastName": "Phillips"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Teddy",
+            "lastName": "Wu"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "John",
+            "lastName": "Fink"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Anne",
+            "lastName": "Ranta"
+          }
+        ],
+        "date": "2026",
+        "volume": "8",
+        "issue": "2",
+        "pages": "e001704",
+        "ISSN": "2632-6140",
+        "DOI": "10.1136/bmjno-2026-001704",
+        "journalAbbreviation": "BMJ Neurol Open",
+        "language": "eng",
+        "PMID": "42824915",
+        "PMCID": "PMC13630056",
+        "rights": "Copyright © Author(s) (or their employer(s)) 2026. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ Group.",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-04T20:34:39Z"
+      },
+      "date_added": "2026-10-04T20:34:50Z",
+      "date_modified": "2026-10-04T20:34:50Z",
+      "condition_ids": [
+        "NC-072"
+      ]
+    },
+    {
+      "stable_id": "E051",
+      "zotero_key": "EF2KTAHS",
+      "zotero_version": 287,
+      "title": "Proton Pump Inhibitor Co-prescription, Dabigatran Use, and Ischaemic Stroke or Transient Ischaemic Attack in Atrial Fibrillation: A Population-Based Case-Control Study.",
+      "summary": "Proton pump inhibitors (PPIs) reduce gastric acidity and lower dabigatran plasma concentrations, raising concern about a clinically relevant drug-drug interaction. We examined whether PPI co-prescription modified the association between dabigatran use and atrial fibrillation (AF)-associated ischaemic stroke (IS) or transient ischaemic attack (TIA).\nWe conducted a population-based case-control study of adults with AF in Auckland, New Zealand. Cases were patients with adjudicated IS/TIA between September 2020 and August 2021 identified from the fifth Auckland Regional Community Stroke Study, which uses multiple overlapping ascertainment sources and independent clinical adjudication. Controls were patients with AF from the same source population who remained free of IS/TIA during the surveillance period, sampled from the Ministry of Health National Minimum Dataset. Individual-level demographics, comorbidities and medication exposures were obtained from electronic clinical records and dispensing data. Multivariable logistic regression included dabigatran use, PPI use and their interaction term, with adjustment for pre-specified clinical covariates.\nThe analytic sample comprised 300 IS/TIA cases and 1,608 controls. Dabigatran use was associated with lower odds of IS/TIA (adjusted odds ratio [aOR] 0.36 [95%CI 0.24-0.53]). PPI use was associated with higher odds of IS/TIA (aOR 1.55 [95%CI 1.08-2.24]), but this association is likely subject to residual confounding and should not be interpreted as causal. The dabigatran × PPI interaction was not statistically significant (aOR 0.98 [95%CI 0.57-1.69]; p = 0.94).\nWe found no evidence of a large dabigatran-specific interaction with PPI co-prescription. These findings do not support a major clinically important attenuation of dabigatran's association with lower odds of AF-associated IS/TIA, although modest effect modification cannot be excluded. Generalisability to lower-risk primary-care AF populations and healthcare systems with different patient characteristics may be limited.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42829417/",
+      "doi": "10.1007/s40261-026-01600-9",
+      "pmid": "42829417",
+      "item_type": "journalArticle",
+      "date": "2026-Oct-03",
+      "tags": [
+        "nzneuro:condition:NC-072",
+        "nzneuro:phase2",
+        "type:evidence"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E051",
+        "PMID": "42829417",
+        "Source candidate ID": "pubmed:42829417",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42829417/",
+        "NeuroNZ Condition IDs": "NC-072"
+      },
+      "bibliography": {
+        "publicationTitle": "Clinical drug investigation",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Karim M",
+            "lastName": "Mahawish"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Valery",
+            "lastName": "Feigin"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Harvey",
+            "lastName": "White"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Rita",
+            "lastName": "Krishnamurthi"
+          }
+        ],
+        "date": "2026-Oct-03",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "ISSN": "1179-1918",
+        "DOI": "10.1007/s40261-026-01600-9",
+        "journalAbbreviation": "Clin Drug Investig",
+        "language": "eng",
+        "PMID": "42829417",
+        "PMCID": "",
+        "rights": "© 2026. The Author(s).",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-04T20:34:39Z"
+      },
+      "date_added": "2026-10-04T20:34:49Z",
+      "date_modified": "2026-10-04T20:34:49Z",
+      "condition_ids": [
+        "NC-072"
+      ]
+    },
+    {
       "stable_id": "E050",
       "zotero_key": "Z7UKKAU5",
       "zotero_version": 286,
