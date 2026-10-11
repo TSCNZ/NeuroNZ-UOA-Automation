@@ -4348,6 +4348,62 @@
   ],
   "evidence": [
     {
+      "stable_id": "E053",
+      "zotero_key": "FR9855V9",
+      "zotero_version": 289,
+      "title": "Preventing Fatal Stroke: The Hidden Survival Benefit of Left Atrial Appendage Occlusion in Cardiac Surgery.",
+      "summary": "Atrial fibrillation (AF) affects a greater proportion of cardiac surgery patients than previously appreciated, with pre-operative AF prevalence in Australia and New Zealand recently documented at 14.99%, substantially higher than prior international estimates of 5% to 11%. Both the European Society of Cardiology/European Association of Cardio-Thoracic Surgery (ESC/EACTS) and the Society of Thoracic Surgeons (STS) have now upgraded left atrial appendage occlusion (LAAO) to a Class Ia recommendation for all AF patients undergoing cardiac surgery, based principally on the Left Atrial Appendage Occlusion Study III (LAAOS III); a multicentre randomized trial demonstrating a 33% relative risk reduction in ischemic stroke or systemic embolism with concomitant LAAO (risk ratio 0.66; 95% confidence interval 0.52 to 0.84). Despite these strong guideline endorsements, real-world implementation is critically deficient: in Australia and New Zealand, 77.63% of AF patients undergoing cardiac surgery received no LAA treatment. Critically, ∼21% of all strokes in LAAOS III were fatal, signalling that the stroke reduction LAAO produced, likely prevented fatal stroke. This hidden survival benefit is implied but not explored in the existing data, awaiting only a mortality-powered trial for formal confirmation. The literature to date actively examines stroke prevention and all-cause mortality, yet LAAO fatal stroke prevention is an unreported, and important independent outcome. This review synthesizes the epidemiology, pathophysiology, and trial evidence for LAAO,and appraises the guideline landscape and global implementation gap. In conclusion, LAAO does not merely prevent neurological events; it prevents fatalstrokes.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42843495/",
+      "doi": "10.1016/j.amjcard.2026.10.007",
+      "pmid": "42843495",
+      "item_type": "journalArticle",
+      "date": "2026-Oct-07",
+      "tags": [
+        "nzneuro:condition:NC-072",
+        "nzneuro:phase2",
+        "type:evidence"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E053",
+        "PMID": "42843495",
+        "Source candidate ID": "pubmed:42843495",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42843495/",
+        "NeuroNZ Condition IDs": "NC-072"
+      },
+      "bibliography": {
+        "publicationTitle": "The American journal of cardiology",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Frazer",
+            "lastName": "Kirk"
+          }
+        ],
+        "date": "2026-Oct-07",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "ISSN": "1879-1913",
+        "DOI": "10.1016/j.amjcard.2026.10.007",
+        "journalAbbreviation": "Am J Cardiol",
+        "language": "eng",
+        "PMID": "42843495",
+        "PMCID": "",
+        "rights": "Copyright © 2026. Published by Elsevier Inc.",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-11T21:09:22Z"
+      },
+      "date_added": "2026-10-11T21:09:31Z",
+      "date_modified": "2026-10-11T21:09:31Z",
+      "condition_ids": [
+        "NC-072"
+      ]
+    },
+    {
       "stable_id": "E052",
       "zotero_key": "ZPAJCGAS",
       "zotero_version": 288,

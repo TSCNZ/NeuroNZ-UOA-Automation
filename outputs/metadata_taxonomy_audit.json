@@ -960,6 +960,26 @@
     "date_modified": "2026-08-28T03:14:34Z"
   },
   {
+    "zotero_key": "FR9855V9",
+    "kind": "evidence",
+    "title": "Preventing Fatal Stroke: The Hidden Survival Benefit of Left Atrial Appendage Occlusion in Cardiac Surgery.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-11T21:09:31Z"
+  },
+  {
     "zotero_key": "ZPAJCGAS",
     "kind": "evidence",
     "title": "Stroke reperfusion in Aotearoa New Zealand: 5-year trends and a comparison of stroke clot retrieval and non-stroke clot retrieval centre presenters.",

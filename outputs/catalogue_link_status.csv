@@ -74,7 +74,7 @@ NZNEURO-072,National Stroke Reperfusion Register,https://doi.org/10.1111/imj.163
 NZNEURO-073,EpiNet database / NZ SUDEP sub-registry,https://www.epinet.co.nz/,http_error,403,Forbidden,GET
 NZNEURO-074,MSBase NZ,https://www.msbase.org/,ok,200,,HEAD
 NZNEURO-075,NZ Congenital Anomalies Monitoring Program (duplicate/recategorisation candidate),https://www.icbdsr.org/,ok,200,,HEAD
-NZNEURO-076,Global Health Data Exchange (GHDx) - NZ records,https://ghdx.healthdata.org/geography/new-zealand,ok,200,,HEAD
+NZNEURO-076,Global Health Data Exchange (GHDx) - NZ records,https://ghdx.healthdata.org/geography/new-zealand,timeout,,Timed out after 20s,HEAD
 NZNEURO-077,Atlas of MS,https://atlasofms.org/,ok,200,,HEAD
 NZNEURO-078,WHO Mortality Database - NZ submission,https://platform.who.int/mortality/countries/country-details/MDB/new-zealand,ok,200,,HEAD
 NZNEURO-079,Health at a Glance (OECD Indicators) - NZ profile,https://www.oecd.org/en/publications/health-at-a-glance-2025_15a55280-en/new-zealand_2154f240-en.html,http_error,403,Forbidden,GET

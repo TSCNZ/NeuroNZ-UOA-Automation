@@ -38,8 +38,8 @@
     "reason": "Animal breed match does not establish NZ relevance"
   },
   {
-    "candidate_id": "pubmed:42829417",
-    "title": "Proton Pump Inhibitor Co-prescription, Dabigatran Use, and Ischaemic Stroke or Transient Ischaemic Attack in Atrial Fibrillation: A Population-Based Case-Control Study.",
+    "candidate_id": "pubmed:42843495",
+    "title": "Preventing Fatal Stroke: The Hidden Survival Benefit of Left Atrial Appendage Occlusion in Cardiac Surgery.",
     "collection_key": "KFGR6AVK",
     "condition_matches": [
       {
@@ -52,17 +52,44 @@
     "relationship_status": "catalogue linkage pending review",
     "duplicate_zotero_keys": [],
     "status": "created_verified",
-    "evidence_id": "E051",
-    "zotero_key": "EF2KTAHS",
-    "date_added": "2026-10-04T20:34:49Z",
-    "date_modified": "2026-10-04T20:34:49Z",
-    "zotero_version": 287,
+    "evidence_id": "E053",
+    "zotero_key": "FR9855V9",
+    "date_added": "2026-10-11T21:09:31Z",
+    "date_modified": "2026-10-11T21:09:31Z",
+    "zotero_version": 289,
     "source_unavailable_fields": [
       "volume",
       "issue",
       "pages",
       "PMCID"
     ]
+  },
+  {
+    "candidate_id": "pubmed:42829417",
+    "title": "Proton Pump Inhibitor Co-prescription, Dabigatran Use, and Ischaemic Stroke or Transient Ischaemic Attack in Atrial Fibrillation: A Population-Based Case-Control Study.",
+    "collection_key": "KFGR6AVK",
+    "condition_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [
+      "EF2KTAHS"
+    ],
+    "zotero_key": "EF2KTAHS",
+    "evidence_id": "E051",
+    "source_unavailable_fields": [
+      "volume",
+      "issue",
+      "pages",
+      "PMCID"
+    ],
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42725169",
@@ -117,6 +144,16 @@
     "reason": "Neurological study focus requires review"
   },
   {
+    "candidate_id": "pubmed:42507461",
+    "title": "Erythropoietin for Neonatal Hypoxic-Ischemic Encephalopathy: A Randomized Clinical Trial.",
+    "collection_key": "KFGR6AVK",
+    "condition_matches": [],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "review",
+    "reason": "Neurological study focus requires review"
+  },
+  {
     "candidate_id": "pubmed:41368923",
     "title": "An international survey of research capacity and culture in speech-language pathology: Preliminary findings.",
     "collection_key": "KFGR6AVK",
@@ -139,14 +176,14 @@
       }
     ],
     "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "created_verified",
-    "evidence_id": "E052",
+    "duplicate_zotero_keys": [
+      "ZPAJCGAS"
+    ],
     "zotero_key": "ZPAJCGAS",
-    "date_added": "2026-10-04T20:34:50Z",
-    "date_modified": "2026-10-04T20:34:50Z",
-    "zotero_version": 288,
-    "source_unavailable_fields": []
+    "evidence_id": "E052",
+    "source_unavailable_fields": [],
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42806265",
@@ -310,8 +347,8 @@
     "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
-    "candidate_id": "pubmed:42698334",
-    "title": "Stroke clinical documentation education program in Australia and New Zealand.",
+    "candidate_id": "pubmed:42707892",
+    "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",
     "collection_key": "KFGR6AVK",
     "condition_matches": [
       {
@@ -323,16 +360,11 @@
     ],
     "relationship_status": "catalogue linkage pending review",
     "duplicate_zotero_keys": [
-      "D683AFXG"
+      "Z7UKKAU5"
     ],
-    "zotero_key": "D683AFXG",
-    "evidence_id": "E048",
-    "source_unavailable_fields": [
-      "volume",
-      "issue",
-      "PMCID",
-      "rights"
-    ],
+    "zotero_key": "Z7UKKAU5",
+    "evidence_id": "E050",
+    "source_unavailable_fields": [],
     "status": "duplicate",
     "reason": "Existing DOI, PMID, URL, or title in group library"
   },
@@ -364,8 +396,8 @@
     "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
-    "candidate_id": "pubmed:42707892",
-    "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",
+    "candidate_id": "pubmed:42698334",
+    "title": "Stroke clinical documentation education program in Australia and New Zealand.",
     "collection_key": "KFGR6AVK",
     "condition_matches": [
       {
@@ -377,11 +409,16 @@
     ],
     "relationship_status": "catalogue linkage pending review",
     "duplicate_zotero_keys": [
-      "Z7UKKAU5"
+      "D683AFXG"
     ],
-    "zotero_key": "Z7UKKAU5",
-    "evidence_id": "E050",
-    "source_unavailable_fields": [],
+    "zotero_key": "D683AFXG",
+    "evidence_id": "E048",
+    "source_unavailable_fields": [
+      "volume",
+      "issue",
+      "PMCID",
+      "rights"
+    ],
     "status": "duplicate",
     "reason": "Existing DOI, PMID, URL, or title in group library"
   },
