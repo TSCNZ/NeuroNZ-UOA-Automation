@@ -24,11 +24,11 @@ The pipeline should update the collection safely, but it should not publish low-
 
 | Asset | Current status |
 |---|---|
-| Zotero selected collection | `NeuroNZ_Shared_Collection`, key `PA2ESN45`, in NZ Neuro Data Catalogue |
-| Zotero group library ID | `6643086` |
-| Catalogue sources | `WP3UEC3K`, 79 items observed on 2 October 2026 |
-| Evidence log | `KFGR6AVK`, 102 items observed on 2 October 2026 |
-| Condition taxonomy | `8PK2SCDR`, 79 items observed on 2 October 2026 |
+| Zotero selected collection | `NeuroNZ_Shared_Collection`, key `25TARGNW`, in NZ Neuro Data Catalogue |
+| Zotero group library ID | `6708514` |
+| Catalogue sources | `F8S78I8W`, 79 items observed on 13 October 2026; key discovered at runtime |
+| Evidence log | `XBQFC75N`, 115 items observed on 13 October 2026; key discovered at runtime |
+| Condition taxonomy | `UUGD8797`, 79 items observed on 13 October 2026; key discovered at runtime |
 | Excluded sources | Descendant collections named `04 Excluded Sources` are skipped |
 | Local cleaned workbook | `NZ_Neuro_Data_Catalogue_Phase1A_Clean.xlsx` |
 | Clean catalogue export | `NeuroNZ-Phase1-Collection/catalogue_phase1_clean.csv` |

@@ -26,11 +26,11 @@ flowchart TD
 
 Zotero remains the primary integration source for WordPress.
 
-Current tested endpoints:
+Configured endpoints:
 
 ```text
-GET https://api.zotero.org/groups/6643086/collections/PA2ESN45/items?format=json&include=data
-GET https://api.zotero.org/groups/6643086/collections/PA2ESN45/collections?format=json
+GET https://api.zotero.org/groups/6708514/collections/25TARGNW/items?format=json&include=data
+GET https://api.zotero.org/groups/6708514/collections/25TARGNW/collections?format=json
 ```
 
 Automation reads the selected collection and descendants, deduplicates item keys, and classifies records by stable IDs in `data.extra`:

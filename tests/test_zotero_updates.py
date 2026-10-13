@@ -48,13 +48,13 @@ class ZoteroUpdateTests(unittest.TestCase):
 
     def client(self):
         client = Mock()
-        client.fetch_child_collections.return_value = [{"key": "KFGR6AVK", "data": {"name": "02 Evidence Log"}}]
+        client.fetch_child_collections.return_value = [{"key": "XBQFC75N", "data": {"name": "02 Evidence Log"}}]
         client.fetch_library_items.return_value = [{"data": {"extra": "NeuroNZ Evidence ID: E102"}}]
         client.create_item.return_value = {"key": "NEWKEY"}
         client.fetch_item.return_value = {"key": "NEWKEY", "version": 2, "data": {
             **json.loads(candidate()["bibliography"]),
             "title": "Stroke outcomes in New Zealand", "url": "https://pubmed.ncbi.nlm.nih.gov/12345/",
-            "collections": ["KFGR6AVK"], "extra": "NeuroNZ Evidence ID: E103",
+            "collections": ["XBQFC75N"], "extra": "NeuroNZ Evidence ID: E103",
             "dateAdded": "2026-10-02T00:00:00Z", "dateModified": "2026-10-02T00:00:00Z"}}
         return client
 
