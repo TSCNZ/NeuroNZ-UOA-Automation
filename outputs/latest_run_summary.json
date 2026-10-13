@@ -1,39 +1,39 @@
 {
-  "started_at": "2026-10-11T21:09:13.963477+00:00",
+  "started_at": "2026-10-13T03:29:13.458764+00:00",
   "status": "completed_with_review",
-  "github_run_id": "38175164801",
+  "github_run_id": "38341918486",
   "unresolved_gap_records": 273,
-  "finished_at": "2026-10-11T21:11:44.444603+00:00",
+  "finished_at": "2026-10-13T03:32:11.419493+00:00",
   "mode": "validated_evidence_import",
   "zotero_updates": {
-    "created_verified": 1,
+    "created_verified": 0,
     "metadata_updated_verified": 0,
-    "duplicates": 12,
+    "duplicates": 13,
     "review": 14,
     "manifest": "outputs/zotero_update_manifest.json"
   },
   "zotero_library_type": "groups",
-  "zotero_library_id": "6643086",
-  "zotero_collection_key": "PA2ESN45",
+  "zotero_library_id": "6708514",
+  "zotero_collection_key": "25TARGNW",
   "collections": [
     {
       "collection_type": "catalogue",
       "collection_name": "01 Catalogue Sources",
-      "collection_key": "PA2ESN45",
+      "collection_key": "25TARGNW",
       "items_fetched": 79,
       "records_with_stable_id": 79
     },
     {
       "collection_type": "evidence",
       "collection_name": "02 Evidence Log",
-      "collection_key": "PA2ESN45",
+      "collection_key": "25TARGNW",
       "items_fetched": 115,
       "records_with_stable_id": 115
     },
     {
       "collection_type": "taxonomy",
       "collection_name": "03 Condition Taxonomy",
-      "collection_key": "PA2ESN45",
+      "collection_key": "25TARGNW",
       "items_fetched": 79,
       "records_with_stable_id": 79
     }
