@@ -2,6 +2,14 @@ name: Phase 2 NeuroNZ automation
 
 on:
   workflow_dispatch:
+    inputs:
+      operation:
+        description: "Refresh data or organise the eight catalogue source-type folders"
+        type: choice
+        default: refresh
+        options:
+          - refresh
+          - organise
   schedule:
     - cron: "0 18 * * 0"
 
@@ -32,7 +40,13 @@ jobs:
       - name: Run tests
         run: python -m unittest discover -s tests -p "test_*.py"
 
+      - name: Organise catalogue source-type folders
+        if: inputs.operation == 'organise'
+        run: python -m neuronz_automation.organise_catalogue
+
       - name: Import validated evidence into Zotero and refresh reports
+        env:
+          ZOTERO_WRITE_ENABLED: ${{ inputs.operation == 'organise' && 'false' || 'true' }}
         run: python -m neuronz_automation.run_phase2
 
       - name: Upload automation outputs

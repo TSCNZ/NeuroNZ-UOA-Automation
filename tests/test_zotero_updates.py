@@ -6,6 +6,7 @@ from pathlib import Path
 from unittest.mock import Mock
 
 from neuronz_automation.zotero_updates import relevance_issue, update_candidates, verify_fields
+from neuronz_automation.catalogue_types import PUBLICATIONS, PUBLICATION_TAGS
 
 
 def candidate():
@@ -27,7 +28,6 @@ class ZoteroUpdateTests(unittest.TestCase):
     def test_dataset_import_writes_to_catalogue_and_verifies_condition(self):
         client = self.client()
         client.fetch_child_collections.return_value += [
-            {"key": "CAT", "data": {"name": "01 Catalogue Sources"}},
             {"key": "TAX", "data": {"name": "03 Condition Taxonomy"}}]
         client.fetch_library_items.return_value += [{"key": "STROKE", "data": {
             "title": "Stroke", "collections": ["TAX"], "extra": "NeuroNZ Condition ID: NC-072"}}]
@@ -48,13 +48,20 @@ class ZoteroUpdateTests(unittest.TestCase):
 
     def client(self):
         client = Mock()
-        client.fetch_child_collections.return_value = [{"key": "XBQFC75N", "data": {"name": "02 Evidence Log"}}]
+        client.fetch_child_collections.return_value = [
+            {"key": "XBQFC75N", "data": {"name": "02 Evidence Log"}},
+            {"key": "CAT", "data": {"name": "01 Catalogue Sources"}}]
+        client.fetch_child_collections.side_effect = lambda key: (
+            [{"key": "PUB", "data": {"name": PUBLICATIONS}}] if key == "CAT"
+            else client.fetch_child_collections.return_value)
         client.fetch_library_items.return_value = [{"data": {"extra": "NeuroNZ Evidence ID: E102"}}]
         client.create_item.return_value = {"key": "NEWKEY"}
         client.fetch_item.return_value = {"key": "NEWKEY", "version": 2, "data": {
             **json.loads(candidate()["bibliography"]),
             "title": "Stroke outcomes in New Zealand", "url": "https://pubmed.ncbi.nlm.nih.gov/12345/",
-            "collections": ["XBQFC75N"], "extra": "NeuroNZ Evidence ID: E103",
+            "collections": ["XBQFC75N", "PUB"], "extra": "NeuroNZ Evidence ID: E103",
+            "tags": [{"tag": tag} for tag in ("nzneuro:phase2", "type:evidence",
+                     f"source-type:{PUBLICATIONS}", *PUBLICATION_TAGS)],
             "dateAdded": "2026-10-02T00:00:00Z", "dateModified": "2026-10-02T00:00:00Z"}}
         return client
 
@@ -71,7 +78,7 @@ class ZoteroUpdateTests(unittest.TestCase):
     def test_repair_missing_fields_preserves_curated_values_and_is_idempotent(self):
         client = self.client()
         current = deepcopy(client.fetch_item.return_value)
-        current["data"].update(itemType="journalArticle", tags=[{"tag": "nzneuro:phase2"}],
+        current["data"].update(itemType="journalArticle",
                                extra="NeuroNZ Evidence ID: E103\nPMID: 12345", date="2025", publicationTitle="")
         del current["data"]["creators"]
         repaired = deepcopy(current)
@@ -103,6 +110,18 @@ class ZoteroUpdateTests(unittest.TestCase):
         self.assertEqual(rows[0]["evidence_id"], "E103")
         self.assertEqual(rows[0]["date_modified"], "2026-10-02T00:00:00Z")
         client.create_item.assert_called_once()
+        created = client.create_item.call_args.args[0]
+        self.assertEqual(created["collections"], ["XBQFC75N", "PUB"])
+        self.assertIn({"tag": "source:pubmed"}, created["tags"])
+
+    def test_missing_publication_folder_blocks_import_before_write(self):
+        client = self.client()
+        client.fetch_child_collections.side_effect = lambda key: (
+            [] if key == "CAT" else client.fetch_child_collections.return_value)
+        with tempfile.TemporaryDirectory() as directory:
+            with self.assertRaisesRegex(RuntimeError, "Published Research"):
+                update_candidates(client, [candidate()], Path(directory))
+        client.create_item.assert_not_called()
 
     def test_existing_doi_skips_write(self):
         client = self.client()

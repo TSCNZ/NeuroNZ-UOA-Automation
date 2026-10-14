@@ -16,6 +16,7 @@ from .source_monitor import check_url, monitor_registered_sources
 from .zotero_client import ZoteroClient
 from .zotero_updates import update_candidates
 from .taxonomy import audit_items
+from .source_type_reports import source_type_reports
 
 
 def normalise_zotero_item(item: dict[str, Any], stable_id_field: str) -> dict[str, Any]:
@@ -95,6 +96,7 @@ def partition_items(items: list[dict[str, Any]]) -> dict[str, list[dict[str, Any
 def run() -> None:
     started_at = datetime.now(timezone.utc).isoformat()
     output_dir = Path(OUTPUT_DIR)
+    previous_cache = read_json(output_dir / "zotero_cache.json", {})
     api_key = os.environ.get("ZOTERO_API_KEY")
     if not api_key:
         raise SystemExit(
@@ -173,6 +175,11 @@ def run() -> None:
         for record in catalogue_records
     ]
 
+    inventory, source_changes, publication_changes = source_type_reports(previous_cache, cache)
+    write_json(output_dir / "source_type_inventory.json", inventory)
+    change_fields = ["zotero_key", "stable_id", "source_type", "title", "change_status", "changed_fields"]
+    write_csv(output_dir / "catalogue_source_changes.csv", source_changes, change_fields)
+    write_csv(output_dir / "publication_changes.csv", publication_changes, change_fields)
     write_json(output_dir / "zotero_cache.json", cache)
     write_json(output_dir / "wordpress_neuro_resources.json", catalogue_records)
     write_csv(
@@ -262,6 +269,7 @@ def run() -> None:
             "zotero_library_type": ZOTERO_LIBRARY_TYPE,
             "zotero_library_id": ZOTERO_LIBRARY_ID,
             "zotero_collection_key": ZOTERO_COLLECTION_KEY,
+            "source_type_counts": {name: group["count"] for name, group in inventory.items()},
             "collections": summary_collections,
             "quality": {
                 "blocker_count": blocker_count,
@@ -272,6 +280,9 @@ def run() -> None:
                 "catalogue_link_checks": len(link_status_rows),
             },
             "outputs": [
+                "outputs/source_type_inventory.json",
+                "outputs/catalogue_source_changes.csv",
+                "outputs/publication_changes.csv",
                 "outputs/zotero_cache.json",
                 "outputs/wordpress_neuro_resources.json",
                 "outputs/catalogue_completeness_report.csv",

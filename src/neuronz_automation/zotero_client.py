@@ -101,6 +101,25 @@ class ZoteroClient:
             raise RuntimeError(f"Zotero item creation rejected: {result.get('failed', {})}")
         return result["successful"]["0"]
 
+    def create_collection(self, name: str, parent_key: str) -> dict[str, Any]:
+        headers = self._headers()
+        headers.update({"Content-Type": "application/json", "Zotero-Write-Token": uuid4().hex})
+        request = Request(
+            f"{ZOTERO_API_BASE}/{ZOTERO_LIBRARY_TYPE}/{ZOTERO_LIBRARY_ID}/collections",
+            data=json.dumps([{"name": name, "parentCollection": parent_key}]).encode("utf-8"),
+            headers=headers, method="POST",
+        )
+        # Inspect live children before retrying if a creation response is lost.
+        try:
+            with urlopen(request, timeout=self.timeout_seconds) as response:
+                result = json.loads(response.read().decode("utf-8"))
+        except HTTPError as exc:
+            detail = exc.read().decode("utf-8", errors="replace")
+            raise RuntimeError(f"Zotero collection creation rejected with HTTP {exc.code}: {detail}") from exc
+        if result.get("failed") or "0" not in result.get("successful", {}):
+            raise RuntimeError(f"Zotero collection creation rejected: {result.get('failed', {})}")
+        return result["successful"]["0"]
+
     def patch_item(self, key: str, version: int, fields: dict[str, Any]) -> None:
         if fields.get("accessDate"):
             from datetime import datetime

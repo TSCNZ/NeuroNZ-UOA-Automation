@@ -32,6 +32,36 @@ Source: https://www.zotero.org/groups/6708514/nz_neuro_data_catalogue/collection
 
 The pipeline reads this collection and its descendants, deduplicates Zotero keys, and classifies records by their NeuroNZ IDs in `extra`. Evidence and condition IDs take precedence over catalogue references. Unclassified records enter catalogue validation so missing IDs remain visible. Attachments, notes, annotations, and descendant collections named `04 Excluded Sources` are excluded. Public API checks confirmed `NeuroNZ_Shared_Collection` and its four child collections in the new group on 13 October 2026. Child collection keys are discovered from the selected collection at runtime. The repository secret must have access to the new group before running the workflow.
 
+## Catalogue source-type folders
+
+The agreed source-type folders sit directly inside `01 Catalogue Sources`:
+
+```text
+01 Catalogue Sources
+├── Administrative Data
+├── National Surveys
+├── Research Surveys & Cohort Studies
+├── Registries
+├── Neurological Workforce Data
+├── International Data Systems
+├── Use of NZ Neurological Data
+└── Published Research / Journal Articles
+```
+
+The `organise` workflow operation files existing catalogue entries from their explicit source categories and verified PubMed imports from their item type, PMID, import provenance, journal, authors and publication date. It adds memberships and `source-type:*` tags, preserves existing memberships, tags, item metadata and original `dateAdded`, and reads every changed item back. It creates no new bibliographic items. Older category assignments are retained; a publication URL describing a registry or study does not automatically change the source's category.
+
+Future validated PubMed imports are filed in `Published Research / Journal Articles` and remain in `02 Evidence Log` as the same Zotero item. They carry `type:publication`, `category:Journal Article`, and `source:pubmed` tags. There is no separate PubMed folder. An unrecognised dataset category remains in the catalogue for review rather than being assigned an unsupported source type.
+
+`outputs/source_type_inventory.json` counts and lists all eight groups. `outputs/catalogue_source_changes.csv` and `outputs/publication_changes.csv` track the catalogue source groups and verified publications independently against the previous cache. Existing articles are not marked new merely because classification tags were added. `new` means first seen in the cache, rather than recently published or having a year in its title. PubMed search coverage is currently limited to the latest 20 results plus already imported PMIDs; incremental search pagination remains future work.
+
+To apply or verify organisation:
+
+```bash
+gh workflow run phase2-automation.yml --repo TSCNZ/NeuroNZ-UOA-Automation --ref main -f operation=organise
+```
+
+This operation saves a before-snapshot and per-item receipts under `outputs/catalogue_organisation/<run-id>-<attempt>/`, then refreshes reports with source imports disabled. Unknown categories, duplicate named folders, version conflicts or readback mismatches stop the operation. Routine refresh runs require the publications folder to exist before importing articles.
+
 ## Repository secrets
 
 Add this GitHub repository secret:
