@@ -60,7 +60,7 @@ To apply or verify organisation:
 gh workflow run phase2-automation.yml --repo TSCNZ/NeuroNZ-UOA-Automation --ref main -f operation=organise
 ```
 
-This operation saves a before-snapshot and per-item receipts under `outputs/catalogue_organisation/<run-id>-<attempt>/`, then refreshes reports with source imports disabled. Unknown categories, duplicate named folders, version conflicts or readback mismatches stop the operation. Routine refresh runs require the publications folder to exist before importing articles.
+This operation saves a before-snapshot and per-item receipts privately on the runner under `outputs/catalogue_organisation/<run-id>-<attempt>/`, then refreshes reports with source imports disabled. Full organisation snapshots and item receipts are excluded from Git and uploaded artifacts; `outputs/catalogue_organisation_summary.json` publishes verification counts and folder keys only. The runner's private snapshots are ephemeral. Unknown categories, duplicate named folders, version conflicts or readback mismatches stop the operation. Routine refresh runs require the publications folder to exist before importing articles.
 
 ## Repository secrets
 

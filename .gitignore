@@ -7,4 +7,5 @@ venv/
 .env
 *.log
 outputs/*.tmp
+outputs/catalogue_organisation/
 

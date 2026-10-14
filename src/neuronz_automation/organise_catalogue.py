@@ -38,6 +38,10 @@ def organise(client, output_dir):
                "folders_created": [], "items": [], "unique_items_before": len(before)}
     def save():
         write_json(receipt_dir / "receipt.json", receipt)
+        # Full item snapshots/receipts stay private on the runner. Publish counts only.
+        summary = {key: value for key, value in receipt.items() if key != "items"}
+        summary["updated_verified"] = sum(row["status"] == "updated_verified" for row in receipt["items"])
+        write_json(Path(output_dir) / "catalogue_organisation_summary.json", summary)
     save()
     try:
         for name in FOLDER_NAMES:

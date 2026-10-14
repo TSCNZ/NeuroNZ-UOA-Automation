@@ -54,6 +54,8 @@ class MemoryClient:
         assert version == self.items[key]["version"]
         self.patches.append((key, version, deepcopy(patch)))
         self.items[key]["data"].update(deepcopy(patch))
+        # Zotero may reorder memberships in its response; order has no filing meaning.
+        self.items[key]["data"]["collections"] = sorted(self.items[key]["data"]["collections"], reverse=True)
         self.items[key]["version"] += 1
         self.items[key]["data"].update(version=self.items[key]["version"], dateModified="2026-10-14T00:00:00Z")
 

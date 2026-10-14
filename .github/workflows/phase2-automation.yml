@@ -54,7 +54,9 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: neuronz-phase2-outputs
-          path: outputs/
+          path: |
+            outputs/
+            !outputs/catalogue_organisation/**
 
       - name: Commit changed outputs
         run: |

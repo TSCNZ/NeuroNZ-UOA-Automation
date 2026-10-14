@@ -24,6 +24,9 @@ class ZoteroUpdateTests(unittest.TestCase):
             verify_fields({"accessDate": "2026-10-02T02:29:12Z"}, {"accessDate": "2026-10-02 02:29:11"})
         with self.assertRaisesRegex(RuntimeError, "publicationTitle"):
             verify_fields({"publicationTitle": "Wrong journal"}, {"publicationTitle": "Intended journal"})
+        verify_fields({"collections": ["PUB", "EVID"]}, {"collections": ["EVID", "PUB"]})
+        with self.assertRaisesRegex(RuntimeError, "collections"):
+            verify_fields({"collections": ["PUB"]}, {"collections": ["EVID", "PUB"]})
 
     def test_dataset_import_writes_to_catalogue_and_verifies_condition(self):
         client = self.client()

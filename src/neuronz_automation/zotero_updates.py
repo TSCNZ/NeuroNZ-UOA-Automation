@@ -40,6 +40,8 @@ def comparable(field: str, value: Any) -> Any:
             return value
     if field == "tags" and isinstance(value, list):
         return sorted((tag.get("tag", ""), tag.get("type", 0)) for tag in value)
+    if field == "collections" and isinstance(value, list):
+        return sorted(value)
     return value
 
 
