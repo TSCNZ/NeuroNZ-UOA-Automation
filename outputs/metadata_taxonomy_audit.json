@@ -1,868 +1,80 @@
 [
   {
-    "zotero_key": "VSLYTTQ9",
+    "zotero_key": "F467XMT7",
     "kind": "catalogue",
-    "title": "National Maternity Collection (MAT)",
+    "title": "EpiNet database / NZ SUDEP sub-registry",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:44Z"
+    "date_modified": "2026-10-14T08:52:00Z"
   },
   {
-    "zotero_key": "4CAPJL5I",
+    "zotero_key": "Z8UPTM8X",
     "kind": "catalogue",
-    "title": "PRIMHD (Programme for the Integration of Mental Health Data)",
+    "title": "MSBase NZ",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:44Z"
+    "date_modified": "2026-10-14T08:52:00Z"
   },
   {
-    "zotero_key": "65DRYX68",
+    "zotero_key": "I66BQXD7",
     "kind": "catalogue",
-    "title": "Mortality Collection (MORT)",
+    "title": "NZ Congenital Anomalies Monitoring Program (duplicate/recategorisation candidate)",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:44Z"
+    "date_modified": "2026-10-14T08:51:59Z"
   },
   {
-    "zotero_key": "3YKBWTM5",
+    "zotero_key": "3GAABXGM",
     "kind": "catalogue",
-    "title": "Pharmaceutical Collection (PHARMS)",
+    "title": "Global Health Data Exchange (GHDx) - NZ records",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:44Z"
+    "date_modified": "2026-10-14T08:51:58Z"
   },
   {
-    "zotero_key": "XG5EYQIA",
+    "zotero_key": "GTVJILLX",
     "kind": "catalogue",
-    "title": "National Minimum Dataset (NMDS) - Hospital Events",
+    "title": "Atlas of MS",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:44Z"
+    "date_modified": "2026-10-14T08:51:57Z"
   },
   {
-    "zotero_key": "K4VD2L2Y",
+    "zotero_key": "RTSVW2DC",
     "kind": "catalogue",
-    "title": "MSD Income Support Payments (SWIFTT)",
+    "title": "WHO Mortality Database - NZ submission",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:44Z"
+    "date_modified": "2026-10-14T08:51:56Z"
   },
   {
-    "zotero_key": "3PW6Z6NK",
+    "zotero_key": "UBQS39RW",
     "kind": "catalogue",
-    "title": "ACC Injury Claims Data",
+    "title": "Health at a Glance (OECD Indicators) - NZ profile",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:44Z"
-  },
-  {
-    "zotero_key": "MDVPUTGU",
-    "kind": "catalogue",
-    "title": "IDI MOH Chronic Condition/Significant Health Event Cohort data",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:44Z"
-  },
-  {
-    "zotero_key": "RVK7QPAU",
-    "kind": "catalogue",
-    "title": "interRAI (Home Care Assessment Data)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:44Z"
-  },
-  {
-    "zotero_key": "S9MFTRIR",
-    "kind": "catalogue",
-    "title": "Child Disability Allowance",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:44Z"
-  },
-  {
-    "zotero_key": "CAFVZLRT",
-    "kind": "catalogue",
-    "title": "SOCRATES (DSS) Data",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:44Z"
-  },
-  {
-    "zotero_key": "AEQHPHUY",
-    "kind": "catalogue",
-    "title": "ORS Students Under 21 (ID 25)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:44Z"
-  },
-  {
-    "zotero_key": "A9F7FSBK",
-    "kind": "catalogue",
-    "title": "Household Economic Survey / Household Income and Living Survey (HES/HILS)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "2TF2H3WK",
-    "kind": "catalogue",
-    "title": "Household Labour Force Survey (HLFS)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "MI8NGMU5",
-    "kind": "catalogue",
-    "title": "Te Kupenga 2018",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "89S7SUAT",
-    "kind": "catalogue",
-    "title": "General Social Survey (GSS)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "5DPJKCQ9",
-    "kind": "catalogue",
-    "title": "Disability Survey 2013 - Adults in residential facilities",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "P2T3PKLU",
-    "kind": "catalogue",
-    "title": "Disability Survey 2013 - Children under 15 in private households",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "2FVR7GXT",
-    "kind": "catalogue",
-    "title": "Disability Survey 2013 - Adults 15+ in private households",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "Y3SKXM8C",
-    "kind": "catalogue",
-    "title": "Household Disability Survey 2023 - Children under 15",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "BNLHL6PC",
-    "kind": "catalogue",
-    "title": "Household Disability Survey 2023 - Adults 15+",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "XNG7XNYT",
-    "kind": "catalogue",
-    "title": "Census (2013, 2018, 2023)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "L69PU3R3",
-    "kind": "catalogue",
-    "title": "HealthOne (shared electronic patient record, South Island)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "N8UE5D2T",
-    "kind": "catalogue",
-    "title": "CARM database (Centre for Adverse Reactions Monitoring)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "QIQX42SS",
-    "kind": "catalogue",
-    "title": "EpiSurv - National Notifiable Diseases database",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "SCGGN2XL",
-    "kind": "catalogue",
-    "title": "Pharmaceutical Schedule + Special Authority criteria",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "YXCB7QGW",
-    "kind": "catalogue",
-    "title": "Pharmac NPPA Outcome Data",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "DZR54KZV",
-    "kind": "catalogue",
-    "title": "B4 School Check (Well Child Tamariki Ora)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "QXBKZYG7",
-    "kind": "catalogue",
-    "title": "National Patient Flow (NPF)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:43Z"
-  },
-  {
-    "zotero_key": "UQHER46F",
-    "kind": "catalogue",
-    "title": "New Zealand Health Survey (NZHS) - Adults 15+",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:39Z"
-  },
-  {
-    "zotero_key": "JZWHV2JM",
-    "kind": "catalogue",
-    "title": "Survey of Family, Income and Employment (SoFIE)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:39Z"
-  },
-  {
-    "zotero_key": "QP8NVLDL",
-    "kind": "catalogue",
-    "title": "Voice of Rare Disorders Survey 2025",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:38Z"
-  },
-  {
-    "zotero_key": "MTBSWA64",
-    "kind": "catalogue",
-    "title": "Migraine in Aotearoa NZ Survey (MiANZ) 2022",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-038",
-        "name": "Migraine",
-        "matched_term": "Migraine",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:38Z"
-  },
-  {
-    "zotero_key": "8ZD8VIBV",
-    "kind": "catalogue",
-    "title": "Neurogenetics Research Clinic",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:38Z"
-  },
-  {
-    "zotero_key": "H3ZXYRB3",
-    "kind": "catalogue",
-    "title": "Dementia Prevention Research Clinics (DPRC) - Auckland, Christchurch, Dunedin",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-002",
-        "name": "Alzheimer's disease and other dementias",
-        "matched_term": "dementia",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:38Z"
-  },
-  {
-    "zotero_key": "IJ9ENSKG",
-    "kind": "catalogue",
-    "title": "Health, Work and Retirement Study (HWR)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:38Z"
-  },
-  {
-    "zotero_key": "2SUVDJY4",
-    "kind": "catalogue",
-    "title": "Life and Living in Advanced Age (LiLACS)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:38Z"
-  },
-  {
-    "zotero_key": "8AXJ89MB",
-    "kind": "catalogue",
-    "title": "NZ Longitudinal Study of Ageing (NZLSA)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:38Z"
-  },
-  {
-    "zotero_key": "CZ4MBLUA",
-    "kind": "catalogue",
-    "title": "MS prevalence in NZ",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:38Z"
-  },
-  {
-    "zotero_key": "IPCQAXC9",
-    "kind": "catalogue",
-    "title": "Youth Health and Wellbeing Survey",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:38Z"
-  },
-  {
-    "zotero_key": "87XJPU9W",
-    "kind": "catalogue",
-    "title": "Growing Up in New Zealand",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:38Z"
-  },
-  {
-    "zotero_key": "FHD7CGM9",
-    "kind": "catalogue",
-    "title": "New Zealand Health Survey (NZHS) - Children 0-14",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:38Z"
-  },
-  {
-    "zotero_key": "DFPDLZY8",
-    "kind": "catalogue",
-    "title": "Health Workforce Information Programme (HWIP)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:37Z"
-  },
-  {
-    "zotero_key": "WWBNGWW8",
-    "kind": "catalogue",
-    "title": "NZPB Register - Neuropsychologist Scope",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:37Z"
-  },
-  {
-    "zotero_key": "GQBVF9LM",
-    "kind": "catalogue",
-    "title": "MCNZ Annual Workforce Survey + Data Dashboard",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:37Z"
-  },
-  {
-    "zotero_key": "AH64ZBXY",
-    "kind": "catalogue",
-    "title": "NZ Neurologist Workforce 2024 Analysis (Ranta et al., 2026)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:37Z"
-  },
-  {
-    "zotero_key": "FNMM9CUY",
-    "kind": "catalogue",
-    "title": "NZ's Neurologist Workforce (2015 study)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:37Z"
-  },
-  {
-    "zotero_key": "8GN2GWSE",
-    "kind": "catalogue",
-    "title": "Dunedin Study - adult ADHD analysis",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:37Z"
-  },
-  {
-    "zotero_key": "TPTQU5ZL",
-    "kind": "catalogue",
-    "title": "Stroke Research Clinic",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "Stroke",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:37Z"
-  },
-  {
-    "zotero_key": "X77NQWWH",
-    "kind": "catalogue",
-    "title": "Auckland TIA Study (ATIAS) 2011-12",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:37Z"
-  },
-  {
-    "zotero_key": "4X6M2747",
-    "kind": "catalogue",
-    "title": "BIONIC (2010-11) and BIONIC2 (2021-22)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:37Z"
-  },
-  {
-    "zotero_key": "F8Q8G4X5",
-    "kind": "catalogue",
-    "title": "ARCOS V (fifth Auckland Regional Community Stroke Study)",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "Stroke",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:37Z"
-  },
-  {
-    "zotero_key": "83SZEAZ8",
-    "kind": "catalogue",
-    "title": "ARCOS I-III / Auckland Regional Community Stroke Studies (published sources checked)",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "Stroke",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:37Z"
-  },
-  {
-    "zotero_key": "5X2RBBR4",
-    "kind": "catalogue",
-    "title": "Dementia Economic Impact Report (DEIR) 2020/2021",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-002",
-        "name": "Alzheimer's disease and other dementias",
-        "matched_term": "dementia",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:36Z"
-  },
-  {
-    "zotero_key": "2KVQ2IJ4",
-    "kind": "catalogue",
-    "title": "MS Virtual Register (NZ, IDI-linked)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:36Z"
-  },
-  {
-    "zotero_key": "HC248A8M",
-    "kind": "catalogue",
-    "title": "Ethnic and HLA patterns related to MS, Wellington",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:36Z"
-  },
-  {
-    "zotero_key": "A6TT5ZQ9",
-    "kind": "catalogue",
-    "title": "Ethnic disparities in stroke subtypes, 2002-2003",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "Stroke",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:36Z"
-  },
-  {
-    "zotero_key": "9J4569WP",
-    "kind": "catalogue",
-    "title": "Changes in stroke incidence, Auckland, 1981-91",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "Stroke",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:36Z"
-  },
-  {
-    "zotero_key": "GR4TIUAJ",
-    "kind": "catalogue",
-    "title": "Atrial fibrillation in NZ primary care",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:36Z"
-  },
-  {
-    "zotero_key": "5BGS7UJP",
-    "kind": "catalogue",
-    "title": "Ethnic inequalities in 30-day ischaemic stroke survival",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "Stroke",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:36Z"
-  },
-  {
-    "zotero_key": "YHME3U8S",
-    "kind": "catalogue",
-    "title": "Acute encephalitis in adults, Auckland (2005-2009)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:36Z"
-  },
-  {
-    "zotero_key": "RFD84SCW",
-    "kind": "catalogue",
-    "title": "PBNZ Specialist Scope Register",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:36Z"
-  },
-  {
-    "zotero_key": "HYQMJ5L5",
-    "kind": "catalogue",
-    "title": "National Stroke Reperfusion Register",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "Stroke",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:35Z"
-  },
-  {
-    "zotero_key": "YPSHL8S2",
-    "kind": "catalogue",
-    "title": "NZ Major Trauma Registry (NZ-MTR)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:35Z"
-  },
-  {
-    "zotero_key": "85CIRTB6",
-    "kind": "catalogue",
-    "title": "NZ Cerebral Palsy Register (NZCPR)",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-011",
-        "name": "Cerebral palsy",
-        "matched_term": "Cerebral palsy",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:35Z"
-  },
-  {
-    "zotero_key": "SZ2LSZJN",
-    "kind": "catalogue",
-    "title": "NZ Spinal Cord Injury Registry (NZSCIR)",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-068",
-        "name": "Spinal cord injury",
-        "matched_term": "Spinal cord injury",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:35Z"
-  },
-  {
-    "zotero_key": "FQBT4BSE",
-    "kind": "catalogue",
-    "title": "NZ Cancer Registry (NZCR)",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:35Z"
-  },
-  {
-    "zotero_key": "E6GY5WWK",
-    "kind": "catalogue",
-    "title": "CJD Registry",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:35Z"
-  },
-  {
-    "zotero_key": "NGR8ZJTH",
-    "kind": "catalogue",
-    "title": "Punaha Io - NZ Neuro-Genetic Registry & BioBank",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:35Z"
-  },
-  {
-    "zotero_key": "8CY42RJT",
-    "kind": "catalogue",
-    "title": "MND NZ Registry",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:35Z"
-  },
-  {
-    "zotero_key": "X6YEYQJI",
-    "kind": "catalogue",
-    "title": "MS impact on employment and income in NZ",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:35Z"
+    "date_modified": "2026-10-14T08:51:55Z"
   },
   {
     "zotero_key": "MNAPHGYH",
@@ -880,92 +92,115 @@
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:35Z"
+    "date_modified": "2026-10-14T08:51:54Z"
   },
   {
-    "zotero_key": "UBQS39RW",
+    "zotero_key": "X6YEYQJI",
     "kind": "catalogue",
-    "title": "Health at a Glance (OECD Indicators) - NZ profile",
+    "title": "MS impact on employment and income in NZ",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:34Z"
+    "date_modified": "2026-10-14T08:51:53Z"
   },
   {
-    "zotero_key": "RTSVW2DC",
+    "zotero_key": "8CY42RJT",
     "kind": "catalogue",
-    "title": "WHO Mortality Database - NZ submission",
+    "title": "MND NZ Registry",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:34Z"
+    "date_modified": "2026-10-14T08:51:53Z"
   },
   {
-    "zotero_key": "GTVJILLX",
+    "zotero_key": "NGR8ZJTH",
     "kind": "catalogue",
-    "title": "Atlas of MS",
+    "title": "Punaha Io - NZ Neuro-Genetic Registry & BioBank",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:34Z"
+    "date_modified": "2026-10-14T08:51:52Z"
   },
   {
-    "zotero_key": "3GAABXGM",
+    "zotero_key": "E6GY5WWK",
     "kind": "catalogue",
-    "title": "Global Health Data Exchange (GHDx) - NZ records",
+    "title": "CJD Registry",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:34Z"
+    "date_modified": "2026-10-14T08:51:51Z"
   },
   {
-    "zotero_key": "I66BQXD7",
+    "zotero_key": "FQBT4BSE",
     "kind": "catalogue",
-    "title": "NZ Congenital Anomalies Monitoring Program (duplicate/recategorisation candidate)",
+    "title": "NZ Cancer Registry (NZCR)",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:34Z"
+    "date_modified": "2026-10-14T08:51:50Z"
   },
   {
-    "zotero_key": "Z8UPTM8X",
+    "zotero_key": "SZ2LSZJN",
     "kind": "catalogue",
-    "title": "MSBase NZ",
+    "title": "NZ Spinal Cord Injury Registry (NZSCIR)",
+    "condition_ids": [],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-068",
+        "name": "Spinal cord injury",
+        "matched_term": "Spinal cord injury",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:49Z"
+  },
+  {
+    "zotero_key": "85CIRTB6",
+    "kind": "catalogue",
+    "title": "NZ Cerebral Palsy Register (NZCPR)",
+    "condition_ids": [],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-011",
+        "name": "Cerebral palsy",
+        "matched_term": "Cerebral palsy",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:48Z"
+  },
+  {
+    "zotero_key": "YPSHL8S2",
+    "kind": "catalogue",
+    "title": "NZ Major Trauma Registry (NZ-MTR)",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review"
     ],
-    "date_modified": "2026-08-28T03:14:34Z"
+    "date_modified": "2026-10-14T08:51:47Z"
   },
   {
-    "zotero_key": "F467XMT7",
+    "zotero_key": "HYQMJ5L5",
     "kind": "catalogue",
-    "title": "EpiNet database / NZ SUDEP sub-registry",
+    "title": "National Stroke Reperfusion Register",
     "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-08-28T03:14:34Z"
-  },
-  {
-    "zotero_key": "TN8VWMHL",
-    "kind": "evidence",
-    "title": "Preventing Fatal Stroke: The Hidden Survival Benefit of Left Atrial Appendage Occlusion in Cardiac Surgery.",
-    "condition_ids": [
-      "NC-072"
-    ],
     "suggested_matches": [
       {
         "condition_id": "NC-072",
@@ -975,17 +210,37 @@
       }
     ],
     "gaps": [
-      "catalogue_relationship_needs_review"
+      "condition_link_needs_review"
     ],
-    "date_modified": "2026-10-11T21:09:31Z"
+    "date_modified": "2026-10-14T08:51:46Z"
   },
   {
-    "zotero_key": "5KS2YET7",
-    "kind": "evidence",
-    "title": "Stroke reperfusion in Aotearoa New Zealand: 5-year trends and a comparison of stroke clot retrieval and non-stroke clot retrieval centre presenters.",
-    "condition_ids": [
-      "NC-072"
+    "zotero_key": "RFD84SCW",
+    "kind": "catalogue",
+    "title": "PBNZ Specialist Scope Register",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
     ],
+    "date_modified": "2026-10-14T08:51:46Z"
+  },
+  {
+    "zotero_key": "YHME3U8S",
+    "kind": "catalogue",
+    "title": "Acute encephalitis in adults, Auckland (2005-2009)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:45Z"
+  },
+  {
+    "zotero_key": "5BGS7UJP",
+    "kind": "catalogue",
+    "title": "Ethnic inequalities in 30-day ischaemic stroke survival",
+    "condition_ids": [],
     "suggested_matches": [
       {
         "condition_id": "NC-072",
@@ -995,17 +250,26 @@
       }
     ],
     "gaps": [
-      "catalogue_relationship_needs_review"
+      "condition_link_needs_review"
     ],
-    "date_modified": "2026-10-04T20:34:50Z"
+    "date_modified": "2026-10-14T08:51:44Z"
   },
   {
-    "zotero_key": "W676JVMB",
-    "kind": "evidence",
-    "title": "Proton Pump Inhibitor Co-prescription, Dabigatran Use, and Ischaemic Stroke or Transient Ischaemic Attack in Atrial Fibrillation: A Population-Based Case-Control Study.",
-    "condition_ids": [
-      "NC-072"
+    "zotero_key": "GR4TIUAJ",
+    "kind": "catalogue",
+    "title": "Atrial fibrillation in NZ primary care",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
     ],
+    "date_modified": "2026-10-14T08:51:43Z"
+  },
+  {
+    "zotero_key": "9J4569WP",
+    "kind": "catalogue",
+    "title": "Changes in stroke incidence, Auckland, 1981-91",
+    "condition_ids": [],
     "suggested_matches": [
       {
         "condition_id": "NC-072",
@@ -1015,17 +279,15 @@
       }
     ],
     "gaps": [
-      "catalogue_relationship_needs_review"
+      "condition_link_needs_review"
     ],
-    "date_modified": "2026-10-04T20:34:49Z"
+    "date_modified": "2026-10-14T08:51:42Z"
   },
   {
-    "zotero_key": "Y5RPBKEL",
-    "kind": "evidence",
-    "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",
-    "condition_ids": [
-      "NC-072"
-    ],
+    "zotero_key": "A6TT5ZQ9",
+    "kind": "catalogue",
+    "title": "Ethnic disparities in stroke subtypes, 2002-2003",
+    "condition_ids": [],
     "suggested_matches": [
       {
         "condition_id": "NC-072",
@@ -1035,37 +297,55 @@
       }
     ],
     "gaps": [
-      "catalogue_relationship_needs_review"
+      "condition_link_needs_review"
     ],
-    "date_modified": "2026-10-02T02:38:16Z"
+    "date_modified": "2026-10-14T08:51:41Z"
   },
   {
-    "zotero_key": "59CVR6FA",
-    "kind": "evidence",
-    "title": "Neurodevelopmental impairment and morbidity patterns across two epochs among extremely preterm infant survivors in Australia and New Zealand.",
-    "condition_ids": [
-      "NC-058"
+    "zotero_key": "HC248A8M",
+    "kind": "catalogue",
+    "title": "Ethnic and HLA patterns related to MS, Wellington",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
     ],
+    "date_modified": "2026-10-14T08:51:40Z"
+  },
+  {
+    "zotero_key": "2KVQ2IJ4",
+    "kind": "catalogue",
+    "title": "MS Virtual Register (NZ, IDI-linked)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:39Z"
+  },
+  {
+    "zotero_key": "5X2RBBR4",
+    "kind": "catalogue",
+    "title": "Dementia Economic Impact Report (DEIR) 2020/2021",
+    "condition_ids": [],
     "suggested_matches": [
       {
-        "condition_id": "NC-058",
-        "name": "Neurological complications due to preterm birth",
-        "matched_term": "preterm",
+        "condition_id": "NC-002",
+        "name": "Alzheimer's disease and other dementias",
+        "matched_term": "dementia",
         "basis": "explicit_title"
       }
     ],
     "gaps": [
-      "catalogue_relationship_needs_review"
+      "condition_link_needs_review"
     ],
-    "date_modified": "2026-10-02T02:38:15Z"
+    "date_modified": "2026-10-14T08:51:38Z"
   },
   {
-    "zotero_key": "MB5EDL2X",
-    "kind": "evidence",
-    "title": "Stroke clinical documentation education program in Australia and New Zealand.",
-    "condition_ids": [
-      "NC-072"
-    ],
+    "zotero_key": "83SZEAZ8",
+    "kind": "catalogue",
+    "title": "ARCOS I-III / Auckland Regional Community Stroke Studies (published sources checked)",
+    "condition_ids": [],
     "suggested_matches": [
       {
         "condition_id": "NC-072",
@@ -1075,77 +355,245 @@
       }
     ],
     "gaps": [
-      "catalogue_relationship_needs_review"
+      "condition_link_needs_review"
     ],
-    "date_modified": "2026-10-02T02:38:13Z"
+    "date_modified": "2026-10-14T08:51:38Z"
   },
   {
-    "zotero_key": "F87ISJBS",
-    "kind": "evidence",
-    "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
-    "condition_ids": [
-      "NC-023"
-    ],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-023",
-        "name": "Epilepsy",
-        "matched_term": "Epilepsy",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-02T02:38:12Z"
-  },
-  {
-    "zotero_key": "Y5IS5BVH",
-    "kind": "evidence",
-    "title": "Dabigatran use and cerebrovascular event risk across body mass index in atrial fibrillation: a real-world nested case-control study.",
-    "condition_ids": [
-      "NC-072"
-    ],
+    "zotero_key": "F8Q8G4X5",
+    "kind": "catalogue",
+    "title": "ARCOS V (fifth Auckland Regional Community Stroke Study)",
+    "condition_ids": [],
     "suggested_matches": [
       {
         "condition_id": "NC-072",
         "name": "Stroke",
-        "matched_term": "cerebrovascular",
+        "matched_term": "Stroke",
         "basis": "explicit_title"
       }
     ],
     "gaps": [
-      "catalogue_relationship_needs_review"
+      "condition_link_needs_review"
     ],
-    "date_modified": "2026-10-02T02:38:11Z"
+    "date_modified": "2026-10-14T08:51:37Z"
   },
   {
-    "zotero_key": "Y9JVIYG3",
-    "kind": "evidence",
-    "title": "Ethnic Differences in Outcomes of Endovascular Thrombectomy in New Zealand.",
-    "condition_ids": [
-      "NC-072"
+    "zotero_key": "4X6M2747",
+    "kind": "catalogue",
+    "title": "BIONIC (2010-11) and BIONIC2 (2021-22)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
     ],
+    "date_modified": "2026-10-14T08:51:36Z"
+  },
+  {
+    "zotero_key": "X77NQWWH",
+    "kind": "catalogue",
+    "title": "Auckland TIA Study (ATIAS) 2011-12",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:35Z"
+  },
+  {
+    "zotero_key": "TPTQU5ZL",
+    "kind": "catalogue",
+    "title": "Stroke Research Clinic",
+    "condition_ids": [],
     "suggested_matches": [
       {
         "condition_id": "NC-072",
         "name": "Stroke",
-        "matched_term": "endovascular thrombectomy",
+        "matched_term": "Stroke",
         "basis": "explicit_title"
       }
     ],
     "gaps": [
-      "catalogue_relationship_needs_review"
+      "condition_link_needs_review"
     ],
-    "date_modified": "2026-10-02T02:38:09Z"
+    "date_modified": "2026-10-14T08:51:34Z"
   },
   {
-    "zotero_key": "3Y7YSU2B",
-    "kind": "evidence",
-    "title": "Primary care clinicians' perspectives on migraine management in Aotearoa New Zealand: a qualitative study.",
-    "condition_ids": [
-      "NC-038"
+    "zotero_key": "8GN2GWSE",
+    "kind": "catalogue",
+    "title": "Dunedin Study - adult ADHD analysis",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
     ],
+    "date_modified": "2026-10-14T08:51:33Z"
+  },
+  {
+    "zotero_key": "FNMM9CUY",
+    "kind": "catalogue",
+    "title": "NZ's Neurologist Workforce (2015 study)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:32Z"
+  },
+  {
+    "zotero_key": "AH64ZBXY",
+    "kind": "catalogue",
+    "title": "NZ Neurologist Workforce 2024 Analysis (Ranta et al., 2026)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:31Z"
+  },
+  {
+    "zotero_key": "GQBVF9LM",
+    "kind": "catalogue",
+    "title": "MCNZ Annual Workforce Survey + Data Dashboard",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:31Z"
+  },
+  {
+    "zotero_key": "WWBNGWW8",
+    "kind": "catalogue",
+    "title": "NZPB Register - Neuropsychologist Scope",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:26Z"
+  },
+  {
+    "zotero_key": "DFPDLZY8",
+    "kind": "catalogue",
+    "title": "Health Workforce Information Programme (HWIP)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:25Z"
+  },
+  {
+    "zotero_key": "FHD7CGM9",
+    "kind": "catalogue",
+    "title": "New Zealand Health Survey (NZHS) - Children 0-14",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:24Z"
+  },
+  {
+    "zotero_key": "87XJPU9W",
+    "kind": "catalogue",
+    "title": "Growing Up in New Zealand",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:23Z"
+  },
+  {
+    "zotero_key": "IPCQAXC9",
+    "kind": "catalogue",
+    "title": "Youth Health and Wellbeing Survey",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:23Z"
+  },
+  {
+    "zotero_key": "CZ4MBLUA",
+    "kind": "catalogue",
+    "title": "MS prevalence in NZ",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:22Z"
+  },
+  {
+    "zotero_key": "8AXJ89MB",
+    "kind": "catalogue",
+    "title": "NZ Longitudinal Study of Ageing (NZLSA)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:21Z"
+  },
+  {
+    "zotero_key": "2SUVDJY4",
+    "kind": "catalogue",
+    "title": "Life and Living in Advanced Age (LiLACS)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:20Z"
+  },
+  {
+    "zotero_key": "IJ9ENSKG",
+    "kind": "catalogue",
+    "title": "Health, Work and Retirement Study (HWR)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:19Z"
+  },
+  {
+    "zotero_key": "H3ZXYRB3",
+    "kind": "catalogue",
+    "title": "Dementia Prevention Research Clinics (DPRC) - Auckland, Christchurch, Dunedin",
+    "condition_ids": [],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-002",
+        "name": "Alzheimer's disease and other dementias",
+        "matched_term": "dementia",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:14Z"
+  },
+  {
+    "zotero_key": "8ZD8VIBV",
+    "kind": "catalogue",
+    "title": "Neurogenetics Research Clinic",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:13Z"
+  },
+  {
+    "zotero_key": "MTBSWA64",
+    "kind": "catalogue",
+    "title": "Migraine in Aotearoa NZ Survey (MiANZ) 2022",
+    "condition_ids": [],
     "suggested_matches": [
       {
         "condition_id": "NC-038",
@@ -1155,21 +603,373 @@
       }
     ],
     "gaps": [
-      "catalogue_relationship_needs_review"
+      "condition_link_needs_review"
     ],
-    "date_modified": "2026-10-02T02:38:08Z"
+    "date_modified": "2026-10-14T08:51:12Z"
   },
   {
-    "zotero_key": "45L2EVCE",
+    "zotero_key": "QP8NVLDL",
+    "kind": "catalogue",
+    "title": "Voice of Rare Disorders Survey 2025",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:11Z"
+  },
+  {
+    "zotero_key": "JZWHV2JM",
+    "kind": "catalogue",
+    "title": "Survey of Family, Income and Employment (SoFIE)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:10Z"
+  },
+  {
+    "zotero_key": "UQHER46F",
+    "kind": "catalogue",
+    "title": "New Zealand Health Survey (NZHS) - Adults 15+",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:51:03Z"
+  },
+  {
+    "zotero_key": "QXBKZYG7",
+    "kind": "catalogue",
+    "title": "National Patient Flow (NPF)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:58Z"
+  },
+  {
+    "zotero_key": "DZR54KZV",
+    "kind": "catalogue",
+    "title": "B4 School Check (Well Child Tamariki Ora)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:53Z"
+  },
+  {
+    "zotero_key": "YXCB7QGW",
+    "kind": "catalogue",
+    "title": "Pharmac NPPA Outcome Data",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:52Z"
+  },
+  {
+    "zotero_key": "SCGGN2XL",
+    "kind": "catalogue",
+    "title": "Pharmaceutical Schedule + Special Authority criteria",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:47Z"
+  },
+  {
+    "zotero_key": "QIQX42SS",
+    "kind": "catalogue",
+    "title": "EpiSurv - National Notifiable Diseases database",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:46Z"
+  },
+  {
+    "zotero_key": "N8UE5D2T",
+    "kind": "catalogue",
+    "title": "CARM database (Centre for Adverse Reactions Monitoring)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:45Z"
+  },
+  {
+    "zotero_key": "L69PU3R3",
+    "kind": "catalogue",
+    "title": "HealthOne (shared electronic patient record, South Island)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:44Z"
+  },
+  {
+    "zotero_key": "XNG7XNYT",
+    "kind": "catalogue",
+    "title": "Census (2013, 2018, 2023)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:44Z"
+  },
+  {
+    "zotero_key": "BNLHL6PC",
+    "kind": "catalogue",
+    "title": "Household Disability Survey 2023 - Adults 15+",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:43Z"
+  },
+  {
+    "zotero_key": "Y3SKXM8C",
+    "kind": "catalogue",
+    "title": "Household Disability Survey 2023 - Children under 15",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:42Z"
+  },
+  {
+    "zotero_key": "2FVR7GXT",
+    "kind": "catalogue",
+    "title": "Disability Survey 2013 - Adults 15+ in private households",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:41Z"
+  },
+  {
+    "zotero_key": "P2T3PKLU",
+    "kind": "catalogue",
+    "title": "Disability Survey 2013 - Children under 15 in private households",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:40Z"
+  },
+  {
+    "zotero_key": "5DPJKCQ9",
+    "kind": "catalogue",
+    "title": "Disability Survey 2013 - Adults in residential facilities",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:39Z"
+  },
+  {
+    "zotero_key": "89S7SUAT",
+    "kind": "catalogue",
+    "title": "General Social Survey (GSS)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:38Z"
+  },
+  {
+    "zotero_key": "MI8NGMU5",
+    "kind": "catalogue",
+    "title": "Te Kupenga 2018",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:38Z"
+  },
+  {
+    "zotero_key": "2TF2H3WK",
+    "kind": "catalogue",
+    "title": "Household Labour Force Survey (HLFS)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:37Z"
+  },
+  {
+    "zotero_key": "A9F7FSBK",
+    "kind": "catalogue",
+    "title": "Household Economic Survey / Household Income and Living Survey (HES/HILS)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:36Z"
+  },
+  {
+    "zotero_key": "AEQHPHUY",
+    "kind": "catalogue",
+    "title": "ORS Students Under 21 (ID 25)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:35Z"
+  },
+  {
+    "zotero_key": "CAFVZLRT",
+    "kind": "catalogue",
+    "title": "SOCRATES (DSS) Data",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:34Z"
+  },
+  {
+    "zotero_key": "S9MFTRIR",
+    "kind": "catalogue",
+    "title": "Child Disability Allowance",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:33Z"
+  },
+  {
+    "zotero_key": "RVK7QPAU",
+    "kind": "catalogue",
+    "title": "interRAI (Home Care Assessment Data)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:32Z"
+  },
+  {
+    "zotero_key": "MDVPUTGU",
+    "kind": "catalogue",
+    "title": "IDI MOH Chronic Condition/Significant Health Event Cohort data",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:32Z"
+  },
+  {
+    "zotero_key": "3PW6Z6NK",
+    "kind": "catalogue",
+    "title": "ACC Injury Claims Data",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:31Z"
+  },
+  {
+    "zotero_key": "K4VD2L2Y",
+    "kind": "catalogue",
+    "title": "MSD Income Support Payments (SWIFTT)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:30Z"
+  },
+  {
+    "zotero_key": "XG5EYQIA",
+    "kind": "catalogue",
+    "title": "National Minimum Dataset (NMDS) - Hospital Events",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:29Z"
+  },
+  {
+    "zotero_key": "3YKBWTM5",
+    "kind": "catalogue",
+    "title": "Pharmaceutical Collection (PHARMS)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:28Z"
+  },
+  {
+    "zotero_key": "65DRYX68",
+    "kind": "catalogue",
+    "title": "Mortality Collection (MORT)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:27Z"
+  },
+  {
+    "zotero_key": "4CAPJL5I",
+    "kind": "catalogue",
+    "title": "PRIMHD (Programme for the Integration of Mental Health Data)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:26Z"
+  },
+  {
+    "zotero_key": "VSLYTTQ9",
+    "kind": "catalogue",
+    "title": "National Maternity Collection (MAT)",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:25Z"
+  },
+  {
+    "zotero_key": "ER5M6LXF",
     "kind": "evidence",
-    "title": "Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets.",
+    "title": "Speech-language pathology services for acquired communication disorders among indigenous peoples: A systematic review.",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review",
       "catalogue_relationship_needs_review"
     ],
-    "date_modified": "2026-10-02T02:38:07Z"
+    "date_modified": "2026-10-14T08:50:24Z"
   },
   {
     "zotero_key": "PLMUIUQ9",
@@ -1189,19 +989,219 @@
     "gaps": [
       "catalogue_relationship_needs_review"
     ],
-    "date_modified": "2026-10-02T02:38:06Z"
+    "date_modified": "2026-10-14T08:50:24Z"
   },
   {
-    "zotero_key": "ER5M6LXF",
+    "zotero_key": "45L2EVCE",
     "kind": "evidence",
-    "title": "Speech-language pathology services for acquired communication disorders among indigenous peoples: A systematic review.",
+    "title": "Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets.",
     "condition_ids": [],
     "suggested_matches": [],
     "gaps": [
       "condition_link_needs_review",
       "catalogue_relationship_needs_review"
     ],
-    "date_modified": "2026-10-02T02:29:19Z"
+    "date_modified": "2026-10-14T08:50:23Z"
+  },
+  {
+    "zotero_key": "3Y7YSU2B",
+    "kind": "evidence",
+    "title": "Primary care clinicians' perspectives on migraine management in Aotearoa New Zealand: a qualitative study.",
+    "condition_ids": [
+      "NC-038"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-038",
+        "name": "Migraine",
+        "matched_term": "Migraine",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:22Z"
+  },
+  {
+    "zotero_key": "Y9JVIYG3",
+    "kind": "evidence",
+    "title": "Ethnic Differences in Outcomes of Endovascular Thrombectomy in New Zealand.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "endovascular thrombectomy",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:21Z"
+  },
+  {
+    "zotero_key": "Y5IS5BVH",
+    "kind": "evidence",
+    "title": "Dabigatran use and cerebrovascular event risk across body mass index in atrial fibrillation: a real-world nested case-control study.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "cerebrovascular",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:20Z"
+  },
+  {
+    "zotero_key": "F87ISJBS",
+    "kind": "evidence",
+    "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
+    "condition_ids": [
+      "NC-023"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-023",
+        "name": "Epilepsy",
+        "matched_term": "Epilepsy",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:19Z"
+  },
+  {
+    "zotero_key": "MB5EDL2X",
+    "kind": "evidence",
+    "title": "Stroke clinical documentation education program in Australia and New Zealand.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:18Z"
+  },
+  {
+    "zotero_key": "59CVR6FA",
+    "kind": "evidence",
+    "title": "Neurodevelopmental impairment and morbidity patterns across two epochs among extremely preterm infant survivors in Australia and New Zealand.",
+    "condition_ids": [
+      "NC-058"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-058",
+        "name": "Neurological complications due to preterm birth",
+        "matched_term": "preterm",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:17Z"
+  },
+  {
+    "zotero_key": "Y5RPBKEL",
+    "kind": "evidence",
+    "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:16Z"
+  },
+  {
+    "zotero_key": "W676JVMB",
+    "kind": "evidence",
+    "title": "Proton Pump Inhibitor Co-prescription, Dabigatran Use, and Ischaemic Stroke or Transient Ischaemic Attack in Atrial Fibrillation: A Population-Based Case-Control Study.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:15Z"
+  },
+  {
+    "zotero_key": "5KS2YET7",
+    "kind": "evidence",
+    "title": "Stroke reperfusion in Aotearoa New Zealand: 5-year trends and a comparison of stroke clot retrieval and non-stroke clot retrieval centre presenters.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:50:14Z"
+  },
+  {
+    "zotero_key": "TN8VWMHL",
+    "kind": "evidence",
+    "title": "Preventing Fatal Stroke: The Hidden Survival Benefit of Left Atrial Appendage Occlusion in Cardiac Surgery.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T08:44:30Z"
   },
   {
     "zotero_key": "NZ4JXRAZ",

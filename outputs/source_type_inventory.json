@@ -1,0 +1,778 @@
+{
+  "Administrative Data": {
+    "count": 19,
+    "items": [
+      {
+        "zotero_key": "3PW6Z6NK",
+        "title": "ACC Injury Claims Data",
+        "stable_id": "NZNEURO-006",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:44Z",
+        "date_modified": "2026-10-14T08:50:31Z"
+      },
+      {
+        "zotero_key": "3YKBWTM5",
+        "title": "Pharmaceutical Collection (PHARMS)",
+        "stable_id": "NZNEURO-009",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:44Z",
+        "date_modified": "2026-10-14T08:50:28Z"
+      },
+      {
+        "zotero_key": "4CAPJL5I",
+        "title": "PRIMHD (Programme for the Integration of Mental Health Data)",
+        "stable_id": "NZNEURO-011",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:44Z",
+        "date_modified": "2026-10-14T08:50:26Z"
+      },
+      {
+        "zotero_key": "65DRYX68",
+        "title": "Mortality Collection (MORT)",
+        "stable_id": "NZNEURO-010",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:44Z",
+        "date_modified": "2026-10-14T08:50:27Z"
+      },
+      {
+        "zotero_key": "AEQHPHUY",
+        "title": "ORS Students Under 21 (ID 25)",
+        "stable_id": "NZNEURO-001",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:44Z",
+        "date_modified": "2026-10-14T08:50:35Z"
+      },
+      {
+        "zotero_key": "CAFVZLRT",
+        "title": "SOCRATES (DSS) Data",
+        "stable_id": "NZNEURO-002",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:44Z",
+        "date_modified": "2026-10-14T08:50:34Z"
+      },
+      {
+        "zotero_key": "DZR54KZV",
+        "title": "B4 School Check (Well Child Tamariki Ora)",
+        "stable_id": "NZNEURO-014",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:53Z"
+      },
+      {
+        "zotero_key": "K4VD2L2Y",
+        "title": "MSD Income Support Payments (SWIFTT)",
+        "stable_id": "NZNEURO-007",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:44Z",
+        "date_modified": "2026-10-14T08:50:30Z"
+      },
+      {
+        "zotero_key": "L69PU3R3",
+        "title": "HealthOne (shared electronic patient record, South Island)",
+        "stable_id": "NZNEURO-019",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:44Z"
+      },
+      {
+        "zotero_key": "MDVPUTGU",
+        "title": "IDI MOH Chronic Condition/Significant Health Event Cohort data",
+        "stable_id": "NZNEURO-005",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:44Z",
+        "date_modified": "2026-10-14T08:50:32Z"
+      },
+      {
+        "zotero_key": "N8UE5D2T",
+        "title": "CARM database (Centre for Adverse Reactions Monitoring)",
+        "stable_id": "NZNEURO-018",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:45Z"
+      },
+      {
+        "zotero_key": "QIQX42SS",
+        "title": "EpiSurv - National Notifiable Diseases database",
+        "stable_id": "NZNEURO-017",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:46Z"
+      },
+      {
+        "zotero_key": "QXBKZYG7",
+        "title": "National Patient Flow (NPF)",
+        "stable_id": "NZNEURO-013",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:58Z"
+      },
+      {
+        "zotero_key": "RVK7QPAU",
+        "title": "interRAI (Home Care Assessment Data)",
+        "stable_id": "NZNEURO-004",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:44Z",
+        "date_modified": "2026-10-14T08:50:32Z"
+      },
+      {
+        "zotero_key": "S9MFTRIR",
+        "title": "Child Disability Allowance",
+        "stable_id": "NZNEURO-003",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:44Z",
+        "date_modified": "2026-10-14T08:50:33Z"
+      },
+      {
+        "zotero_key": "SCGGN2XL",
+        "title": "Pharmaceutical Schedule + Special Authority criteria",
+        "stable_id": "NZNEURO-016",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:47Z"
+      },
+      {
+        "zotero_key": "VSLYTTQ9",
+        "title": "National Maternity Collection (MAT)",
+        "stable_id": "NZNEURO-012",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:44Z",
+        "date_modified": "2026-10-14T08:50:25Z"
+      },
+      {
+        "zotero_key": "XG5EYQIA",
+        "title": "National Minimum Dataset (NMDS) - Hospital Events",
+        "stable_id": "NZNEURO-008",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:44Z",
+        "date_modified": "2026-10-14T08:50:29Z"
+      },
+      {
+        "zotero_key": "YXCB7QGW",
+        "title": "Pharmac NPPA Outcome Data",
+        "stable_id": "NZNEURO-015",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:52Z"
+      }
+    ]
+  },
+  "National Surveys": {
+    "count": 13,
+    "items": [
+      {
+        "zotero_key": "2FVR7GXT",
+        "title": "Disability Survey 2013 - Adults 15+ in private households",
+        "stable_id": "NZNEURO-023",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:41Z"
+      },
+      {
+        "zotero_key": "2TF2H3WK",
+        "title": "Household Labour Force Survey (HLFS)",
+        "stable_id": "NZNEURO-028",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:37Z"
+      },
+      {
+        "zotero_key": "5DPJKCQ9",
+        "title": "Disability Survey 2013 - Adults in residential facilities",
+        "stable_id": "NZNEURO-025",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:39Z"
+      },
+      {
+        "zotero_key": "89S7SUAT",
+        "title": "General Social Survey (GSS)",
+        "stable_id": "NZNEURO-026",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:38Z"
+      },
+      {
+        "zotero_key": "A9F7FSBK",
+        "title": "Household Economic Survey / Household Income and Living Survey (HES/HILS)",
+        "stable_id": "NZNEURO-029",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:36Z"
+      },
+      {
+        "zotero_key": "BNLHL6PC",
+        "title": "Household Disability Survey 2023 - Adults 15+",
+        "stable_id": "NZNEURO-021",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:43Z"
+      },
+      {
+        "zotero_key": "FHD7CGM9",
+        "title": "New Zealand Health Survey (NZHS) - Children 0-14",
+        "stable_id": "NZNEURO-032",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:38Z",
+        "date_modified": "2026-10-14T08:51:24Z"
+      },
+      {
+        "zotero_key": "JZWHV2JM",
+        "title": "Survey of Family, Income and Employment (SoFIE)",
+        "stable_id": "NZNEURO-030",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:39Z",
+        "date_modified": "2026-10-14T08:51:10Z"
+      },
+      {
+        "zotero_key": "MI8NGMU5",
+        "title": "Te Kupenga 2018",
+        "stable_id": "NZNEURO-027",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:38Z"
+      },
+      {
+        "zotero_key": "P2T3PKLU",
+        "title": "Disability Survey 2013 - Children under 15 in private households",
+        "stable_id": "NZNEURO-024",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:40Z"
+      },
+      {
+        "zotero_key": "UQHER46F",
+        "title": "New Zealand Health Survey (NZHS) - Adults 15+",
+        "stable_id": "NZNEURO-031",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:39Z",
+        "date_modified": "2026-10-14T08:51:03Z"
+      },
+      {
+        "zotero_key": "XNG7XNYT",
+        "title": "Census (2013, 2018, 2023)",
+        "stable_id": "NZNEURO-020",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:44Z"
+      },
+      {
+        "zotero_key": "Y3SKXM8C",
+        "title": "Household Disability Survey 2023 - Children under 15",
+        "stable_id": "NZNEURO-022",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:43Z",
+        "date_modified": "2026-10-14T08:50:42Z"
+      }
+    ]
+  },
+  "Research Surveys & Cohort Studies": {
+    "count": 16,
+    "items": [
+      {
+        "zotero_key": "2SUVDJY4",
+        "title": "Life and Living in Advanced Age (LiLACS)",
+        "stable_id": "NZNEURO-037",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:38Z",
+        "date_modified": "2026-10-14T08:51:20Z"
+      },
+      {
+        "zotero_key": "4X6M2747",
+        "title": "BIONIC (2010-11) and BIONIC2 (2021-22)",
+        "stable_id": "NZNEURO-045",
+        "pmid": "23177532",
+        "date_added": "2026-08-28T03:14:37Z",
+        "date_modified": "2026-10-14T08:51:36Z"
+      },
+      {
+        "zotero_key": "83SZEAZ8",
+        "title": "ARCOS I-III / Auckland Regional Community Stroke Studies (published sources checked)",
+        "stable_id": "NZNEURO-043",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:37Z",
+        "date_modified": "2026-10-14T08:51:38Z"
+      },
+      {
+        "zotero_key": "87XJPU9W",
+        "title": "Growing Up in New Zealand",
+        "stable_id": "NZNEURO-033",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:38Z",
+        "date_modified": "2026-10-14T08:51:23Z"
+      },
+      {
+        "zotero_key": "8AXJ89MB",
+        "title": "NZ Longitudinal Study of Ageing (NZLSA)",
+        "stable_id": "NZNEURO-036",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:38Z",
+        "date_modified": "2026-10-14T08:51:21Z"
+      },
+      {
+        "zotero_key": "8GN2GWSE",
+        "title": "Dunedin Study - adult ADHD analysis",
+        "stable_id": "NZNEURO-048",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:37Z",
+        "date_modified": "2026-10-14T08:51:33Z"
+      },
+      {
+        "zotero_key": "8ZD8VIBV",
+        "title": "Neurogenetics Research Clinic",
+        "stable_id": "NZNEURO-040",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:38Z",
+        "date_modified": "2026-10-14T08:51:13Z"
+      },
+      {
+        "zotero_key": "CZ4MBLUA",
+        "title": "MS prevalence in NZ",
+        "stable_id": "NZNEURO-035",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:38Z",
+        "date_modified": "2026-10-14T08:51:22Z"
+      },
+      {
+        "zotero_key": "F8Q8G4X5",
+        "title": "ARCOS V (fifth Auckland Regional Community Stroke Study)",
+        "stable_id": "NZNEURO-044",
+        "pmid": "31648621",
+        "date_added": "2026-08-28T03:14:37Z",
+        "date_modified": "2026-10-14T08:51:37Z"
+      },
+      {
+        "zotero_key": "H3ZXYRB3",
+        "title": "Dementia Prevention Research Clinics (DPRC) - Auckland, Christchurch, Dunedin",
+        "stable_id": "NZNEURO-039",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:38Z",
+        "date_modified": "2026-10-14T08:51:14Z"
+      },
+      {
+        "zotero_key": "IJ9ENSKG",
+        "title": "Health, Work and Retirement Study (HWR)",
+        "stable_id": "NZNEURO-038",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:38Z",
+        "date_modified": "2026-10-14T08:51:19Z"
+      },
+      {
+        "zotero_key": "IPCQAXC9",
+        "title": "Youth Health and Wellbeing Survey",
+        "stable_id": "NZNEURO-034",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:38Z",
+        "date_modified": "2026-10-14T08:51:23Z"
+      },
+      {
+        "zotero_key": "MTBSWA64",
+        "title": "Migraine in Aotearoa NZ Survey (MiANZ) 2022",
+        "stable_id": "NZNEURO-041",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:38Z",
+        "date_modified": "2026-10-14T08:51:12Z"
+      },
+      {
+        "zotero_key": "QP8NVLDL",
+        "title": "Voice of Rare Disorders Survey 2025",
+        "stable_id": "NZNEURO-042",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:38Z",
+        "date_modified": "2026-10-14T08:51:11Z"
+      },
+      {
+        "zotero_key": "TPTQU5ZL",
+        "title": "Stroke Research Clinic",
+        "stable_id": "NZNEURO-047",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:37Z",
+        "date_modified": "2026-10-14T08:51:34Z"
+      },
+      {
+        "zotero_key": "X77NQWWH",
+        "title": "Auckland TIA Study (ATIAS) 2011-12",
+        "stable_id": "NZNEURO-046",
+        "pmid": "27470991",
+        "date_added": "2026-08-28T03:14:37Z",
+        "date_modified": "2026-10-14T08:51:35Z"
+      }
+    ]
+  },
+  "Registries": {
+    "count": 11,
+    "items": [
+      {
+        "zotero_key": "85CIRTB6",
+        "title": "NZ Cerebral Palsy Register (NZCPR)",
+        "stable_id": "NZNEURO-070",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:35Z",
+        "date_modified": "2026-10-14T08:51:48Z"
+      },
+      {
+        "zotero_key": "8CY42RJT",
+        "title": "MND NZ Registry",
+        "stable_id": "NZNEURO-065",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:35Z",
+        "date_modified": "2026-10-14T08:51:53Z"
+      },
+      {
+        "zotero_key": "E6GY5WWK",
+        "title": "CJD Registry",
+        "stable_id": "NZNEURO-067",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:35Z",
+        "date_modified": "2026-10-14T08:51:51Z"
+      },
+      {
+        "zotero_key": "F467XMT7",
+        "title": "EpiNet database / NZ SUDEP sub-registry",
+        "stable_id": "NZNEURO-073",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:34Z",
+        "date_modified": "2026-10-14T08:52:00Z"
+      },
+      {
+        "zotero_key": "FQBT4BSE",
+        "title": "NZ Cancer Registry (NZCR)",
+        "stable_id": "NZNEURO-068",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:35Z",
+        "date_modified": "2026-10-14T08:51:50Z"
+      },
+      {
+        "zotero_key": "HYQMJ5L5",
+        "title": "National Stroke Reperfusion Register",
+        "stable_id": "NZNEURO-072",
+        "pmid": "38327096",
+        "date_added": "2026-08-28T03:14:35Z",
+        "date_modified": "2026-10-14T08:51:46Z"
+      },
+      {
+        "zotero_key": "I66BQXD7",
+        "title": "NZ Congenital Anomalies Monitoring Program (duplicate/recategorisation candidate)",
+        "stable_id": "NZNEURO-075",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:34Z",
+        "date_modified": "2026-10-14T08:51:59Z"
+      },
+      {
+        "zotero_key": "NGR8ZJTH",
+        "title": "Punaha Io - NZ Neuro-Genetic Registry & BioBank",
+        "stable_id": "NZNEURO-066",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:35Z",
+        "date_modified": "2026-10-14T08:51:52Z"
+      },
+      {
+        "zotero_key": "SZ2LSZJN",
+        "title": "NZ Spinal Cord Injury Registry (NZSCIR)",
+        "stable_id": "NZNEURO-069",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:35Z",
+        "date_modified": "2026-10-14T08:51:49Z"
+      },
+      {
+        "zotero_key": "YPSHL8S2",
+        "title": "NZ Major Trauma Registry (NZ-MTR)",
+        "stable_id": "NZNEURO-071",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:35Z",
+        "date_modified": "2026-10-14T08:51:47Z"
+      },
+      {
+        "zotero_key": "Z8UPTM8X",
+        "title": "MSBase NZ",
+        "stable_id": "NZNEURO-074",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:34Z",
+        "date_modified": "2026-10-14T08:52:00Z"
+      }
+    ]
+  },
+  "Neurological Workforce Data": {
+    "count": 6,
+    "items": [
+      {
+        "zotero_key": "AH64ZBXY",
+        "title": "NZ Neurologist Workforce 2024 Analysis (Ranta et al., 2026)",
+        "stable_id": "NZNEURO-050",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:37Z",
+        "date_modified": "2026-10-14T08:51:31Z"
+      },
+      {
+        "zotero_key": "DFPDLZY8",
+        "title": "Health Workforce Information Programme (HWIP)",
+        "stable_id": "NZNEURO-053",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:37Z",
+        "date_modified": "2026-10-14T08:51:25Z"
+      },
+      {
+        "zotero_key": "FNMM9CUY",
+        "title": "NZ's Neurologist Workforce (2015 study)",
+        "stable_id": "NZNEURO-049",
+        "pmid": "26365844",
+        "date_added": "2026-08-28T03:14:37Z",
+        "date_modified": "2026-10-14T08:51:32Z"
+      },
+      {
+        "zotero_key": "GQBVF9LM",
+        "title": "MCNZ Annual Workforce Survey + Data Dashboard",
+        "stable_id": "NZNEURO-051",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:37Z",
+        "date_modified": "2026-10-14T08:51:31Z"
+      },
+      {
+        "zotero_key": "RFD84SCW",
+        "title": "PBNZ Specialist Scope Register",
+        "stable_id": "NZNEURO-054",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:36Z",
+        "date_modified": "2026-10-14T08:51:46Z"
+      },
+      {
+        "zotero_key": "WWBNGWW8",
+        "title": "NZPB Register - Neuropsychologist Scope",
+        "stable_id": "NZNEURO-052",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:37Z",
+        "date_modified": "2026-10-14T08:51:26Z"
+      }
+    ]
+  },
+  "International Data Systems": {
+    "count": 4,
+    "items": [
+      {
+        "zotero_key": "3GAABXGM",
+        "title": "Global Health Data Exchange (GHDx) - NZ records",
+        "stable_id": "NZNEURO-076",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:34Z",
+        "date_modified": "2026-10-14T08:51:58Z"
+      },
+      {
+        "zotero_key": "GTVJILLX",
+        "title": "Atlas of MS",
+        "stable_id": "NZNEURO-077",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:34Z",
+        "date_modified": "2026-10-14T08:51:57Z"
+      },
+      {
+        "zotero_key": "RTSVW2DC",
+        "title": "WHO Mortality Database - NZ submission",
+        "stable_id": "NZNEURO-078",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:34Z",
+        "date_modified": "2026-10-14T08:51:56Z"
+      },
+      {
+        "zotero_key": "UBQS39RW",
+        "title": "Health at a Glance (OECD Indicators) - NZ profile",
+        "stable_id": "NZNEURO-079",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:34Z",
+        "date_modified": "2026-10-14T08:51:55Z"
+      }
+    ]
+  },
+  "Use of NZ Neurological Data": {
+    "count": 10,
+    "items": [
+      {
+        "zotero_key": "2KVQ2IJ4",
+        "title": "MS Virtual Register (NZ, IDI-linked)",
+        "stable_id": "NZNEURO-061",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:36Z",
+        "date_modified": "2026-10-14T08:51:39Z"
+      },
+      {
+        "zotero_key": "5BGS7UJP",
+        "title": "Ethnic inequalities in 30-day ischaemic stroke survival",
+        "stable_id": "NZNEURO-056",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:36Z",
+        "date_modified": "2026-10-14T08:51:44Z"
+      },
+      {
+        "zotero_key": "5X2RBBR4",
+        "title": "Dementia Economic Impact Report (DEIR) 2020/2021",
+        "stable_id": "NZNEURO-062",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:36Z",
+        "date_modified": "2026-10-14T08:51:38Z"
+      },
+      {
+        "zotero_key": "9J4569WP",
+        "title": "Changes in stroke incidence, Auckland, 1981-91",
+        "stable_id": "NZNEURO-058",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:36Z",
+        "date_modified": "2026-10-14T08:51:42Z"
+      },
+      {
+        "zotero_key": "A6TT5ZQ9",
+        "title": "Ethnic disparities in stroke subtypes, 2002-2003",
+        "stable_id": "NZNEURO-059",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:36Z",
+        "date_modified": "2026-10-14T08:51:41Z"
+      },
+      {
+        "zotero_key": "GR4TIUAJ",
+        "title": "Atrial fibrillation in NZ primary care",
+        "stable_id": "NZNEURO-057",
+        "pmid": "27798365",
+        "date_added": "2026-08-28T03:14:36Z",
+        "date_modified": "2026-10-14T08:51:43Z"
+      },
+      {
+        "zotero_key": "HC248A8M",
+        "title": "Ethnic and HLA patterns related to MS, Wellington",
+        "stable_id": "NZNEURO-060",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:36Z",
+        "date_modified": "2026-10-14T08:51:40Z"
+      },
+      {
+        "zotero_key": "MNAPHGYH",
+        "title": "NZIER Economic Burden of Stroke (2021)",
+        "stable_id": "NZNEURO-063",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:35Z",
+        "date_modified": "2026-10-14T08:51:54Z"
+      },
+      {
+        "zotero_key": "X6YEYQJI",
+        "title": "MS impact on employment and income in NZ",
+        "stable_id": "NZNEURO-064",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:35Z",
+        "date_modified": "2026-10-14T08:51:53Z"
+      },
+      {
+        "zotero_key": "YHME3U8S",
+        "title": "Acute encephalitis in adults, Auckland (2005-2009)",
+        "stable_id": "NZNEURO-055",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:36Z",
+        "date_modified": "2026-10-14T08:51:45Z"
+      }
+    ]
+  },
+  "Published Research / Journal Articles": {
+    "count": 13,
+    "items": [
+      {
+        "zotero_key": "3Y7YSU2B",
+        "title": "Primary care clinicians' perspectives on migraine management in Aotearoa New Zealand: a qualitative study.",
+        "stable_id": "E044",
+        "pmid": "41134026",
+        "date_added": "2026-10-01T23:39:32Z",
+        "date_modified": "2026-10-14T08:50:22Z"
+      },
+      {
+        "zotero_key": "45L2EVCE",
+        "title": "Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets.",
+        "stable_id": "E043",
+        "pmid": "42806265",
+        "date_added": "2026-10-01T23:39:31Z",
+        "date_modified": "2026-10-14T08:50:23Z"
+      },
+      {
+        "zotero_key": "59CVR6FA",
+        "title": "Neurodevelopmental impairment and morbidity patterns across two epochs among extremely preterm infant survivors in Australia and New Zealand.",
+        "stable_id": "E049",
+        "pmid": "42697710",
+        "date_added": "2026-10-01T23:39:35Z",
+        "date_modified": "2026-10-14T08:50:17Z"
+      },
+      {
+        "zotero_key": "5KS2YET7",
+        "title": "Stroke reperfusion in Aotearoa New Zealand: 5-year trends and a comparison of stroke clot retrieval and non-stroke clot retrieval centre presenters.",
+        "stable_id": "E052",
+        "pmid": "42824915",
+        "date_added": "2026-10-04T20:34:50Z",
+        "date_modified": "2026-10-14T08:50:14Z"
+      },
+      {
+        "zotero_key": "ER5M6LXF",
+        "title": "Speech-language pathology services for acquired communication disorders among indigenous peoples: A systematic review.",
+        "stable_id": "E041",
+        "pmid": "41793278",
+        "date_added": "2026-10-01T23:39:30Z",
+        "date_modified": "2026-10-14T08:50:24Z"
+      },
+      {
+        "zotero_key": "F87ISJBS",
+        "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
+        "stable_id": "E047",
+        "pmid": "42704249",
+        "date_added": "2026-10-01T23:39:33Z",
+        "date_modified": "2026-10-14T08:50:19Z"
+      },
+      {
+        "zotero_key": "MB5EDL2X",
+        "title": "Stroke clinical documentation education program in Australia and New Zealand.",
+        "stable_id": "E048",
+        "pmid": "42698334",
+        "date_added": "2026-10-01T23:39:34Z",
+        "date_modified": "2026-10-14T08:50:18Z"
+      },
+      {
+        "zotero_key": "PLMUIUQ9",
+        "title": "Characteristics of a Cohort of Individuals With SCA27B Associated With Repeat Expansions in FGF14.",
+        "stable_id": "E042",
+        "pmid": "42699715",
+        "date_added": "2026-10-01T23:39:31Z",
+        "date_modified": "2026-10-14T08:50:24Z"
+      },
+      {
+        "zotero_key": "TN8VWMHL",
+        "title": "Preventing Fatal Stroke: The Hidden Survival Benefit of Left Atrial Appendage Occlusion in Cardiac Surgery.",
+        "stable_id": "E053",
+        "pmid": "42843495",
+        "date_added": "2026-10-11T21:09:31Z",
+        "date_modified": "2026-10-14T08:44:30Z"
+      },
+      {
+        "zotero_key": "W676JVMB",
+        "title": "Proton Pump Inhibitor Co-prescription, Dabigatran Use, and Ischaemic Stroke or Transient Ischaemic Attack in Atrial Fibrillation: A Population-Based Case-Control Study.",
+        "stable_id": "E051",
+        "pmid": "42829417",
+        "date_added": "2026-10-04T20:34:49Z",
+        "date_modified": "2026-10-14T08:50:15Z"
+      },
+      {
+        "zotero_key": "Y5IS5BVH",
+        "title": "Dabigatran use and cerebrovascular event risk across body mass index in atrial fibrillation: a real-world nested case-control study.",
+        "stable_id": "E046",
+        "pmid": "42704410",
+        "date_added": "2026-10-01T23:39:33Z",
+        "date_modified": "2026-10-14T08:50:20Z"
+      },
+      {
+        "zotero_key": "Y5RPBKEL",
+        "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",
+        "stable_id": "E050",
+        "pmid": "42707892",
+        "date_added": "2026-10-01T23:39:35Z",
+        "date_modified": "2026-10-14T08:50:16Z"
+      },
+      {
+        "zotero_key": "Y9JVIYG3",
+        "title": "Ethnic Differences in Outcomes of Endovascular Thrombectomy in New Zealand.",
+        "stable_id": "E045",
+        "pmid": "42742289",
+        "date_added": "2026-10-01T23:39:32Z",
+        "date_modified": "2026-10-14T08:50:21Z"
+      }
+    ]
+  }
+}

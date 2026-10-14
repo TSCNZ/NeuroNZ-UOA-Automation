@@ -1,150 +1,136 @@
 record_id,severity,field,issue
-NZNEURO-011,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-008,review,age_group,Recommended filter/enrichment field is blank
-NZNEURO-004,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-003,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-002,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-001,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-029,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-022,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-021,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-019,review,age_group,Recommended filter/enrichment field is blank
-NZNEURO-019,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-018,review,age_group,Recommended filter/enrichment field is blank
-NZNEURO-017,review,age_group,Recommended filter/enrichment field is blank
-NZNEURO-013,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-030,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-042,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-041,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-039,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-038,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-037,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-036,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-053,review,type_of_data,Recommended filter/enrichment field is blank
-NZNEURO-052,review,type_of_data,Recommended filter/enrichment field is blank
-NZNEURO-052,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-047,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-045,blocker,primary_link,Required public field is blank
-NZNEURO-043,blocker,primary_link,Required public field is blank
-NZNEURO-043,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-054,review,type_of_data,Recommended filter/enrichment field is blank
-NZNEURO-054,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-070,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-068,review,age_group,Recommended filter/enrichment field is blank
-NZNEURO-079,review,age_group,Recommended filter/enrichment field is blank
-NZNEURO-078,review,age_group,Recommended filter/enrichment field is blank
+NZNEURO-073,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-074,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-075,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-076,review,age_group,Recommended filter/enrichment field is blank
 NZNEURO-077,review,type_of_data,Recommended filter/enrichment field is blank
 NZNEURO-077,review,age_group,Recommended filter/enrichment field is blank
-NZNEURO-076,review,age_group,Recommended filter/enrichment field is blank
-NZNEURO-075,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-074,review,public_text,Contains Verification pending text that should remain internal unless approved
-NZNEURO-073,review,public_text,Contains Verification pending text that should remain internal unless approved
-pubmed:42751425,review,candidate,Neurological study focus requires review
-pubmed:42167006,review,candidate,Animal breed match does not establish NZ relevance
-pubmed:42725169,review,candidate,Neurological study focus requires review
-pubmed:42686207,review,candidate,Neurological study focus requires review
-pubmed:42679829,review,candidate,Neurological study focus requires review
-pubmed:42507461,review,candidate,Neurological study focus requires review
-pubmed:41368923,review,candidate,Neurological study focus requires review
-pubmed:42784819,review,candidate,Historical commentary requires data relevance review
-pubmed:42619342,review,candidate,Neurological study focus requires review
-pubmed:42800307,review,candidate,Neurological study focus requires review
-,review,candidate,Dataset source discovery failed: neurological: Expecting value: line 1 column 1 (char 0)
-,review,candidate,Dataset source discovery failed: stroke: Expecting value: line 1 column 1 (char 0)
-,review,candidate,Dataset source discovery failed: dementia: Expecting value: line 1 column 1 (char 0)
-,review,candidate,Dataset source discovery failed: disability health: Expecting value: line 1 column 1 (char 0)
-VSLYTTQ9,review,metadata_taxonomy,condition_link_needs_review
-4CAPJL5I,review,metadata_taxonomy,condition_link_needs_review
-65DRYX68,review,metadata_taxonomy,condition_link_needs_review
-3YKBWTM5,review,metadata_taxonomy,condition_link_needs_review
-XG5EYQIA,review,metadata_taxonomy,condition_link_needs_review
-K4VD2L2Y,review,metadata_taxonomy,condition_link_needs_review
-3PW6Z6NK,review,metadata_taxonomy,condition_link_needs_review
-MDVPUTGU,review,metadata_taxonomy,condition_link_needs_review
-RVK7QPAU,review,metadata_taxonomy,condition_link_needs_review
-S9MFTRIR,review,metadata_taxonomy,condition_link_needs_review
-CAFVZLRT,review,metadata_taxonomy,condition_link_needs_review
-AEQHPHUY,review,metadata_taxonomy,condition_link_needs_review
-A9F7FSBK,review,metadata_taxonomy,condition_link_needs_review
-2TF2H3WK,review,metadata_taxonomy,condition_link_needs_review
-MI8NGMU5,review,metadata_taxonomy,condition_link_needs_review
-89S7SUAT,review,metadata_taxonomy,condition_link_needs_review
-5DPJKCQ9,review,metadata_taxonomy,condition_link_needs_review
-P2T3PKLU,review,metadata_taxonomy,condition_link_needs_review
-2FVR7GXT,review,metadata_taxonomy,condition_link_needs_review
-Y3SKXM8C,review,metadata_taxonomy,condition_link_needs_review
-BNLHL6PC,review,metadata_taxonomy,condition_link_needs_review
-XNG7XNYT,review,metadata_taxonomy,condition_link_needs_review
-L69PU3R3,review,metadata_taxonomy,condition_link_needs_review
-N8UE5D2T,review,metadata_taxonomy,condition_link_needs_review
-QIQX42SS,review,metadata_taxonomy,condition_link_needs_review
-SCGGN2XL,review,metadata_taxonomy,condition_link_needs_review
-YXCB7QGW,review,metadata_taxonomy,condition_link_needs_review
-DZR54KZV,review,metadata_taxonomy,condition_link_needs_review
-QXBKZYG7,review,metadata_taxonomy,condition_link_needs_review
-UQHER46F,review,metadata_taxonomy,condition_link_needs_review
-JZWHV2JM,review,metadata_taxonomy,condition_link_needs_review
-QP8NVLDL,review,metadata_taxonomy,condition_link_needs_review
-MTBSWA64,review,metadata_taxonomy,condition_link_needs_review
-8ZD8VIBV,review,metadata_taxonomy,condition_link_needs_review
-H3ZXYRB3,review,metadata_taxonomy,condition_link_needs_review
-IJ9ENSKG,review,metadata_taxonomy,condition_link_needs_review
-2SUVDJY4,review,metadata_taxonomy,condition_link_needs_review
-8AXJ89MB,review,metadata_taxonomy,condition_link_needs_review
-CZ4MBLUA,review,metadata_taxonomy,condition_link_needs_review
-IPCQAXC9,review,metadata_taxonomy,condition_link_needs_review
-87XJPU9W,review,metadata_taxonomy,condition_link_needs_review
-FHD7CGM9,review,metadata_taxonomy,condition_link_needs_review
-DFPDLZY8,review,metadata_taxonomy,condition_link_needs_review
-WWBNGWW8,review,metadata_taxonomy,condition_link_needs_review
-GQBVF9LM,review,metadata_taxonomy,condition_link_needs_review
-AH64ZBXY,review,metadata_taxonomy,condition_link_needs_review
-FNMM9CUY,review,metadata_taxonomy,condition_link_needs_review
-8GN2GWSE,review,metadata_taxonomy,condition_link_needs_review
-TPTQU5ZL,review,metadata_taxonomy,condition_link_needs_review
-X77NQWWH,review,metadata_taxonomy,condition_link_needs_review
-4X6M2747,review,metadata_taxonomy,condition_link_needs_review
-F8Q8G4X5,review,metadata_taxonomy,condition_link_needs_review
-83SZEAZ8,review,metadata_taxonomy,condition_link_needs_review
-5X2RBBR4,review,metadata_taxonomy,condition_link_needs_review
-2KVQ2IJ4,review,metadata_taxonomy,condition_link_needs_review
-HC248A8M,review,metadata_taxonomy,condition_link_needs_review
-A6TT5ZQ9,review,metadata_taxonomy,condition_link_needs_review
-9J4569WP,review,metadata_taxonomy,condition_link_needs_review
-GR4TIUAJ,review,metadata_taxonomy,condition_link_needs_review
-5BGS7UJP,review,metadata_taxonomy,condition_link_needs_review
-YHME3U8S,review,metadata_taxonomy,condition_link_needs_review
-RFD84SCW,review,metadata_taxonomy,condition_link_needs_review
-HYQMJ5L5,review,metadata_taxonomy,condition_link_needs_review
-YPSHL8S2,review,metadata_taxonomy,condition_link_needs_review
-85CIRTB6,review,metadata_taxonomy,condition_link_needs_review
-SZ2LSZJN,review,metadata_taxonomy,condition_link_needs_review
-FQBT4BSE,review,metadata_taxonomy,condition_link_needs_review
-E6GY5WWK,review,metadata_taxonomy,condition_link_needs_review
-NGR8ZJTH,review,metadata_taxonomy,condition_link_needs_review
-8CY42RJT,review,metadata_taxonomy,condition_link_needs_review
-X6YEYQJI,review,metadata_taxonomy,condition_link_needs_review
-MNAPHGYH,review,metadata_taxonomy,condition_link_needs_review
-UBQS39RW,review,metadata_taxonomy,condition_link_needs_review
-RTSVW2DC,review,metadata_taxonomy,condition_link_needs_review
-GTVJILLX,review,metadata_taxonomy,condition_link_needs_review
-3GAABXGM,review,metadata_taxonomy,condition_link_needs_review
-I66BQXD7,review,metadata_taxonomy,condition_link_needs_review
-Z8UPTM8X,review,metadata_taxonomy,condition_link_needs_review
+NZNEURO-078,review,age_group,Recommended filter/enrichment field is blank
+NZNEURO-079,review,age_group,Recommended filter/enrichment field is blank
+NZNEURO-068,review,age_group,Recommended filter/enrichment field is blank
+NZNEURO-070,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-054,review,type_of_data,Recommended filter/enrichment field is blank
+NZNEURO-054,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-043,blocker,primary_link,Required public field is blank
+NZNEURO-043,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-045,blocker,primary_link,Required public field is blank
+NZNEURO-047,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-052,review,type_of_data,Recommended filter/enrichment field is blank
+NZNEURO-052,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-053,review,type_of_data,Recommended filter/enrichment field is blank
+NZNEURO-036,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-037,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-038,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-039,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-041,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-042,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-030,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-013,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-017,review,age_group,Recommended filter/enrichment field is blank
+NZNEURO-018,review,age_group,Recommended filter/enrichment field is blank
+NZNEURO-019,review,age_group,Recommended filter/enrichment field is blank
+NZNEURO-019,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-021,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-022,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-029,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-001,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-002,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-003,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-004,review,public_text,Contains Verification pending text that should remain internal unless approved
+NZNEURO-008,review,age_group,Recommended filter/enrichment field is blank
+NZNEURO-011,review,public_text,Contains Verification pending text that should remain internal unless approved
 F467XMT7,review,metadata_taxonomy,condition_link_needs_review
-TN8VWMHL,review,metadata_taxonomy,catalogue_relationship_needs_review
-5KS2YET7,review,metadata_taxonomy,catalogue_relationship_needs_review
-W676JVMB,review,metadata_taxonomy,catalogue_relationship_needs_review
-Y5RPBKEL,review,metadata_taxonomy,catalogue_relationship_needs_review
-59CVR6FA,review,metadata_taxonomy,catalogue_relationship_needs_review
-MB5EDL2X,review,metadata_taxonomy,catalogue_relationship_needs_review
-F87ISJBS,review,metadata_taxonomy,catalogue_relationship_needs_review
-Y5IS5BVH,review,metadata_taxonomy,catalogue_relationship_needs_review
-Y9JVIYG3,review,metadata_taxonomy,catalogue_relationship_needs_review
-3Y7YSU2B,review,metadata_taxonomy,catalogue_relationship_needs_review
-45L2EVCE,review,metadata_taxonomy,condition_link_needs_review; catalogue_relationship_needs_review
-PLMUIUQ9,review,metadata_taxonomy,catalogue_relationship_needs_review
+Z8UPTM8X,review,metadata_taxonomy,condition_link_needs_review
+I66BQXD7,review,metadata_taxonomy,condition_link_needs_review
+3GAABXGM,review,metadata_taxonomy,condition_link_needs_review
+GTVJILLX,review,metadata_taxonomy,condition_link_needs_review
+RTSVW2DC,review,metadata_taxonomy,condition_link_needs_review
+UBQS39RW,review,metadata_taxonomy,condition_link_needs_review
+MNAPHGYH,review,metadata_taxonomy,condition_link_needs_review
+X6YEYQJI,review,metadata_taxonomy,condition_link_needs_review
+8CY42RJT,review,metadata_taxonomy,condition_link_needs_review
+NGR8ZJTH,review,metadata_taxonomy,condition_link_needs_review
+E6GY5WWK,review,metadata_taxonomy,condition_link_needs_review
+FQBT4BSE,review,metadata_taxonomy,condition_link_needs_review
+SZ2LSZJN,review,metadata_taxonomy,condition_link_needs_review
+85CIRTB6,review,metadata_taxonomy,condition_link_needs_review
+YPSHL8S2,review,metadata_taxonomy,condition_link_needs_review
+HYQMJ5L5,review,metadata_taxonomy,condition_link_needs_review
+RFD84SCW,review,metadata_taxonomy,condition_link_needs_review
+YHME3U8S,review,metadata_taxonomy,condition_link_needs_review
+5BGS7UJP,review,metadata_taxonomy,condition_link_needs_review
+GR4TIUAJ,review,metadata_taxonomy,condition_link_needs_review
+9J4569WP,review,metadata_taxonomy,condition_link_needs_review
+A6TT5ZQ9,review,metadata_taxonomy,condition_link_needs_review
+HC248A8M,review,metadata_taxonomy,condition_link_needs_review
+2KVQ2IJ4,review,metadata_taxonomy,condition_link_needs_review
+5X2RBBR4,review,metadata_taxonomy,condition_link_needs_review
+83SZEAZ8,review,metadata_taxonomy,condition_link_needs_review
+F8Q8G4X5,review,metadata_taxonomy,condition_link_needs_review
+4X6M2747,review,metadata_taxonomy,condition_link_needs_review
+X77NQWWH,review,metadata_taxonomy,condition_link_needs_review
+TPTQU5ZL,review,metadata_taxonomy,condition_link_needs_review
+8GN2GWSE,review,metadata_taxonomy,condition_link_needs_review
+FNMM9CUY,review,metadata_taxonomy,condition_link_needs_review
+AH64ZBXY,review,metadata_taxonomy,condition_link_needs_review
+GQBVF9LM,review,metadata_taxonomy,condition_link_needs_review
+WWBNGWW8,review,metadata_taxonomy,condition_link_needs_review
+DFPDLZY8,review,metadata_taxonomy,condition_link_needs_review
+FHD7CGM9,review,metadata_taxonomy,condition_link_needs_review
+87XJPU9W,review,metadata_taxonomy,condition_link_needs_review
+IPCQAXC9,review,metadata_taxonomy,condition_link_needs_review
+CZ4MBLUA,review,metadata_taxonomy,condition_link_needs_review
+8AXJ89MB,review,metadata_taxonomy,condition_link_needs_review
+2SUVDJY4,review,metadata_taxonomy,condition_link_needs_review
+IJ9ENSKG,review,metadata_taxonomy,condition_link_needs_review
+H3ZXYRB3,review,metadata_taxonomy,condition_link_needs_review
+8ZD8VIBV,review,metadata_taxonomy,condition_link_needs_review
+MTBSWA64,review,metadata_taxonomy,condition_link_needs_review
+QP8NVLDL,review,metadata_taxonomy,condition_link_needs_review
+JZWHV2JM,review,metadata_taxonomy,condition_link_needs_review
+UQHER46F,review,metadata_taxonomy,condition_link_needs_review
+QXBKZYG7,review,metadata_taxonomy,condition_link_needs_review
+DZR54KZV,review,metadata_taxonomy,condition_link_needs_review
+YXCB7QGW,review,metadata_taxonomy,condition_link_needs_review
+SCGGN2XL,review,metadata_taxonomy,condition_link_needs_review
+QIQX42SS,review,metadata_taxonomy,condition_link_needs_review
+N8UE5D2T,review,metadata_taxonomy,condition_link_needs_review
+L69PU3R3,review,metadata_taxonomy,condition_link_needs_review
+XNG7XNYT,review,metadata_taxonomy,condition_link_needs_review
+BNLHL6PC,review,metadata_taxonomy,condition_link_needs_review
+Y3SKXM8C,review,metadata_taxonomy,condition_link_needs_review
+2FVR7GXT,review,metadata_taxonomy,condition_link_needs_review
+P2T3PKLU,review,metadata_taxonomy,condition_link_needs_review
+5DPJKCQ9,review,metadata_taxonomy,condition_link_needs_review
+89S7SUAT,review,metadata_taxonomy,condition_link_needs_review
+MI8NGMU5,review,metadata_taxonomy,condition_link_needs_review
+2TF2H3WK,review,metadata_taxonomy,condition_link_needs_review
+A9F7FSBK,review,metadata_taxonomy,condition_link_needs_review
+AEQHPHUY,review,metadata_taxonomy,condition_link_needs_review
+CAFVZLRT,review,metadata_taxonomy,condition_link_needs_review
+S9MFTRIR,review,metadata_taxonomy,condition_link_needs_review
+RVK7QPAU,review,metadata_taxonomy,condition_link_needs_review
+MDVPUTGU,review,metadata_taxonomy,condition_link_needs_review
+3PW6Z6NK,review,metadata_taxonomy,condition_link_needs_review
+K4VD2L2Y,review,metadata_taxonomy,condition_link_needs_review
+XG5EYQIA,review,metadata_taxonomy,condition_link_needs_review
+3YKBWTM5,review,metadata_taxonomy,condition_link_needs_review
+65DRYX68,review,metadata_taxonomy,condition_link_needs_review
+4CAPJL5I,review,metadata_taxonomy,condition_link_needs_review
+VSLYTTQ9,review,metadata_taxonomy,condition_link_needs_review
 ER5M6LXF,review,metadata_taxonomy,condition_link_needs_review; catalogue_relationship_needs_review
+PLMUIUQ9,review,metadata_taxonomy,catalogue_relationship_needs_review
+45L2EVCE,review,metadata_taxonomy,condition_link_needs_review; catalogue_relationship_needs_review
+3Y7YSU2B,review,metadata_taxonomy,catalogue_relationship_needs_review
+Y9JVIYG3,review,metadata_taxonomy,catalogue_relationship_needs_review
+Y5IS5BVH,review,metadata_taxonomy,catalogue_relationship_needs_review
+F87ISJBS,review,metadata_taxonomy,catalogue_relationship_needs_review
+MB5EDL2X,review,metadata_taxonomy,catalogue_relationship_needs_review
+59CVR6FA,review,metadata_taxonomy,catalogue_relationship_needs_review
+Y5RPBKEL,review,metadata_taxonomy,catalogue_relationship_needs_review
+W676JVMB,review,metadata_taxonomy,catalogue_relationship_needs_review
+5KS2YET7,review,metadata_taxonomy,catalogue_relationship_needs_review
+TN8VWMHL,review,metadata_taxonomy,catalogue_relationship_needs_review
 NZ4JXRAZ,review,metadata_taxonomy,condition_link_needs_review; catalogue_relationship_needs_review
 TZ54R9PY,review,metadata_taxonomy,condition_link_needs_review; catalogue_relationship_needs_review
 S4FYERL2,review,metadata_taxonomy,condition_link_needs_review; catalogue_relationship_needs_review

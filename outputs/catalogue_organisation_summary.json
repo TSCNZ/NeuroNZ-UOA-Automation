@@ -1,0 +1,45 @@
+{
+  "github_run_id": "38537850914",
+  "group": "6708514",
+  "root": "25TARGNW",
+  "catalogue": "F8S78I8W",
+  "status": "completed_verified",
+  "folders_created": [],
+  "unique_items_before": 273,
+  "unique_items_after": 273,
+  "folders": {
+    "Administrative Data": {
+      "key": "5TTDHVCR",
+      "items": 19
+    },
+    "National Surveys": {
+      "key": "93AGN99A",
+      "items": 13
+    },
+    "Research Surveys & Cohort Studies": {
+      "key": "BNHT3AIW",
+      "items": 16
+    },
+    "Registries": {
+      "key": "QPQVD3ZW",
+      "items": 11
+    },
+    "Neurological Workforce Data": {
+      "key": "4VIBUEWJ",
+      "items": 6
+    },
+    "International Data Systems": {
+      "key": "FIPBUHJ8",
+      "items": 4
+    },
+    "Use of NZ Neurological Data": {
+      "key": "ZGCG4VPX",
+      "items": 10
+    },
+    "Published Research / Journal Articles": {
+      "key": "6CU8U8CC",
+      "items": 13
+    }
+  },
+  "updated_verified": 91
+}
