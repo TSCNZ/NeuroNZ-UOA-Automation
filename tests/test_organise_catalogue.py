@@ -3,6 +3,7 @@ import tempfile
 import unittest
 from copy import deepcopy
 from pathlib import Path
+from unittest.mock import patch
 
 from neuronz_automation.catalogue_types import FOLDER_NAMES, PUBLICATIONS, filing_patch, source_type
 from neuronz_automation.organise_catalogue import organise
@@ -58,6 +59,11 @@ class MemoryClient:
 
 
 class OrganisationTests(unittest.TestCase):
+    def setUp(self):
+        environment = patch.dict("os.environ", {"GITHUB_RUN_ID": "organisation-test", "GITHUB_RUN_ATTEMPT": "1"})
+        environment.start()
+        self.addCleanup(environment.stop)
+
     def test_filing_preserves_metadata_memberships_tags_and_is_idempotent(self):
         client = MemoryClient()
         original = deepcopy(client.items)
@@ -72,9 +78,21 @@ class OrganisationTests(unittest.TestCase):
             self.assertIn({"tag": "curated", "type": 1}, client.items["REG"]["data"]["tags"])
             self.assertEqual(client.items["PUB"]["data"]["dateAdded"], original["PUB"]["data"]["dateAdded"])
             self.assertIn({"tag": "source:pubmed"}, client.items["PUB"]["data"]["tags"])
-            again = organise(client, directory)
+            with patch.dict("os.environ", {"GITHUB_RUN_ATTEMPT": "2"}):
+                again = organise(client, directory)
             self.assertEqual(again["updated_verified"], 0)
             self.assertEqual(len(client.children), 8)
+            self.assertEqual(len(client.patches), 2)
+
+    def test_same_attempt_cannot_overwrite_earlier_snapshot(self):
+        client = MemoryClient()
+        with tempfile.TemporaryDirectory() as directory:
+            organise(client, directory)
+            before = next(Path(directory).rglob("before.json"))
+            snapshot = before.read_text()
+            with self.assertRaisesRegex(RuntimeError, "Receipt directory already exists"):
+                organise(client, directory)
+            self.assertEqual(before.read_text(), snapshot)
             self.assertEqual(len(client.patches), 2)
 
     def test_unknown_category_stops_before_collection_or_item_writes(self):
