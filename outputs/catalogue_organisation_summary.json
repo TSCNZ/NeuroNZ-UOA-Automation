@@ -1,5 +1,5 @@
 {
-  "github_run_id": "38540020349",
+  "github_run_id": "38607078227",
   "group": "6708514",
   "root": "25TARGNW",
   "catalogue": "F8S78I8W",
@@ -35,16 +35,17 @@
     },
     "Use of NZ Neurological Data": {
       "key": "ZGCG4VPX",
-      "items": 10
+      "items": 8
     },
     "Published Research": {
       "key": "6CU8U8CC",
-      "items": 0
+      "items": 2
     },
     "Journal Articles": {
       "key": "4K5RHSHN",
       "items": 13
     }
   },
-  "updated_verified": 13
+  "updated_verified": 2,
+  "research_reports_reclassified": 2
 }

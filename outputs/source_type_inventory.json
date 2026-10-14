@@ -582,7 +582,7 @@
     ]
   },
   "Use of NZ Neurological Data": {
-    "count": 10,
+    "count": 8,
     "items": [
       {
         "zotero_key": "2KVQ2IJ4",
@@ -599,14 +599,6 @@
         "pmid": "",
         "date_added": "2026-08-28T03:14:36Z",
         "date_modified": "2026-10-14T08:51:44Z"
-      },
-      {
-        "zotero_key": "5X2RBBR4",
-        "title": "Dementia Economic Impact Report (DEIR) 2020/2021",
-        "stable_id": "NZNEURO-062",
-        "pmid": "",
-        "date_added": "2026-08-28T03:14:36Z",
-        "date_modified": "2026-10-14T08:51:38Z"
       },
       {
         "zotero_key": "9J4569WP",
@@ -641,14 +633,6 @@
         "date_modified": "2026-10-14T08:51:40Z"
       },
       {
-        "zotero_key": "MNAPHGYH",
-        "title": "NZIER Economic Burden of Stroke (2021)",
-        "stable_id": "NZNEURO-063",
-        "pmid": "",
-        "date_added": "2026-08-28T03:14:35Z",
-        "date_modified": "2026-10-14T08:51:54Z"
-      },
-      {
         "zotero_key": "X6YEYQJI",
         "title": "MS impact on employment and income in NZ",
         "stable_id": "NZNEURO-064",
@@ -667,8 +651,25 @@
     ]
   },
   "Published Research": {
-    "count": 0,
-    "items": []
+    "count": 2,
+    "items": [
+      {
+        "zotero_key": "5X2RBBR4",
+        "title": "Dementia Economic Impact Report (DEIR) 2020/2021",
+        "stable_id": "NZNEURO-062",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:36Z",
+        "date_modified": "2026-10-14T17:30:06Z"
+      },
+      {
+        "zotero_key": "MNAPHGYH",
+        "title": "NZIER Economic Burden of Stroke (2021)",
+        "stable_id": "NZNEURO-063",
+        "pmid": "",
+        "date_added": "2026-08-28T03:14:35Z",
+        "date_modified": "2026-10-14T17:30:00Z"
+      }
+    ]
   },
   "Journal Articles": {
     "count": 13,

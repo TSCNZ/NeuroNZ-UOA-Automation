@@ -1,4 +1,6 @@
 record_id,title,primary_link,status,status_code,error_message,checked_method
+NZNEURO-062,Dementia Economic Impact Report (DEIR) 2020/2021,https://cdn.alzheimers.org.nz/wp-content/uploads/2021/09/Dementia-Economic-Impact-Report-2020.pdf,ok,200,,HEAD
+NZNEURO-063,NZIER Economic Burden of Stroke (2021),https://www.nzier.org.nz/publications/the-social-and-economic-costs-of-stroke-in-new-zealand-2020-update,ok,200,,HEAD
 NZNEURO-073,EpiNet database / NZ SUDEP sub-registry,https://www.epinet.co.nz/,http_error,403,Forbidden,GET
 NZNEURO-074,MSBase NZ,https://www.msbase.org/,ok,200,,HEAD
 NZNEURO-075,NZ Congenital Anomalies Monitoring Program (duplicate/recategorisation candidate),https://www.icbdsr.org/,ok,200,,HEAD
@@ -6,7 +8,6 @@ NZNEURO-076,Global Health Data Exchange (GHDx) - NZ records,https://ghdx.healthd
 NZNEURO-077,Atlas of MS,https://atlasofms.org/,ok,200,,HEAD
 NZNEURO-078,WHO Mortality Database - NZ submission,https://platform.who.int/mortality/countries/country-details/MDB/new-zealand,ok,200,,HEAD
 NZNEURO-079,Health at a Glance (OECD Indicators) - NZ profile,https://www.oecd.org/en/publications/health-at-a-glance-2025_15a55280-en/new-zealand_2154f240-en.html,http_error,403,Forbidden,GET
-NZNEURO-063,NZIER Economic Burden of Stroke (2021),https://www.stroke.org.nz/understanding-stroke/statistics-data/,ok,200,,HEAD
 NZNEURO-064,MS impact on employment and income in NZ,https://onlinelibrary.wiley.com/doi/10.1111/ane.12714,http_error,403,Forbidden,GET
 NZNEURO-065,MND NZ Registry,https://mnd.org.nz/,ok,200,,HEAD
 NZNEURO-066,Punaha Io - NZ Neuro-Genetic Registry & BioBank,https://mda.org.nz/our-research/registry-biobank/,http_error,404,Not Found,HEAD
@@ -24,7 +25,6 @@ NZNEURO-058,"Changes in stroke incidence, Auckland, 1981-91",https://doi.org/10.
 NZNEURO-059,"Ethnic disparities in stroke subtypes, 2002-2003",https://doi.org/10.1016/S1474-4422(05)70325-2,ok,200,,HEAD
 NZNEURO-060,"Ethnic and HLA patterns related to MS, Wellington",https://pmc.ncbi.nlm.nih.gov/articles/PMC1028646/,ok,200,,HEAD
 NZNEURO-061,"MS Virtual Register (NZ, IDI-linked)",https://www.nzmj.org.nz/journal/vol-138-no-1612/identifying-multiple-sclerosis-in-linked-administrative-health-data-in-aotearoa-new-zealand,ok,200,,HEAD
-NZNEURO-062,Dementia Economic Impact Report (DEIR) 2020/2021,https://alzheimers.org.nz/explore/advocacy/facts-and-figures/,ok,200,,HEAD
 NZNEURO-043,ARCOS I-III / Auckland Regional Community Stroke Studies (published sources checked),,missing_url,,No URL supplied,
 NZNEURO-044,ARCOS V (fifth Auckland Regional Community Stroke Study),https://doi.org/10.1177/1747493019884528,http_error,403,Forbidden,GET
 NZNEURO-045,BIONIC (2010-11) and BIONIC2 (2021-22),,missing_url,,No URL supplied,

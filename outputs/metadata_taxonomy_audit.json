@@ -1,5 +1,41 @@
 [
   {
+    "zotero_key": "5X2RBBR4",
+    "kind": "catalogue",
+    "title": "Dementia Economic Impact Report (DEIR) 2020/2021",
+    "condition_ids": [],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-002",
+        "name": "Alzheimer's disease and other dementias",
+        "matched_term": "dementia",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T17:30:06Z"
+  },
+  {
+    "zotero_key": "MNAPHGYH",
+    "kind": "catalogue",
+    "title": "NZIER Economic Burden of Stroke (2021)",
+    "condition_ids": [],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "condition_link_needs_review"
+    ],
+    "date_modified": "2026-10-14T17:30:00Z"
+  },
+  {
     "zotero_key": "F467XMT7",
     "kind": "catalogue",
     "title": "EpiNet database / NZ SUDEP sub-registry",
@@ -75,24 +111,6 @@
       "condition_link_needs_review"
     ],
     "date_modified": "2026-10-14T08:51:55Z"
-  },
-  {
-    "zotero_key": "MNAPHGYH",
-    "kind": "catalogue",
-    "title": "NZIER Economic Burden of Stroke (2021)",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "Stroke",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-10-14T08:51:54Z"
   },
   {
     "zotero_key": "X6YEYQJI",
@@ -322,24 +340,6 @@
       "condition_link_needs_review"
     ],
     "date_modified": "2026-10-14T08:51:39Z"
-  },
-  {
-    "zotero_key": "5X2RBBR4",
-    "kind": "catalogue",
-    "title": "Dementia Economic Impact Report (DEIR) 2020/2021",
-    "condition_ids": [],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-002",
-        "name": "Alzheimer's disease and other dementias",
-        "matched_term": "dementia",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "condition_link_needs_review"
-    ],
-    "date_modified": "2026-10-14T08:51:38Z"
   },
   {
     "zotero_key": "83SZEAZ8",

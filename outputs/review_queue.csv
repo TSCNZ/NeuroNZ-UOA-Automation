@@ -39,6 +39,8 @@ NZNEURO-003,review,public_text,Contains Verification pending text that should re
 NZNEURO-004,review,public_text,Contains Verification pending text that should remain internal unless approved
 NZNEURO-008,review,age_group,Recommended filter/enrichment field is blank
 NZNEURO-011,review,public_text,Contains Verification pending text that should remain internal unless approved
+5X2RBBR4,review,metadata_taxonomy,condition_link_needs_review
+MNAPHGYH,review,metadata_taxonomy,condition_link_needs_review
 F467XMT7,review,metadata_taxonomy,condition_link_needs_review
 Z8UPTM8X,review,metadata_taxonomy,condition_link_needs_review
 I66BQXD7,review,metadata_taxonomy,condition_link_needs_review
@@ -46,7 +48,6 @@ I66BQXD7,review,metadata_taxonomy,condition_link_needs_review
 GTVJILLX,review,metadata_taxonomy,condition_link_needs_review
 RTSVW2DC,review,metadata_taxonomy,condition_link_needs_review
 UBQS39RW,review,metadata_taxonomy,condition_link_needs_review
-MNAPHGYH,review,metadata_taxonomy,condition_link_needs_review
 X6YEYQJI,review,metadata_taxonomy,condition_link_needs_review
 8CY42RJT,review,metadata_taxonomy,condition_link_needs_review
 NGR8ZJTH,review,metadata_taxonomy,condition_link_needs_review
@@ -64,7 +65,6 @@ GR4TIUAJ,review,metadata_taxonomy,condition_link_needs_review
 A6TT5ZQ9,review,metadata_taxonomy,condition_link_needs_review
 HC248A8M,review,metadata_taxonomy,condition_link_needs_review
 2KVQ2IJ4,review,metadata_taxonomy,condition_link_needs_review
-5X2RBBR4,review,metadata_taxonomy,condition_link_needs_review
 83SZEAZ8,review,metadata_taxonomy,condition_link_needs_review
 F8Q8G4X5,review,metadata_taxonomy,condition_link_needs_review
 4X6M2747,review,metadata_taxonomy,condition_link_needs_review

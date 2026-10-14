@@ -1,4 +1,6 @@
 record_id,change_status,changed_fields
+NZNEURO-062,changed,primary_link; zotero_tags
+NZNEURO-063,changed,primary_link; zotero_tags
 NZNEURO-073,unchanged,
 NZNEURO-074,unchanged,
 NZNEURO-075,unchanged,
@@ -6,7 +8,6 @@ NZNEURO-076,unchanged,
 NZNEURO-077,unchanged,
 NZNEURO-078,unchanged,
 NZNEURO-079,unchanged,
-NZNEURO-063,unchanged,
 NZNEURO-064,unchanged,
 NZNEURO-065,unchanged,
 NZNEURO-066,unchanged,
@@ -24,7 +25,6 @@ NZNEURO-058,unchanged,
 NZNEURO-059,unchanged,
 NZNEURO-060,unchanged,
 NZNEURO-061,unchanged,
-NZNEURO-062,unchanged,
 NZNEURO-043,unchanged,
 NZNEURO-044,unchanged,
 NZNEURO-045,unchanged,
