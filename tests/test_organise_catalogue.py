@@ -112,6 +112,17 @@ class OrganisationTests(unittest.TestCase):
         self.assertIn({"tag": "type:publication"}, patch["tags"])
         self.assertNotIn({"tag": "source:pubmed"}, patch["tags"])
 
+    def test_article_filed_in_both_folders_is_removed_only_from_research_folder(self):
+        client = MemoryClient()
+        client.children = [
+            {"key": "JOURNALS", "data": {"name": PUBLICATIONS, "parentCollection": "CAT"}},
+            {"key": "RESEARCH", "data": {"name": PUBLISHED_RESEARCH, "parentCollection": "CAT"}}]
+        client.items["PUB"]["data"]["collections"] += ["RESEARCH", "JOURNALS", "OTHER"]
+        with tempfile.TemporaryDirectory() as directory:
+            receipt = organise(client, directory)
+        self.assertEqual(receipt["folders"][PUBLISHED_RESEARCH]["items"], 0)
+        self.assertEqual(set(client.items["PUB"]["data"]["collections"]), {"EVID", "JOURNALS", "OTHER"})
+
     def test_same_attempt_cannot_overwrite_earlier_snapshot(self):
         client = MemoryClient()
         with tempfile.TemporaryDirectory() as directory:

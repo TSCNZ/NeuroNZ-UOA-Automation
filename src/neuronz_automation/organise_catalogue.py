@@ -4,7 +4,7 @@ import os
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .catalogue_types import FOLDER_NAMES, PUBLICATIONS, LEGACY_PUBLICATIONS, filing_patch, named_child, source_type
+from .catalogue_types import FOLDER_NAMES, PUBLICATIONS, PUBLISHED_RESEARCH, LEGACY_PUBLICATIONS, filing_patch, named_child, source_type
 from .config import OUTPUT_DIR, ZOTERO_COLLECTION_KEY, ZOTERO_LIBRARY_ID
 from .parsing import parse_extra
 from .reports import write_json
@@ -70,7 +70,9 @@ def organise(client, output_dir):
             # A concurrent category edit must be reviewed instead of filed from a stale plan.
             if source_type(data) != name:
                 raise RuntimeError(f"Source category changed during organisation: {key}")
-            patch = filing_patch(data, folders[name], name)
+            other_name = PUBLISHED_RESEARCH if name == PUBLICATIONS else PUBLICATIONS if name == PUBLISHED_RESEARCH else None
+            other_key = folders[other_name] if other_name else None
+            patch = filing_patch(data, folders[name], name, other_key)
             row = {"zotero_key": key, "title": data.get("title"), "source_type": name,
                    "folder_key": folders[name], "previous_version": current["version"],
                    "previous_date_modified": data.get("dateModified"),
@@ -97,10 +99,14 @@ def organise(client, output_dir):
             retained = {field: value for field, value in data.items()
                         if field not in {"collections", "tags", "version", "dateModified"}}
             verify_fields(after[key]["data"], retained)
-            if not set(data.get("collections", [])).issubset(after[key]["data"].get("collections", [])):
+            kind = source_type(data)
+            opposite = PUBLISHED_RESEARCH if kind == PUBLICATIONS else PUBLICATIONS if kind == PUBLISHED_RESEARCH else None
+            allowed_removed = {folders[opposite]} if opposite else set()
+            if not (set(data.get("collections", [])) - allowed_removed).issubset(after[key]["data"].get("collections", [])):
                 raise RuntimeError(f"Existing collection membership lost: {key}")
             old_tags = {(tag["tag"], tag.get("type", 0)) for tag in data.get("tags", [])
-                        if not (source_type(data) == PUBLICATIONS and tag["tag"] == f"source-type:{LEGACY_PUBLICATIONS}")}
+                        if not (kind == PUBLICATIONS and tag["tag"] == f"source-type:{LEGACY_PUBLICATIONS}")
+                        and not (opposite and tag["tag"] == f"source-type:{opposite}")}
             new_tags = {(tag["tag"], tag.get("type", 0)) for tag in after[key]["data"].get("tags", [])}
             if not old_tags.issubset(new_tags):
                 raise RuntimeError(f"Existing tags lost: {key}")
@@ -110,6 +116,10 @@ def organise(client, output_dir):
             expected = {key for key, item_type in plans if item_type == name}
             if not expected.issubset(actual):
                 raise RuntimeError(f"Missing filed items in {name}")
+            if name in {PUBLICATIONS, PUBLISHED_RESEARCH}:
+                opposite = PUBLISHED_RESEARCH if name == PUBLICATIONS else PUBLICATIONS
+                if any(source_type(after[key]["data"]) == opposite for key in actual):
+                    raise RuntimeError(f"Publication types overlap in {name}")
             counts[name] = {"key": folder_key, "items": len(actual)}
         receipt.update(status="completed_verified", unique_items_after=len(after), folders=counts,
                        updated_verified=sum(row["status"] == "updated_verified" for row in receipt["items"]))

@@ -13,7 +13,7 @@ from .parsing import extract_doi, extract_pmid, parse_extra
 from .reports import write_json
 from .taxonomy import classify, condition_patch
 from .dataset_updates import dataset_issue, dataset_item
-from .catalogue_types import PUBLICATIONS, filing_patch, named_child
+from .catalogue_types import PUBLICATIONS, PUBLISHED_RESEARCH, filing_patch, named_child
 
 
 def normal_title(title: str) -> str:
@@ -112,7 +112,9 @@ def update_candidates(client: Any, candidates: list[dict[str, str]], output_dir:
     next_id = max(evidence_numbers, default=0) + 1
     catalogue_keys = [c["key"] for c in children if c["data"]["name"] == "01 Catalogue Sources"]
     catalogue_key = named_child(children, "01 Catalogue Sources")
-    publication_key = named_child(client.fetch_child_collections(catalogue_key), PUBLICATIONS)
+    source_folders = client.fetch_child_collections(catalogue_key)
+    publication_key = named_child(source_folders, PUBLICATIONS)
+    research_key = named_child(source_folders, PUBLISHED_RESEARCH)
     catalogue_numbers = [int(match[1]) for item in existing
         if (match := re.fullmatch(r"NZNEURO-(\d+)", parse_extra(item.get("data", {}).get("extra")).get("NeuroNZ Record ID", "")))]
     next_catalogue_id = max(catalogue_numbers, default=0) + 1
@@ -168,7 +170,7 @@ def update_candidates(client: Any, candidates: list[dict[str, str]], output_dir:
                 continue
             patch = {field: value for field, value in enrichment.items() if value and not data.get(field)}
             patch.update(condition_patch(data, condition_matches))
-            routing = filing_patch({**data, **patch}, publication_key, PUBLICATIONS)
+            routing = filing_patch({**data, **patch}, publication_key, PUBLICATIONS, research_key)
             patch.update(routing)
             row.update(zotero_key=current["key"], evidence_id=parse_extra(data.get("extra")).get("NeuroNZ Evidence ID"),
                        source_unavailable_fields=[field for field in BIBLIOGRAPHY_FIELDS if field not in fields])
@@ -225,7 +227,7 @@ def update_candidates(client: Any, candidates: list[dict[str, str]], output_dir:
             ]),
         }
         item.update(condition_patch(item, condition_matches))
-        item.update(filing_patch(item, publication_key, PUBLICATIONS))
+        item.update(filing_patch(item, publication_key, PUBLICATIONS, research_key))
         row.update(status="write_pending", evidence_id=eid)
         manifest.append(row)
         write_json(receipt_path, manifest)

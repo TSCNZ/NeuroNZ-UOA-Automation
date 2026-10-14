@@ -6,7 +6,7 @@ from pathlib import Path
 from unittest.mock import Mock
 
 from neuronz_automation.zotero_updates import relevance_issue, update_candidates, verify_fields
-from neuronz_automation.catalogue_types import PUBLICATIONS, PUBLICATION_TAGS
+from neuronz_automation.catalogue_types import PUBLICATIONS, PUBLISHED_RESEARCH, PUBLICATION_TAGS
 
 
 def candidate():
@@ -55,7 +55,8 @@ class ZoteroUpdateTests(unittest.TestCase):
             {"key": "XBQFC75N", "data": {"name": "02 Evidence Log"}},
             {"key": "CAT", "data": {"name": "01 Catalogue Sources"}}]
         client.fetch_child_collections.side_effect = lambda key: (
-            [{"key": "PUB", "data": {"name": PUBLICATIONS}}] if key == "CAT"
+            [{"key": "PUB", "data": {"name": PUBLICATIONS}},
+             {"key": "RESEARCH", "data": {"name": PUBLISHED_RESEARCH}}] if key == "CAT"
             else client.fetch_child_collections.return_value)
         client.fetch_library_items.return_value = [{"data": {"extra": "NeuroNZ Evidence ID: E102"}}]
         client.create_item.return_value = {"key": "NEWKEY"}

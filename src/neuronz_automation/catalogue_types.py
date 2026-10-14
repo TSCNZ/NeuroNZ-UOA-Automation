@@ -33,14 +33,22 @@ def source_type(data):
     return SOURCE_TYPES.get(category) or (category if category in FOLDER_NAMES else None)
 
 
-def filing_patch(data, folder_key, name):
-    """Add a membership and tags while retaining all existing memberships and tags."""
+def filing_patch(data, folder_key, name, other_publication_key=None):
+    """Keep publication types separate and preserve all unrelated memberships/tags."""
     patch = {}
     collections = list(data.get("collections", []))
+    if other_publication_key:
+        collections = [key for key in collections if key != other_publication_key]
     if folder_key not in collections:
-        patch["collections"] = [*collections, folder_key]
+        collections.append(folder_key)
+    if collections != data.get("collections", []):
+        patch["collections"] = collections
+    obsolete = {f"source-type:{LEGACY_PUBLICATIONS}"} if name == PUBLICATIONS else set()
+    if other_publication_key:
+        other_name = PUBLISHED_RESEARCH if name == PUBLICATIONS else PUBLICATIONS
+        obsolete.add(f"source-type:{other_name}")
     tags = [tag for tag in data.get("tags", [])
-            if not (name == PUBLICATIONS and tag["tag"] == f"source-type:{LEGACY_PUBLICATIONS}")]
+            if tag["tag"] not in obsolete]
     known = {tag["tag"] for tag in tags}
     additions = [f"source-type:{name}"]
     if name == PUBLICATIONS:
