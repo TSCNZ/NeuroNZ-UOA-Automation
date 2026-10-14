@@ -1,15 +1,10 @@
 {
-  "github_run_id": "38539239122",
+  "github_run_id": "38540020349",
   "group": "6708514",
   "root": "25TARGNW",
   "catalogue": "F8S78I8W",
   "status": "completed_verified",
-  "folders_created": [
-    {
-      "name": "Journal Articles",
-      "key": "4K5RHSHN"
-    }
-  ],
+  "folders_created": [],
   "folders_renamed": [],
   "unique_items_before": 273,
   "unique_items_after": 273,
@@ -44,7 +39,7 @@
     },
     "Published Research": {
       "key": "6CU8U8CC",
-      "items": 13
+      "items": 0
     },
     "Journal Articles": {
       "key": "4K5RHSHN",

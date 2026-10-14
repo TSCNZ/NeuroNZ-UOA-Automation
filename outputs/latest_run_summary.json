@@ -1,9 +1,9 @@
 {
-  "started_at": "2026-10-14T09:01:56.585362+00:00",
+  "started_at": "2026-10-14T09:08:41.313475+00:00",
   "status": "completed_with_review",
-  "github_run_id": "38539239122",
+  "github_run_id": "38540020349",
   "unresolved_gap_records": 273,
-  "finished_at": "2026-10-14T09:04:03.747487+00:00",
+  "finished_at": "2026-10-14T09:11:06.638680+00:00",
   "mode": "read_only_monitoring",
   "zotero_updates": {
     "created_verified": 0,

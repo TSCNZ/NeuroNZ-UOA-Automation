@@ -1020,26 +1020,6 @@
     "date_modified": "2026-10-14T09:01:18Z"
   },
   {
-    "zotero_key": "Y5RPBKEL",
-    "kind": "evidence",
-    "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",
-    "condition_ids": [
-      "NC-072"
-    ],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "Stroke",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T09:01:17Z"
-  },
-  {
     "zotero_key": "59CVR6FA",
     "kind": "evidence",
     "title": "Neurodevelopmental impairment and morbidity patterns across two epochs among extremely preterm infant survivors in Australia and New Zealand.",
@@ -1051,6 +1031,26 @@
         "condition_id": "NC-058",
         "name": "Neurological complications due to preterm birth",
         "matched_term": "preterm",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:17Z"
+  },
+  {
+    "zotero_key": "Y5RPBKEL",
+    "kind": "evidence",
+    "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
         "basis": "explicit_title"
       }
     ],
@@ -1080,26 +1080,6 @@
     "date_modified": "2026-10-14T09:01:16Z"
   },
   {
-    "zotero_key": "F87ISJBS",
-    "kind": "evidence",
-    "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
-    "condition_ids": [
-      "NC-023"
-    ],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-023",
-        "name": "Epilepsy",
-        "matched_term": "Epilepsy",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T09:01:15Z"
-  },
-  {
     "zotero_key": "Y5IS5BVH",
     "kind": "evidence",
     "title": "Dabigatran use and cerebrovascular event risk across body mass index in atrial fibrillation: a real-world nested case-control study.",
@@ -1111,6 +1091,26 @@
         "condition_id": "NC-072",
         "name": "Stroke",
         "matched_term": "cerebrovascular",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:15Z"
+  },
+  {
+    "zotero_key": "F87ISJBS",
+    "kind": "evidence",
+    "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
+    "condition_ids": [
+      "NC-023"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-023",
+        "name": "Epilepsy",
+        "matched_term": "Epilepsy",
         "basis": "explicit_title"
       }
     ],
@@ -1140,6 +1140,18 @@
     "date_modified": "2026-10-14T09:01:14Z"
   },
   {
+    "zotero_key": "45L2EVCE",
+    "kind": "evidence",
+    "title": "Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets.",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review",
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:13Z"
+  },
+  {
     "zotero_key": "3Y7YSU2B",
     "kind": "evidence",
     "title": "Primary care clinicians' perspectives on migraine management in Aotearoa New Zealand: a qualitative study.",
@@ -1155,18 +1167,6 @@
       }
     ],
     "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T09:01:13Z"
-  },
-  {
-    "zotero_key": "45L2EVCE",
-    "kind": "evidence",
-    "title": "Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets.",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review",
       "catalogue_relationship_needs_review"
     ],
     "date_modified": "2026-10-14T09:01:13Z"
