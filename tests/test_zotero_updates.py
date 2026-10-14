@@ -122,7 +122,7 @@ class ZoteroUpdateTests(unittest.TestCase):
         client.fetch_child_collections.side_effect = lambda key: (
             [] if key == "CAT" else client.fetch_child_collections.return_value)
         with tempfile.TemporaryDirectory() as directory:
-            with self.assertRaisesRegex(RuntimeError, "Published Research"):
+            with self.assertRaisesRegex(RuntimeError, "Journal Articles"):
                 update_candidates(client, [candidate()], Path(directory))
         client.create_item.assert_not_called()
 

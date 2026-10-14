@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       operation:
-        description: "Refresh data or organise the eight catalogue source-type folders"
+        description: "Refresh data or organise the nine catalogue source-type folders"
         type: choice
         default: refresh
         options:

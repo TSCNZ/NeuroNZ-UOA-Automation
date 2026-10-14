@@ -1,6 +1,6 @@
 """Track the agreed source-type groups and PubMed publications independently."""
 
-from .catalogue_types import FOLDER_NAMES, PUBLICATIONS, source_type
+from .catalogue_types import FOLDER_NAMES, PUBLICATIONS, PUBLISHED_RESEARCH, source_type
 
 
 def classified_records(cache):
@@ -39,5 +39,5 @@ def source_type_reports(previous_cache, cache):
             status = "changed" if fields else "unchanged"
         row = {"zotero_key": key, "stable_id": record["stable_id"], "source_type": name,
                "title": record["title"], "change_status": status, "changed_fields": "; ".join(fields)}
-        (publication_changes if name == PUBLICATIONS else source_changes).append(row)
+        (publication_changes if name in {PUBLICATIONS, PUBLISHED_RESEARCH} else source_changes).append(row)
     return inventory, source_changes, publication_changes

@@ -5,7 +5,7 @@ from copy import deepcopy
 from pathlib import Path
 from unittest.mock import patch
 
-from neuronz_automation.catalogue_types import FOLDER_NAMES, PUBLICATIONS, filing_patch, source_type
+from neuronz_automation.catalogue_types import FOLDER_NAMES, PUBLICATIONS, LEGACY_PUBLICATIONS, PUBLISHED_RESEARCH, filing_patch, source_type
 from neuronz_automation.organise_catalogue import organise
 
 
@@ -47,6 +47,10 @@ class MemoryClient:
         self.children.append(item)
         return deepcopy(item)
 
+    def rename_collection(self, collection, name):
+        item = next(item for item in self.children if item["key"] == collection["key"])
+        item["data"]["name"] = name
+
     def fetch_item(self, key):
         return deepcopy(self.items[key])
 
@@ -83,8 +87,30 @@ class OrganisationTests(unittest.TestCase):
             with patch.dict("os.environ", {"GITHUB_RUN_ATTEMPT": "2"}):
                 again = organise(client, directory)
             self.assertEqual(again["updated_verified"], 0)
-            self.assertEqual(len(client.children), 8)
+            self.assertEqual(len(client.children), 9)
             self.assertEqual(len(client.patches), 2)
+
+    def test_split_preserves_article_collection_key_and_separates_research_folder(self):
+        client = MemoryClient()
+        client.children = [{"key": "ARTICLE-FOLDER", "version": 1, "data": {
+            "name": LEGACY_PUBLICATIONS, "parentCollection": "CAT"}}]
+        client.items["PUB"]["data"]["collections"].append("ARTICLE-FOLDER")
+        client.items["PUB"]["data"]["tags"].append({"tag": f"source-type:{LEGACY_PUBLICATIONS}"})
+        with tempfile.TemporaryDirectory() as directory:
+            receipt = organise(client, directory)
+        self.assertEqual(receipt["folders"][PUBLICATIONS]["key"], "ARTICLE-FOLDER")
+        self.assertEqual(receipt["folders"][PUBLICATIONS]["items"], 1)
+        self.assertEqual(receipt["folders"][PUBLISHED_RESEARCH]["items"], 0)
+        self.assertNotIn(LEGACY_PUBLICATIONS, {item["data"]["name"] for item in client.children})
+        self.assertNotIn({"tag": f"source-type:{LEGACY_PUBLICATIONS}"}, client.items["PUB"]["data"]["tags"])
+        self.assertIn({"tag": f"source-type:{PUBLICATIONS}"}, client.items["PUB"]["data"]["tags"])
+
+    def test_non_journal_research_requires_explicit_category(self):
+        data = {"itemType": "report", "extra": "NeuroNZ Record ID: NZNEURO-100\nSource category: Published Research"}
+        self.assertEqual(source_type(data), PUBLISHED_RESEARCH)
+        patch = filing_patch(data, "RESEARCH", PUBLISHED_RESEARCH)
+        self.assertIn({"tag": "type:publication"}, patch["tags"])
+        self.assertNotIn({"tag": "source:pubmed"}, patch["tags"])
 
     def test_same_attempt_cannot_overwrite_earlier_snapshot(self):
         client = MemoryClient()

@@ -139,3 +139,19 @@ class ZoteroClient:
         except HTTPError as exc:
             detail = exc.read().decode("utf-8", errors="replace")
             raise RuntimeError(f"Zotero PATCH {key} rejected with HTTP {exc.code}: {detail}") from exc
+
+    def rename_collection(self, collection: dict[str, Any], name: str) -> None:
+        headers = self._headers()
+        headers.update({"Content-Type": "application/json",
+                        "If-Unmodified-Since-Version": str(collection["version"])})
+        data = {**collection["data"], "name": name}
+        request = Request(
+            f"{ZOTERO_API_BASE}/{ZOTERO_LIBRARY_TYPE}/{ZOTERO_LIBRARY_ID}/collections/{collection['key']}",
+            data=json.dumps(data).encode("utf-8"), headers=headers, method="PUT",
+        )
+        try:
+            with urlopen(request, timeout=self.timeout_seconds) as response:
+                response.read()
+        except HTTPError as exc:
+            detail = exc.read().decode("utf-8", errors="replace")
+            raise RuntimeError(f"Zotero collection rename rejected with HTTP {exc.code}: {detail}") from exc

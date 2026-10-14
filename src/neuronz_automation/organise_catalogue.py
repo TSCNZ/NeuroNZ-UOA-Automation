@@ -1,10 +1,10 @@
-"""File existing items into the eight agreed catalogue folders with verified receipts."""
+"""File existing items into the agreed catalogue folders with verified receipts."""
 
 import os
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .catalogue_types import FOLDER_NAMES, filing_patch, named_child, source_type
+from .catalogue_types import FOLDER_NAMES, PUBLICATIONS, LEGACY_PUBLICATIONS, filing_patch, named_child, source_type
 from .config import OUTPUT_DIR, ZOTERO_COLLECTION_KEY, ZOTERO_LIBRARY_ID
 from .parsing import parse_extra
 from .reports import write_json
@@ -32,10 +32,13 @@ def organise(client, output_dir):
     for name in FOLDER_NAMES:
         if sum(child["data"]["name"] == name for child in children) > 1:
             raise RuntimeError(f"Duplicate {name} subcollections need review before writing")
+    legacy = [child for child in children if child["data"]["name"] == LEGACY_PUBLICATIONS]
+    if len(legacy) > 1 or (legacy and any(child["data"]["name"] == PUBLICATIONS for child in children)):
+        raise RuntimeError("Conflicting old/new journal article folders require review before writing")
     write_json(receipt_dir / "before.json", {"root_collections": roots, "catalogue_children": children, "items": items})
     receipt = {"github_run_id": os.environ.get("GITHUB_RUN_ID"), "group": ZOTERO_LIBRARY_ID,
                "root": ZOTERO_COLLECTION_KEY, "catalogue": catalogue, "status": "running",
-               "folders_created": [], "items": [], "unique_items_before": len(before)}
+               "folders_created": [], "folders_renamed": [], "items": [], "unique_items_before": len(before)}
     def save():
         write_json(receipt_dir / "receipt.json", receipt)
         # Full item snapshots/receipts stay private on the runner. Publish counts only.
@@ -44,6 +47,13 @@ def organise(client, output_dir):
         write_json(Path(output_dir) / "catalogue_organisation_summary.json", summary)
     save()
     try:
+        if legacy:
+            client.rename_collection(legacy[0], PUBLICATIONS)
+            children = client.fetch_child_collections(catalogue)
+            if named_child(children, PUBLICATIONS) != legacy[0]["key"]:
+                raise RuntimeError("Renamed journal collection did not retain its original key")
+            receipt["folders_renamed"].append({"key": legacy[0]["key"], "from": LEGACY_PUBLICATIONS, "to": PUBLICATIONS})
+            save()
         for name in FOLDER_NAMES:
             if not any(child["data"]["name"] == name for child in children):
                 created = client.create_collection(name, catalogue)
@@ -89,7 +99,8 @@ def organise(client, output_dir):
             verify_fields(after[key]["data"], retained)
             if not set(data.get("collections", [])).issubset(after[key]["data"].get("collections", [])):
                 raise RuntimeError(f"Existing collection membership lost: {key}")
-            old_tags = {(tag["tag"], tag.get("type", 0)) for tag in data.get("tags", [])}
+            old_tags = {(tag["tag"], tag.get("type", 0)) for tag in data.get("tags", [])
+                        if not (source_type(data) == PUBLICATIONS and tag["tag"] == f"source-type:{LEGACY_PUBLICATIONS}")}
             new_tags = {(tag["tag"], tag.get("type", 0)) for tag in after[key]["data"].get("tags", [])}
             if not old_tags.issubset(new_tags):
                 raise RuntimeError(f"Existing tags lost: {key}")

@@ -1,8 +1,10 @@
-"""Catalogue source types agreed for the eight subcollections."""
+"""Catalogue source types agreed for the nine subcollections."""
 
 from .parsing import extract_pmid, parse_extra
 
-PUBLICATIONS = "Published Research / Journal Articles"
+PUBLICATIONS = "Journal Articles"
+PUBLISHED_RESEARCH = "Published Research"
+LEGACY_PUBLICATIONS = "Published Research / Journal Articles"
 SOURCE_TYPES = {
     "Administrative": "Administrative Data",
     "National survey": "National Surveys",
@@ -12,7 +14,7 @@ SOURCE_TYPES = {
     "International data system": "International Data Systems",
     "Use of NZ neurological data": "Use of NZ Neurological Data",
 }
-FOLDER_NAMES = (*SOURCE_TYPES.values(), PUBLICATIONS)
+FOLDER_NAMES = (*SOURCE_TYPES.values(), PUBLISHED_RESEARCH, PUBLICATIONS)
 PUBLICATION_TAGS = ("type:publication", "category:Journal Article", "source:pubmed")
 
 
@@ -37,11 +39,14 @@ def filing_patch(data, folder_key, name):
     collections = list(data.get("collections", []))
     if folder_key not in collections:
         patch["collections"] = [*collections, folder_key]
-    tags = list(data.get("tags", []))
+    tags = [tag for tag in data.get("tags", [])
+            if not (name == PUBLICATIONS and tag["tag"] == f"source-type:{LEGACY_PUBLICATIONS}")]
     known = {tag["tag"] for tag in tags}
     additions = [f"source-type:{name}"]
     if name == PUBLICATIONS:
         additions.extend(PUBLICATION_TAGS)
+    elif name == PUBLISHED_RESEARCH:
+        additions.extend(("type:publication", "category:Published Research"))
     tags += [{"tag": tag} for tag in additions if tag not in known]
     if tags != data.get("tags", []):
         patch["tags"] = tags
