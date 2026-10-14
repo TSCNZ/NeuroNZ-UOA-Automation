@@ -29,16 +29,21 @@ def source_type(data):
     # Legacy evidence and taxonomy records are supporting records, not catalogue entries.
     if extra.get("NeuroNZ Evidence ID") or not extra.get("NeuroNZ Record ID"):
         return None
+    if (data.get("itemType") != "journalArticle" and extra.get("Record role") == PUBLISHED_RESEARCH
+            and extra.get("Publication format") == "Research report"
+            and extra.get("Publication verification source", "").startswith("https://")):
+        return PUBLISHED_RESEARCH
     category = extra.get("Source category", "")
     return SOURCE_TYPES.get(category) or (category if category in FOLDER_NAMES else None)
 
 
-def filing_patch(data, folder_key, name, other_publication_key=None):
+def filing_patch(data, folder_key, name, other_publication_key=None, previous_source_key=None):
     """Keep publication types separate and preserve all unrelated memberships/tags."""
     patch = {}
     collections = list(data.get("collections", []))
-    if other_publication_key:
-        collections = [key for key in collections if key != other_publication_key]
+    removed_keys = {key for key in (other_publication_key, previous_source_key) if key}
+    if removed_keys:
+        collections = [key for key in collections if key not in removed_keys]
     if folder_key not in collections:
         collections.append(folder_key)
     if collections != data.get("collections", []):
@@ -47,6 +52,10 @@ def filing_patch(data, folder_key, name, other_publication_key=None):
     if other_publication_key:
         other_name = PUBLISHED_RESEARCH if name == PUBLICATIONS else PUBLICATIONS
         obsolete.add(f"source-type:{other_name}")
+    if previous_source_key:
+        previous_name = SOURCE_TYPES.get(parse_extra(data.get("extra", "")).get("Source category"))
+        if previous_name:
+            obsolete.add(f"source-type:{previous_name}")
     tags = [tag for tag in data.get("tags", [])
             if tag["tag"] not in obsolete]
     known = {tag["tag"] for tag in tags}

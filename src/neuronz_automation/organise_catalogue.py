@@ -4,12 +4,13 @@ import os
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .catalogue_types import FOLDER_NAMES, PUBLICATIONS, PUBLISHED_RESEARCH, LEGACY_PUBLICATIONS, filing_patch, named_child, source_type
+from .catalogue_types import FOLDER_NAMES, SOURCE_TYPES, PUBLICATIONS, PUBLISHED_RESEARCH, LEGACY_PUBLICATIONS, filing_patch, named_child, source_type
 from .config import OUTPUT_DIR, ZOTERO_COLLECTION_KEY, ZOTERO_LIBRARY_ID
 from .parsing import parse_extra
 from .reports import write_json
 from .zotero_client import ZoteroClient
 from .zotero_updates import verify_fields
+from .research_reports import reviewed_report_patch, REVIEWED_REPORTS
 
 
 def organise(client, output_dir):
@@ -23,7 +24,13 @@ def organise(client, output_dir):
     children = client.fetch_child_collections(catalogue)
     items = client.fetch_collection_tree_items(ZOTERO_COLLECTION_KEY)
     before = {item["key"]: item for item in items}
-    plans = [(item["key"], source_type(item["data"])) for item in items]
+    report_updates = {key: reviewed_report_patch(item["data"]) for key, item in before.items()}
+    reviewed_ids = [parse_extra(item["data"].get("extra", "")).get("NeuroNZ Record ID")
+                    for item in items if not parse_extra(item["data"].get("extra", "")).get("NeuroNZ Evidence ID")]
+    for record_id in REVIEWED_REPORTS:
+        if reviewed_ids.count(record_id) > 1:
+            raise RuntimeError(f"Duplicate reviewed report ID {record_id}; inspect before writing")
+    plans = [(key, source_type({**item["data"], **report_updates[key]})) for key, item in before.items()]
     unknown = [key for key, name in plans if not name
                and parse_extra(before[key]["data"].get("extra", "")).get("NeuroNZ Record ID")
                and not parse_extra(before[key]["data"].get("extra", "")).get("NeuroNZ Evidence ID")]
@@ -44,6 +51,8 @@ def organise(client, output_dir):
         # Full item snapshots/receipts stay private on the runner. Publish counts only.
         summary = {key: value for key, value in receipt.items() if key != "items"}
         summary["updated_verified"] = sum(row["status"] == "updated_verified" for row in receipt["items"])
+        summary["research_reports_reclassified"] = sum(row.get("research_report_backfill", False)
+                                                        and row["status"] == "updated_verified" for row in receipt["items"])
         write_json(Path(output_dir) / "catalogue_organisation_summary.json", summary)
     save()
     try:
@@ -67,15 +76,22 @@ def organise(client, output_dir):
                 continue
             current = client.fetch_item(key)
             data = current["data"]
+            report_patch = reviewed_report_patch(data)
+            effective = {**data, **report_patch}
             # A concurrent category edit must be reviewed instead of filed from a stale plan.
-            if source_type(data) != name:
+            if source_type(effective) != name:
                 raise RuntimeError(f"Source category changed during organisation: {key}")
             other_name = PUBLISHED_RESEARCH if name == PUBLICATIONS else PUBLICATIONS if name == PUBLISHED_RESEARCH else None
             other_key = folders[other_name] if other_name else None
-            patch = filing_patch(data, folders[name], name, other_key)
+            previous_name = SOURCE_TYPES.get(parse_extra(data.get("extra", "")).get("Source category"))
+            previous_key = (folders.get(previous_name) if name == PUBLISHED_RESEARCH
+                            and parse_extra(effective.get("extra", "")).get("Record role") == PUBLISHED_RESEARCH
+                            and previous_name != name else None)
+            patch = {**report_patch, **filing_patch(effective, folders[name], name, other_key, previous_key)}
             row = {"zotero_key": key, "title": data.get("title"), "source_type": name,
                    "folder_key": folders[name], "previous_version": current["version"],
                    "previous_date_modified": data.get("dateModified"),
+                   "changed_fields": sorted(patch), "research_report_backfill": bool(report_patch),
                    "status": "write_pending" if patch else "unchanged"}
             receipt["items"].append(row)
             save()
@@ -97,16 +113,26 @@ def organise(client, output_dir):
         for key, original in before.items():
             data = original["data"]
             retained = {field: value for field, value in data.items()
-                        if field not in {"collections", "tags", "version", "dateModified"}}
+                        if field not in {"collections", "tags", "version", "dateModified"}
+                        and field not in report_updates[key]}
             verify_fields(after[key]["data"], retained)
-            kind = source_type(data)
+            verify_fields(after[key]["data"], report_updates[key])
+            original_extra = parse_extra(data.get("extra", ""))
+            final_extra = parse_extra(after[key]["data"].get("extra", ""))
+            verify_fields(final_extra, original_extra)
+            kind = source_type({**data, **report_updates[key]})
             opposite = PUBLISHED_RESEARCH if kind == PUBLICATIONS else PUBLICATIONS if kind == PUBLISHED_RESEARCH else None
             allowed_removed = {folders[opposite]} if opposite else set()
+            old_source_name = SOURCE_TYPES.get(original_extra.get("Source category"))
+            if kind == PUBLISHED_RESEARCH and final_extra.get("Record role") == PUBLISHED_RESEARCH and old_source_name:
+                allowed_removed.add(folders[old_source_name])
             if not (set(data.get("collections", [])) - allowed_removed).issubset(after[key]["data"].get("collections", [])):
                 raise RuntimeError(f"Existing collection membership lost: {key}")
             old_tags = {(tag["tag"], tag.get("type", 0)) for tag in data.get("tags", [])
                         if not (kind == PUBLICATIONS and tag["tag"] == f"source-type:{LEGACY_PUBLICATIONS}")
-                        and not (opposite and tag["tag"] == f"source-type:{opposite}")}
+                        and not (opposite and tag["tag"] == f"source-type:{opposite}")
+                        and not (kind == PUBLISHED_RESEARCH and final_extra.get("Record role") == PUBLISHED_RESEARCH
+                                 and tag["tag"] == f"source-type:{old_source_name}")}
             new_tags = {(tag["tag"], tag.get("type", 0)) for tag in after[key]["data"].get("tags", [])}
             if not old_tags.issubset(new_tags):
                 raise RuntimeError(f"Existing tags lost: {key}")
