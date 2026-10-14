@@ -666,7 +666,11 @@
       }
     ]
   },
-  "Published Research / Journal Articles": {
+  "Published Research": {
+    "count": 0,
+    "items": []
+  },
+  "Journal Articles": {
     "count": 13,
     "items": [
       {
@@ -675,7 +679,7 @@
         "stable_id": "E044",
         "pmid": "41134026",
         "date_added": "2026-10-01T23:39:32Z",
-        "date_modified": "2026-10-14T08:50:22Z"
+        "date_modified": "2026-10-14T09:01:13Z"
       },
       {
         "zotero_key": "45L2EVCE",
@@ -683,7 +687,7 @@
         "stable_id": "E043",
         "pmid": "42806265",
         "date_added": "2026-10-01T23:39:31Z",
-        "date_modified": "2026-10-14T08:50:23Z"
+        "date_modified": "2026-10-14T09:01:13Z"
       },
       {
         "zotero_key": "59CVR6FA",
@@ -691,7 +695,7 @@
         "stable_id": "E049",
         "pmid": "42697710",
         "date_added": "2026-10-01T23:39:35Z",
-        "date_modified": "2026-10-14T08:50:17Z"
+        "date_modified": "2026-10-14T09:01:17Z"
       },
       {
         "zotero_key": "5KS2YET7",
@@ -699,7 +703,7 @@
         "stable_id": "E052",
         "pmid": "42824915",
         "date_added": "2026-10-04T20:34:50Z",
-        "date_modified": "2026-10-14T08:50:14Z"
+        "date_modified": "2026-10-14T09:01:19Z"
       },
       {
         "zotero_key": "ER5M6LXF",
@@ -707,7 +711,7 @@
         "stable_id": "E041",
         "pmid": "41793278",
         "date_added": "2026-10-01T23:39:30Z",
-        "date_modified": "2026-10-14T08:50:24Z"
+        "date_modified": "2026-10-14T09:01:11Z"
       },
       {
         "zotero_key": "F87ISJBS",
@@ -715,7 +719,7 @@
         "stable_id": "E047",
         "pmid": "42704249",
         "date_added": "2026-10-01T23:39:33Z",
-        "date_modified": "2026-10-14T08:50:19Z"
+        "date_modified": "2026-10-14T09:01:15Z"
       },
       {
         "zotero_key": "MB5EDL2X",
@@ -723,7 +727,7 @@
         "stable_id": "E048",
         "pmid": "42698334",
         "date_added": "2026-10-01T23:39:34Z",
-        "date_modified": "2026-10-14T08:50:18Z"
+        "date_modified": "2026-10-14T09:01:16Z"
       },
       {
         "zotero_key": "PLMUIUQ9",
@@ -731,7 +735,7 @@
         "stable_id": "E042",
         "pmid": "42699715",
         "date_added": "2026-10-01T23:39:31Z",
-        "date_modified": "2026-10-14T08:50:24Z"
+        "date_modified": "2026-10-14T09:01:12Z"
       },
       {
         "zotero_key": "TN8VWMHL",
@@ -739,7 +743,7 @@
         "stable_id": "E053",
         "pmid": "42843495",
         "date_added": "2026-10-11T21:09:31Z",
-        "date_modified": "2026-10-14T08:44:30Z"
+        "date_modified": "2026-10-14T09:01:20Z"
       },
       {
         "zotero_key": "W676JVMB",
@@ -747,7 +751,7 @@
         "stable_id": "E051",
         "pmid": "42829417",
         "date_added": "2026-10-04T20:34:49Z",
-        "date_modified": "2026-10-14T08:50:15Z"
+        "date_modified": "2026-10-14T09:01:18Z"
       },
       {
         "zotero_key": "Y5IS5BVH",
@@ -755,7 +759,7 @@
         "stable_id": "E046",
         "pmid": "42704410",
         "date_added": "2026-10-01T23:39:33Z",
-        "date_modified": "2026-10-14T08:50:20Z"
+        "date_modified": "2026-10-14T09:01:15Z"
       },
       {
         "zotero_key": "Y5RPBKEL",
@@ -763,7 +767,7 @@
         "stable_id": "E050",
         "pmid": "42707892",
         "date_added": "2026-10-01T23:39:35Z",
-        "date_modified": "2026-10-14T08:50:16Z"
+        "date_modified": "2026-10-14T09:01:17Z"
       },
       {
         "zotero_key": "Y9JVIYG3",
@@ -771,7 +775,7 @@
         "stable_id": "E045",
         "pmid": "42742289",
         "date_added": "2026-10-01T23:39:32Z",
-        "date_modified": "2026-10-14T08:50:21Z"
+        "date_modified": "2026-10-14T09:01:14Z"
       }
     ]
   }

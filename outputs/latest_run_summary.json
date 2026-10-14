@@ -1,9 +1,9 @@
 {
-  "started_at": "2026-10-14T08:52:22.125864+00:00",
+  "started_at": "2026-10-14T09:01:56.585362+00:00",
   "status": "completed_with_review",
-  "github_run_id": "38537850914",
+  "github_run_id": "38539239122",
   "unresolved_gap_records": 273,
-  "finished_at": "2026-10-14T08:55:18.696663+00:00",
+  "finished_at": "2026-10-14T09:04:03.747487+00:00",
   "mode": "read_only_monitoring",
   "zotero_updates": {
     "created_verified": 0,
@@ -23,7 +23,8 @@
     "Neurological Workforce Data": 6,
     "International Data Systems": 4,
     "Use of NZ Neurological Data": 10,
-    "Published Research / Journal Articles": 13
+    "Published Research": 0,
+    "Journal Articles": 13
   },
   "collections": [
     {

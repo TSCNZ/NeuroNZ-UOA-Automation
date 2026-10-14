@@ -4427,470 +4427,193 @@
   ],
   "evidence": [
     {
-      "stable_id": "E041",
-      "zotero_key": "ER5M6LXF",
-      "zotero_version": 853,
-      "title": "Speech-language pathology services for acquired communication disorders among indigenous peoples: A systematic review.",
-      "summary": "Indigenous adults experience higher rates of neurological incidents than non-Indigenous populations, increasing their risk of acquired communication disorders (ACD). However, access to culturally safe speech-language pathology (SLP) services in their language remains challenging. This review explored issues raised in the literature concerning SLP services for Indigenous adults with ACD globally. More specifically, it explored Indigenous adults with ACD\"s perspectives, highlighted the barriers reported by speech-language pathologists, and identified avenues for improvements. Despite the global scope of the search, the fourteen included articles were all based in Australia and Aotearoa New Zealand. Three descriptive themes emerged from the perspectives of Indigenous adults: 1) the impacts of language and culture; 2) a lack of information; 3) the context of SLP services. Two themes emerged as barriers to SLP care according to clinicians: 1) a lack of appropriate resources and cultural education; 2) the geographical and service delivery contexts of SLP services. Finally, the need for cultural safety emerged as the main theme for improving SLP care. Enhanced cultural education, along with adapted SLP materials, is needed to provide culturally safe care to Indigenous adults with ACD. However, these initiatives must be accompanied by systemic changes to the organizational policies shaping SLP services.",
+      "stable_id": "E053",
+      "zotero_key": "TN8VWMHL",
+      "zotero_version": 947,
+      "title": "Preventing Fatal Stroke: The Hidden Survival Benefit of Left Atrial Appendage Occlusion in Cardiac Surgery.",
+      "summary": "Atrial fibrillation (AF) affects a greater proportion of cardiac surgery patients than previously appreciated, with pre-operative AF prevalence in Australia and New Zealand recently documented at 14.99%, substantially higher than prior international estimates of 5% to 11%. Both the European Society of Cardiology/European Association of Cardio-Thoracic Surgery (ESC/EACTS) and the Society of Thoracic Surgeons (STS) have now upgraded left atrial appendage occlusion (LAAO) to a Class Ia recommendation for all AF patients undergoing cardiac surgery, based principally on the Left Atrial Appendage Occlusion Study III (LAAOS III); a multicentre randomized trial demonstrating a 33% relative risk reduction in ischemic stroke or systemic embolism with concomitant LAAO (risk ratio 0.66; 95% confidence interval 0.52 to 0.84). Despite these strong guideline endorsements, real-world implementation is critically deficient: in Australia and New Zealand, 77.63% of AF patients undergoing cardiac surgery received no LAA treatment. Critically, ∼21% of all strokes in LAAOS III were fatal, signalling that the stroke reduction LAAO produced, likely prevented fatal stroke. This hidden survival benefit is implied but not explored in the existing data, awaiting only a mortality-powered trial for formal confirmation. The literature to date actively examines stroke prevention and all-cause mortality, yet LAAO fatal stroke prevention is an unreported, and important independent outcome. This review synthesizes the epidemiology, pathophysiology, and trial evidence for LAAO,and appraises the guideline landscape and global implementation gap. In conclusion, LAAO does not merely prevent neurological events; it prevents fatalstrokes.",
       "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/41793278/",
-      "doi": "10.1080/17441692.2026.2640763",
-      "pmid": "41793278",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42843495/",
+      "doi": "10.1016/j.amjcard.2026.10.007",
+      "pmid": "42843495",
       "item_type": "journalArticle",
-      "date": "2026-Dec-31",
-      "tags": [
-        "category:Journal Article",
-        "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
-        "source:pubmed",
-        "type:evidence",
-        "type:publication"
-      ],
-      "extra": {
-        "NeuroNZ Evidence ID": "E041",
-        "PMID": "41793278",
-        "Source candidate ID": "pubmed:41793278",
-        "Source category": "Published research",
-        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
-        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/41793278/"
-      },
-      "bibliography": {
-        "publicationTitle": "Global public health",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Amélie",
-            "lastName": "Sanfaçon-Verret"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Eniko",
-            "lastName": "Neashish"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Billie-Tanisha",
-            "lastName": "Moar"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Vanessa",
-            "lastName": "Taler"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Laura",
-            "lastName": "Monetta"
-          }
-        ],
-        "date": "2026-Dec-31",
-        "volume": "21",
-        "issue": "1",
-        "pages": "2640763",
-        "ISSN": "1744-1706",
-        "DOI": "10.1080/17441692.2026.2640763",
-        "journalAbbreviation": "Glob Public Health",
-        "language": "eng",
-        "PMID": "41793278",
-        "PMCID": "",
-        "rights": "",
-        "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-02T02:29:11Z"
-      },
-      "date_added": "2026-10-01T23:39:30Z",
-      "date_modified": "2026-10-14T08:50:24Z",
-      "condition_ids": []
-    },
-    {
-      "stable_id": "E042",
-      "zotero_key": "PLMUIUQ9",
-      "zotero_version": 852,
-      "title": "Characteristics of a Cohort of Individuals With SCA27B Associated With Repeat Expansions in FGF14.",
-      "summary": "Spinocerebellar ataxia 27B (SCA27B) is a recently discovered genetic cause of idiopathic late-onset cerebellar ataxia (ILOCA) due to guanine-adenine-adenine (GAA) repeat expansions (greater than 250) in FGF14. We aimed to identify and characterize a New Zealand cohort of patients with SCA27B.\nPatients with previous negative ataxia panels were identified from electronic records and tested with an updated ataxia repeat expansion panel including FGF14 and 5 other new genes.\nUpdated genetic testing for 11 of the 29 patients returned a positive result: repeat expansions in FGF14 in 9, RFC1 (associated with cerebellar ataxia, neuropathy, vestibular areflexia syndrome) in 1, and TBP (associated with SCA17) in 1. In the 9 patients with SCA27B, the clinical characteristics such as initial episodic symptoms and late age at onset (mean 56 years), were like those reported in European cohorts. Two patients in our cohort had palatal tremor. While 7 patients had a repeat expansion length greater than 250, 2 patients with a clinical phenotype consistent with SCA27B had between 200 and 250 repeats.\nIn our New Zealand cohort of patients with ILOCA, updated genetic testing revealed a diagnosis in 38%. SCA27B is a common cause of ILOCA in this cohort.",
-      "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42699715/",
-      "doi": "10.1212/NXG.0000000000200424",
-      "pmid": "42699715",
-      "item_type": "journalArticle",
-      "date": "2026-Oct",
-      "tags": [
-        "category:Journal Article",
-        "nzneuro:condition:NC-003",
-        "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
-        "source:pubmed",
-        "type:evidence",
-        "type:publication"
-      ],
-      "extra": {
-        "NeuroNZ Evidence ID": "E042",
-        "PMID": "42699715",
-        "Source candidate ID": "pubmed:42699715",
-        "Source category": "Published research",
-        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
-        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42699715/",
-        "NeuroNZ Condition IDs": "NC-003"
-      },
-      "bibliography": {
-        "publicationTitle": "Neurology. Genetics",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Sarah C",
-            "lastName": "Anderson"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Shilpan G",
-            "lastName": "Patel"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Miriam",
-            "lastName": "Rodrigues"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Marco",
-            "lastName": "Mancuso-Marcello"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Mark",
-            "lastName": "Simpson"
-          }
-        ],
-        "date": "2026-Oct",
-        "volume": "12",
-        "issue": "5",
-        "pages": "e200424",
-        "ISSN": "2376-7839",
-        "DOI": "10.1212/NXG.0000000000200424",
-        "journalAbbreviation": "Neurol Genet",
-        "language": "eng",
-        "PMID": "42699715",
-        "PMCID": "PMC13544125",
-        "rights": "Copyright © 2026 The Author(s). Published by Wolters Kluwer Health, LLC. on behalf of the American Academy of Neurology.",
-        "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-02T02:37:57Z"
-      },
-      "date_added": "2026-10-01T23:39:31Z",
-      "date_modified": "2026-10-14T08:50:24Z",
-      "condition_ids": [
-        "NC-003"
-      ]
-    },
-    {
-      "stable_id": "E043",
-      "zotero_key": "45L2EVCE",
-      "zotero_version": 851,
-      "title": "Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets.",
-      "summary": "Optimal arterial oxygen tension (PaO2) thresholds in mechanically ventilated patients with nontraumatic acute brain injury (ABI), defined as intracerebral hemorrhage (ICH), aneurysmal subarachnoid hemorrhage (SAH), and acute ischemic stroke (AIS), remain uncertain. We aimed to identify ABI-specific early PaO2 thresholds associated with lowest intensive care unit (ICU) mortality in mechanically ventilated ICU patients and compare these with guideline recommendations.\nThis retrospective multicenter cohort study utilized the Australian and New Zealand Intensive Care Society Adult Patient Dataset (ANZICS-APD; N = 11,264). Bayesian logistic regression was performed with day 1 PaO2 as the independent variable and ICU mortality as the dependent variable. Priors were derived from the Medical Information Mart for Intensive Care-IV (MIMIC-IV; N = 1789) and Extubation in Neurocritical care Observational Study (ENIO; N = 544) datasets. Day 1 PaO2 thresholds were identified by calculating the range of values within 4% of the minimum mortality. The risk of ICU mortality across these PaO2 groups was compared with the European Society of Intensive Care Medicine (ESICM) recommendations.\nOf the 11,264 patients in the ANZICS-APD suitable for analysis, 4846 had ICH, 4319 had aneurysmal SAH, and 2099 had AIS. Across all ABI types, day 1 PaO2 > 299 mm Hg was rare (< 10%), with remaining patients distributed equally across the < 80, 80-120, and 120-299 mm Hg categories. The association between day 1 PaO2 and ICU mortality differed by ABI subtype: SAH showed a more pronounced U-shaped relationship than ICH and AIS. PaO2 thresholds that minimized ICU mortality (ICH: 80-230 mm Hg; SAH: 100-190 mm Hg; AIS: 100-160 mm Hg) were broader than current ESICM (PaO2 between 80 and 120 mm Hg) guideline recommendations yet conferred equivalent risk of ICU mortality. Extreme hyperoxia (> 299 mm Hg) was associated with increased risk of ICU mortality across all ABI subtypes [P(OR > 1) = 84-99%].\nIn mechanically ventilated patients with nontraumatic ABI, we defined generalizable early PaO2 thresholds that were broader than current recommendations while conferring equivalent ICU mortality risk. PaO2 exposure beyond these ranges may be harmful.",
-      "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42806265/",
-      "doi": "10.1007/s12028-026-02659-0",
-      "pmid": "42806265",
-      "item_type": "journalArticle",
-      "date": "2026-Sep-28",
-      "tags": [
-        "category:Journal Article",
-        "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
-        "source:pubmed",
-        "type:evidence",
-        "type:publication"
-      ],
-      "extra": {
-        "NeuroNZ Evidence ID": "E043",
-        "PMID": "42806265",
-        "Source candidate ID": "pubmed:42806265",
-        "Source category": "Published research",
-        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
-        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42806265/"
-      },
-      "bibliography": {
-        "publicationTitle": "Neurocritical care",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Lavienraj",
-            "lastName": "Premraj"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Christopher",
-            "lastName": "Camarda"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Nekane",
-            "lastName": "Romero-Garcia"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Benjamin",
-            "lastName": "Seymour"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Ashwin",
-            "lastName": "Subramaniam"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Rafael",
-            "lastName": "Badenes"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Denise",
-            "lastName": "Battaglini"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Shahzad",
-            "lastName": "Shaefi"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "David",
-            "lastName": "Pilcher"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Sung-Min",
-            "lastName": "Cho"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Nicole M",
-            "lastName": "White"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Aidan",
-            "lastName": "Burrell"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Raphaël",
-            "lastName": "Cinotti"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Chiara",
-            "lastName": "Robba"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Andrew Alexander",
-            "lastName": "Udy"
-          }
-        ],
-        "date": "2026-Sep-28",
-        "volume": "",
-        "issue": "",
-        "pages": "",
-        "ISSN": "1556-0961",
-        "DOI": "10.1007/s12028-026-02659-0",
-        "journalAbbreviation": "Neurocrit Care",
-        "language": "eng",
-        "PMID": "42806265",
-        "PMCID": "",
-        "rights": "© 2026. The Author(s).",
-        "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-02T02:37:57Z"
-      },
-      "date_added": "2026-10-01T23:39:31Z",
-      "date_modified": "2026-10-14T08:50:23Z",
-      "condition_ids": []
-    },
-    {
-      "stable_id": "E044",
-      "zotero_key": "3Y7YSU2B",
-      "zotero_version": 850,
-      "title": "Primary care clinicians' perspectives on migraine management in Aotearoa New Zealand: a qualitative study.",
-      "summary": "Despite being a common and disabling neurological disease, migraine is often underdiagnosed and undertreated. Although most patients with migraine can be effectively managed in primary care, people with migraine in Aotearoa New Zealand (NZ) report multiple barriers to care and negative impacts of migraine on physical and mental health, work and quality of life.\nThis study aimed to describe the experience of primary care clinicians with managing migraine disease in NZ and identify enablers and barriers to effective care.\nClinicians were recruited through advertisements in an online newsletter and a regional email network. Semi-structured interviews were completed via phone or Zoom. Inductive thematic analysis was undertaken to identify key themes.\nFive general practitioners and three nurse practitioners were interviewed. Themes related to the clinician, healthcare system and societal factors were identified across the patient journey of seeking health care (cultural safety, primary care accessibility, awareness and health literacy), diagnosis (diagnostic knowledge, secondary care and diagnostic test accessibility and diagnostic overshadowing) and management (treatment knowledge, communication and patient education, access to ongoing care, role of other health professionals and stigma of chronic disease).\nSignificant barriers to migraine health care related to accessibility of primary care, particularly cost, wait times and availability. Advice from neurology was a valued resource, but access to in-person consultations for patients with migraine was limited. Clinician knowledge about migraine diagnosis and treatment was well supported by online and educational resources. Involving the wider primary care team in migraine management could help improve care.",
-      "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/41134026/",
-      "doi": "10.1071/HC25078",
-      "pmid": "41134026",
-      "item_type": "journalArticle",
-      "date": "2026-Sep-24",
-      "tags": [
-        "category:Journal Article",
-        "nzneuro:condition:NC-038",
-        "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
-        "source:pubmed",
-        "type:evidence",
-        "type:publication"
-      ],
-      "extra": {
-        "NeuroNZ Evidence ID": "E044",
-        "PMID": "41134026",
-        "Source candidate ID": "pubmed:41134026",
-        "Source category": "Published research",
-        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
-        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/41134026/",
-        "NeuroNZ Condition IDs": "NC-038"
-      },
-      "bibliography": {
-        "publicationTitle": "Journal of primary health care",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Julia",
-            "lastName": "Randerson"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Fiona",
-            "lastName": "Imlach"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Jonathan",
-            "lastName": "Kennedy"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Susan",
-            "lastName": "Garrett"
-          }
-        ],
-        "date": "2026-Sep-24",
-        "volume": "18",
-        "issue": "3",
-        "pages": "247-255",
-        "ISSN": "1172-6156",
-        "DOI": "10.1071/HC25078",
-        "journalAbbreviation": "J Prim Health Care",
-        "language": "eng",
-        "PMID": "41134026",
-        "PMCID": "",
-        "rights": "© 2025 The Author(s) (or their employer(s)). Published by CSIRO Publishing on behalf of Royal New Zealand College of General Practitioners.",
-        "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-02T02:37:57Z"
-      },
-      "date_added": "2026-10-01T23:39:32Z",
-      "date_modified": "2026-10-14T08:50:22Z",
-      "condition_ids": [
-        "NC-038"
-      ]
-    },
-    {
-      "stable_id": "E045",
-      "zotero_key": "Y9JVIYG3",
-      "zotero_version": 849,
-      "title": "Ethnic Differences in Outcomes of Endovascular Thrombectomy in New Zealand.",
-      "summary": "Stroke is a leading cause of morbidity and mortality in New Zealand, with ethnic disparities known to exist. Endovascular thrombectomy (EVT) has proven efficacy in reducing or preventing disability for stroke patients, but little is known about ethnic differences in functional outcomes following EVT in New Zealand.\nA retrospective nationwide registry-based study was conducted, including all patients who underwent EVT between 1st January 2011 through to 31st December 2023 in New Zealand. Demographic, clinical and procedural data were obtained from the National Stroke Register. Primary outcomes were mortality at 7 days and dichotomised modified Rankin Scale (mRS) at 90 days. Subgroup analysis compared patients presenting directly to EVT-capable centres with those requiring transfer.\n2852 EVT patients were included (68.7% European, 14.6% Māori, 7.4% Pacific, 8.4% Asian and 1.0% Other). Non-Europeans presented at younger ages and with greater vascular risk factors. Functional outcomes and 7-day mortality rates did not differ significantly by ethnicity. Odds of symptomatic intracranial haemorrhage (sICH) were greater in Māori (aOR 3.01, 1.42-6.38, p = 0.004), Pacific peoples (3.40, 1.22-9.53, p = 0.02) and Asian (aOR 3.57, 1.57-8.15, p = 0.002) patients compared to Europeans. Nearly half of patients (46.5%) initially presented to non-EVT capable centres; although EVT was delayed, functional and mortality outcomes remained similar.\nThis nationwide study found no significant ethnic disparities in functional outcomes or 7-day mortality following EVT, though sICH was more likely in non-Europeans. Despite treatment delays, patients initially presenting to non-EVT capable centres achieved comparable functional outcomes to those presenting directly to EVT centres.",
-      "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42742289/",
-      "doi": "10.1111/1754-9485.70187",
-      "pmid": "42742289",
-      "item_type": "journalArticle",
-      "date": "2026-Sep-15",
+      "date": "2026-Oct-07",
       "tags": [
         "category:Journal Article",
         "nzneuro:condition:NC-072",
         "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
+        "source-type:Journal Articles",
         "source:pubmed",
         "type:evidence",
         "type:publication"
       ],
       "extra": {
-        "NeuroNZ Evidence ID": "E045",
-        "PMID": "42742289",
-        "Source candidate ID": "pubmed:42742289",
+        "NeuroNZ Evidence ID": "E053",
+        "PMID": "42843495",
+        "Source candidate ID": "pubmed:42843495",
         "Source category": "Published research",
         "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
         "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42742289/",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42843495/",
         "NeuroNZ Condition IDs": "NC-072"
       },
       "bibliography": {
-        "publicationTitle": "Journal of medical imaging and radiation oncology",
+        "publicationTitle": "The American journal of cardiology",
         "creators": [
           {
             "creatorType": "author",
-            "firstName": "Jaron",
-            "lastName": "Huang"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Alicia",
-            "lastName": "Tyson"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Muthu",
-            "lastName": "Muthappan"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Annemarei",
-            "lastName": "Ranta"
+            "firstName": "Frazer",
+            "lastName": "Kirk"
           }
         ],
-        "date": "2026-Sep-15",
+        "date": "2026-Oct-07",
         "volume": "",
         "issue": "",
         "pages": "",
-        "ISSN": "1754-9485",
-        "DOI": "10.1111/1754-9485.70187",
-        "journalAbbreviation": "J Med Imaging Radiat Oncol",
+        "ISSN": "1879-1913",
+        "DOI": "10.1016/j.amjcard.2026.10.007",
+        "journalAbbreviation": "Am J Cardiol",
         "language": "eng",
-        "PMID": "42742289",
+        "PMID": "42843495",
         "PMCID": "",
-        "rights": "© 2026 The Author(s). Journal of Medical Imaging and Radiation Oncology published by John Wiley & Sons Australia, Ltd on behalf of Royal Australian and New Zealand College of Radiologists.",
+        "rights": "Copyright © 2026. Published by Elsevier Inc.",
         "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-02T02:37:57Z"
+        "accessDate": "2026-10-11T21:09:22Z"
       },
-      "date_added": "2026-10-01T23:39:32Z",
-      "date_modified": "2026-10-14T08:50:21Z",
+      "date_added": "2026-10-11T21:09:31Z",
+      "date_modified": "2026-10-14T09:01:20Z",
       "condition_ids": [
         "NC-072"
       ]
     },
     {
-      "stable_id": "E046",
-      "zotero_key": "Y5IS5BVH",
-      "zotero_version": 848,
-      "title": "Dabigatran use and cerebrovascular event risk across body mass index in atrial fibrillation: a real-world nested case-control study.",
-      "summary": "Dabigatran is widely used for stroke prevention in atrial fibrillation (AF), but concerns remain regarding its effectiveness in patients with Class III obesity ( BMI ≥40 kg/m2.) We evaluated the association between dabigatran use in patients with AF and ischaemic stroke (IS) or transient ischaemic attack (TIA) across body mass index (BMI) categories in a multiethnic New Zealand population. In this retrospective nested case-control study, cases with incident IS/TIA were identified from the fifth Auckland Regional Community Stroke Study (1st September 2020-31st August 2021), and event-free controls were randomly selected from the National Minimum Dataset. Multivariable logistic regression was used to estimate adjusted odds ratios (aORs) for IS/TIA, and effect modification by BMI catergory (< 30, 30-39.9, ≥40 kg/m2) was assessed using an interaction term. Among 1,854 patients with AF (295 cases, 1,559 controls), dabigatran use was associated with lower odds of IS/TIA (adjusted odds ratio [aOR] 0.50, 95% CI 0.38-0.68). After multivariable adjustment, BMI was not independently associated with IS/TIA risk. The association between dabigatran use and lower IS/TIA risk was similar in patients with BMI <30 and 30-39.9 kg/m2, but the point estimate shifted towards the null in patients with BMI ≥40 kg/m2 and was imprecise. There was no statistical evidence of effect modification by BMI (p-interaction=0.49), although clinically important attenuation in Class III obesity could not be excluded. In this real-world nested case-control study, there was no clear statistical evidence of BMI-related effect modification; however, the study had limited power in patients with BMI ≥40 kg/m2, and clinically important attenuation, including the possibility of no reduction in IS/TIA odds with dabigatran use in Class III obesity cannot be excluded.",
+      "stable_id": "E052",
+      "zotero_key": "5KS2YET7",
+      "zotero_version": 946,
+      "title": "Stroke reperfusion in Aotearoa New Zealand: 5-year trends and a comparison of stroke clot retrieval and non-stroke clot retrieval centre presenters.",
+      "summary": "Intravenous thrombolysis (IVT) and stroke clot retrieval (SCR) are effective stroke reperfusion treatments with historical underuse and reported access disparities.\nThis study describes trends in stroke reperfusion treatment between 2020 and 2024 in New Zealand and compares outcomes between patients first presenting to SCR and non-SCR centres.\nThis observational registry-study uses data from the National Stroke Register for patients receiving reperfusion therapy. Outcomes include treatment rates, time delays, mortality and complications.\nIn 2020, 1021 of 7333 (13.9%) patients who had an ischaemic stroke had reperfusion therapy, increasing to 1237 of 6867 (18.0%) in 2024 (p<0.001). The greatest increases in therapy rates were among non-SCR centre first presenters. IVT rates increased from 11.2% in 2020 to 12.4% in 2024 (p=0.038), with reduced rates of symptomatic intracranial haemorrhage (3.2% to 1.5%; p=0.0272) and day-7 mortality (8.5% to 5.6%; p<0.001). SCR rates increased from 5.3% in 2020 to 9.7% in 2024 (p<0.001), with no change in patient outcomes. Between 2020 and 2024, national median door-to-needle time increased from 60 to 74 min (p<0.001). Patients first presenting to SCR centres were more likely to be treated with IVT within 60 min (48.4% vs 31.7%; p<0.001; adjusted OR of 2.8 (95% CI 2.0 to 4.0)).\nNew Zealand stroke reperfusion therapy rates are rising, especially at non-SCR centres, and outcomes following IVT are improving. IVT treatment delays are worsening suggesting more resources are needed to maintain workflow efficiencies as case complexity is rising.",
       "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42704410/",
-      "doi": "10.1007/s11239-026-03394-1",
-      "pmid": "42704410",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42824915/",
+      "doi": "10.1136/bmjno-2026-001704",
+      "pmid": "42824915",
       "item_type": "journalArticle",
-      "date": "2026-Sep-07",
+      "date": "2026",
       "tags": [
         "category:Journal Article",
         "nzneuro:condition:NC-072",
         "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
+        "source-type:Journal Articles",
         "source:pubmed",
         "type:evidence",
         "type:publication"
       ],
       "extra": {
-        "NeuroNZ Evidence ID": "E046",
-        "PMID": "42704410",
-        "Source candidate ID": "pubmed:42704410",
+        "NeuroNZ Evidence ID": "E052",
+        "PMID": "42824915",
+        "Source candidate ID": "pubmed:42824915",
         "Source category": "Published research",
         "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
         "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42704410/",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42824915/",
         "NeuroNZ Condition IDs": "NC-072"
       },
       "bibliography": {
-        "publicationTitle": "Journal of thrombosis and thrombolysis",
+        "publicationTitle": "BMJ neurology open",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Morgan",
+            "lastName": "Lam"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Alicia Ls",
+            "lastName": "Tyson"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Martin N",
+            "lastName": "Punter"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "P Alan",
+            "lastName": "Barber"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Matthew Cl",
+            "lastName": "Phillips"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Teddy",
+            "lastName": "Wu"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "John",
+            "lastName": "Fink"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Anne",
+            "lastName": "Ranta"
+          }
+        ],
+        "date": "2026",
+        "volume": "8",
+        "issue": "2",
+        "pages": "e001704",
+        "ISSN": "2632-6140",
+        "DOI": "10.1136/bmjno-2026-001704",
+        "journalAbbreviation": "BMJ Neurol Open",
+        "language": "eng",
+        "PMID": "42824915",
+        "PMCID": "PMC13630056",
+        "rights": "Copyright © Author(s) (or their employer(s)) 2026. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ Group.",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-04T20:34:39Z"
+      },
+      "date_added": "2026-10-04T20:34:50Z",
+      "date_modified": "2026-10-14T09:01:19Z",
+      "condition_ids": [
+        "NC-072"
+      ]
+    },
+    {
+      "stable_id": "E051",
+      "zotero_key": "W676JVMB",
+      "zotero_version": 945,
+      "title": "Proton Pump Inhibitor Co-prescription, Dabigatran Use, and Ischaemic Stroke or Transient Ischaemic Attack in Atrial Fibrillation: A Population-Based Case-Control Study.",
+      "summary": "Proton pump inhibitors (PPIs) reduce gastric acidity and lower dabigatran plasma concentrations, raising concern about a clinically relevant drug-drug interaction. We examined whether PPI co-prescription modified the association between dabigatran use and atrial fibrillation (AF)-associated ischaemic stroke (IS) or transient ischaemic attack (TIA).\nWe conducted a population-based case-control study of adults with AF in Auckland, New Zealand. Cases were patients with adjudicated IS/TIA between September 2020 and August 2021 identified from the fifth Auckland Regional Community Stroke Study, which uses multiple overlapping ascertainment sources and independent clinical adjudication. Controls were patients with AF from the same source population who remained free of IS/TIA during the surveillance period, sampled from the Ministry of Health National Minimum Dataset. Individual-level demographics, comorbidities and medication exposures were obtained from electronic clinical records and dispensing data. Multivariable logistic regression included dabigatran use, PPI use and their interaction term, with adjustment for pre-specified clinical covariates.\nThe analytic sample comprised 300 IS/TIA cases and 1,608 controls. Dabigatran use was associated with lower odds of IS/TIA (adjusted odds ratio [aOR] 0.36 [95%CI 0.24-0.53]). PPI use was associated with higher odds of IS/TIA (aOR 1.55 [95%CI 1.08-2.24]), but this association is likely subject to residual confounding and should not be interpreted as causal. The dabigatran × PPI interaction was not statistically significant (aOR 0.98 [95%CI 0.57-1.69]; p = 0.94).\nWe found no evidence of a large dabigatran-specific interaction with PPI co-prescription. These findings do not support a major clinically important attenuation of dabigatran's association with lower odds of AF-associated IS/TIA, although modest effect modification cannot be excluded. Generalisability to lower-risk primary-care AF populations and healthcare systems with different patient characteristics may be limited.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42829417/",
+      "doi": "10.1007/s40261-026-01600-9",
+      "pmid": "42829417",
+      "item_type": "journalArticle",
+      "date": "2026-Oct-03",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:condition:NC-072",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E051",
+        "PMID": "42829417",
+        "Source candidate ID": "pubmed:42829417",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42829417/",
+        "NeuroNZ Condition IDs": "NC-072"
+      },
+      "bibliography": {
+        "publicationTitle": "Clinical drug investigation",
         "creators": [
           {
             "creatorType": "author",
@@ -4904,423 +4627,39 @@
           },
           {
             "creatorType": "author",
-            "firstName": "P Alan",
-            "lastName": "Barber"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Derrick A",
-            "lastName": "Bennett"
+            "firstName": "Harvey",
+            "lastName": "White"
           },
           {
             "creatorType": "author",
             "firstName": "Rita",
             "lastName": "Krishnamurthi"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Harvey D",
-            "lastName": "White"
           }
         ],
-        "date": "2026-Sep-07",
+        "date": "2026-Oct-03",
         "volume": "",
         "issue": "",
         "pages": "",
-        "ISSN": "1573-742X",
-        "DOI": "10.1007/s11239-026-03394-1",
-        "journalAbbreviation": "J Thromb Thrombolysis",
+        "ISSN": "1179-1918",
+        "DOI": "10.1007/s40261-026-01600-9",
+        "journalAbbreviation": "Clin Drug Investig",
         "language": "eng",
-        "PMID": "42704410",
+        "PMID": "42829417",
         "PMCID": "",
         "rights": "© 2026. The Author(s).",
         "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-02T02:37:57Z"
+        "accessDate": "2026-10-04T20:34:39Z"
       },
-      "date_added": "2026-10-01T23:39:33Z",
-      "date_modified": "2026-10-14T08:50:20Z",
+      "date_added": "2026-10-04T20:34:49Z",
+      "date_modified": "2026-10-14T09:01:18Z",
       "condition_ids": [
         "NC-072"
-      ]
-    },
-    {
-      "stable_id": "E047",
-      "zotero_key": "F87ISJBS",
-      "zotero_version": 847,
-      "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
-      "summary": "Dietary therapy is an effective treatment for drug-resistant epilepsy; however, low adherence presents a significant barrier to use in the clinical setting. This study aims to evaluate a multimodality digital health intervention to overcome this barrier and improve outcomes in adults undertaking the modified ketogenic diet for epilepsy.\nThis is a two-arm, randomized, controlled trial. A total of 136 participants will be randomized 1:1 to receive the modified ketogenic diet as per standard clinical care, or with the addition of the multimodality digital health intervention for 12 weeks. The intervention will include three components: (1) digital diaries, (2) a novel, at-home, saliva-based ketone testing device, and (3) dynamic dietitian support.\nThe primary treatment benefit will be determined using the epilepsy desirability of outcome rank, a composite outcome measure co-designed with people living with drug-resistant epilepsy. Secondary outcomes will include seizure frequency, treatment retention, adverse events, psychiatric symptoms, quality of life, medication use, cost effectiveness, and acceptability of the intervention.\nThe results of this trial will provide evidence on the effectiveness of using this innovative digital health intervention approach to improve treatment outcomes of dietary therapy for drug-resistant epilepsy.\nThis study has received approval from the Alfred Hospital Human Research Ethics Committee (Reference No.: 723/23). The results will be disseminated via peer-reviewed publications and publicly available plain language summaries.\nAustralian New Zealand Clinical Trials Registry (ANZCTR, ACTRN12624000486527).\nThis trial aims to find out if a 12-week digital health program can improve treatment outcomes of people living with epilepsy. We will invite 136 people commencing on the modified ketogenic diet to be randomly assigned to the digital health program or standard clinic care. The treatment outcome will be assessed combining seizure frequency, side effects, and quality of life.",
-      "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42704249/",
-      "doi": "10.1002/epi4.70345",
-      "pmid": "42704249",
-      "item_type": "journalArticle",
-      "date": "2026-Sep-07",
-      "tags": [
-        "category:Journal Article",
-        "nzneuro:condition:NC-023",
-        "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
-        "source:pubmed",
-        "type:evidence",
-        "type:publication"
-      ],
-      "extra": {
-        "NeuroNZ Evidence ID": "E047",
-        "PMID": "42704249",
-        "Source candidate ID": "pubmed:42704249",
-        "Source category": "Published research",
-        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
-        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42704249/",
-        "NeuroNZ Condition IDs": "NC-023"
-      },
-      "bibliography": {
-        "publicationTitle": "Epilepsia open",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Neha",
-            "lastName": "Kaul"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Lucy",
-            "lastName": "Vivash"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Susanna",
-            "lastName": "Chen"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Lillian",
-            "lastName": "King"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Hannah",
-            "lastName": "Johns"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Leonid",
-            "lastName": "Churilov"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Zhibin",
-            "lastName": "Chen"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "John-Paul",
-            "lastName": "Nicolo"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Danielle",
-            "lastName": "Heaven"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Ella",
-            "lastName": "Meredith"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Ryan",
-            "lastName": "Ervine"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Lisa",
-            "lastName": "Todd"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Bernadette",
-            "lastName": "Zappa"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Zanfina",
-            "lastName": "Ademi"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Gopisankar Mohanannair",
-            "lastName": "Geethadevi"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Michael",
-            "lastName": "Erlichster"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Efstratios",
-            "lastName": "Skafidas"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Terence J",
-            "lastName": "O'Brien"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Patrick",
-            "lastName": "Kwan"
-          }
-        ],
-        "date": "2026-Sep-07",
-        "volume": "",
-        "issue": "",
-        "pages": "",
-        "ISSN": "2470-9239",
-        "DOI": "10.1002/epi4.70345",
-        "journalAbbreviation": "Epilepsia Open",
-        "language": "eng",
-        "PMID": "42704249",
-        "PMCID": "PMC13548819",
-        "rights": "© 2026 The Author(s). Epilepsia Open published by Wiley Periodicals LLC on behalf of International League Against Epilepsy.",
-        "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-02T02:37:57Z"
-      },
-      "date_added": "2026-10-01T23:39:33Z",
-      "date_modified": "2026-10-14T08:50:19Z",
-      "condition_ids": [
-        "NC-023"
-      ]
-    },
-    {
-      "stable_id": "E048",
-      "zotero_key": "MB5EDL2X",
-      "zotero_version": 846,
-      "title": "Stroke clinical documentation education program in Australia and New Zealand.",
-      "summary": "Accurate and complete clinical documentation underpins the assignment of International Classification of Disease codes used for epidemiological research, hospital activity based funding, and health service planning. Objective: To develop, implement, and evaluate an education program for clinicians and clinical documentation specialists (CDS) to improve clinical documentation of stroke.\nAn education program to improve clinical documentation of stroke was developed by the Australia and New Zealand Stroke Coding Working Group. Eligible participants were clinicians (doctors, nurses, and allied health) and CDS in Australia or New Zealand. The education program comprised 4 modules in a pre-recorded 10-minute educational video. Surveys were administered before and after the educational video to evaluate knowledge (Kirkpatrick level 2) and obtain feedback. Quantitative data were summarised using descriptive statistics. Open-text responses to the feedback survey were analysed using inductive thematic analysis.\nAmong 72 eligible participants, 41 (57%) completed the pre- and post-educational knowledge assessment surveys (n = 35 clinicians, n = 6 CDS). Compared with the pre-education survey, the median number of correct responses significantly increased in the post-education survey (pre: 3 [interquartile range (IQR) 2-4]; post: 5 [IQR 4-5]; p < 0.001). Most respondents (>90%) were satisfied with the education program, stating it provided \"practical and transferrable knowledge\" and that the education was \"quick, clear, concise.\"\nOur education program was associated with an increased knowledge of appropriate clinical documentation of stroke. Ongoing monitoring of clinical coding and clinical documentation is required to ascertain whether the education of the participants translates to improved clinical coding of stroke.Implications for health information management practice:Accurate and complete clinical documentation directly impacts clinical coding, which in turn affects reimbursement, patient safety, and data quality for epidemiological research, resource allocation, and health policy decision-making.",
-      "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42698334/",
-      "doi": "10.1177/18333583261453569",
-      "pmid": "42698334",
-      "item_type": "journalArticle",
-      "date": "2026-Sep-05",
-      "tags": [
-        "category:Journal Article",
-        "nzneuro:condition:NC-072",
-        "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
-        "source:pubmed",
-        "type:evidence",
-        "type:publication"
-      ],
-      "extra": {
-        "NeuroNZ Evidence ID": "E048",
-        "PMID": "42698334",
-        "Source candidate ID": "pubmed:42698334",
-        "Source category": "Published research",
-        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
-        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42698334/",
-        "NeuroNZ Condition IDs": "NC-072"
-      },
-      "bibliography": {
-        "publicationTitle": "Health information management : journal of the Health Information Management Association of Australia",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Catherine",
-            "lastName": "Burns"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Ailie",
-            "lastName": "Sanders"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Anna",
-            "lastName": "Ranta"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Justan",
-            "lastName": "Banihashemi"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Mary",
-            "lastName": "Kouvas"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Lauren M",
-            "lastName": "Sanders"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Dominique A",
-            "lastName": "Cadilhac"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Chris",
-            "lastName": "Moser"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Carla",
-            "lastName": "Read"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Lee",
-            "lastName": "Nedkoff"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Muideen T",
-            "lastName": "Olaiya"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Alan",
-            "lastName": "Davis"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Elizabeth",
-            "lastName": "Barrett"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Monique F",
-            "lastName": "Kilkenny"
-          }
-        ],
-        "date": "2026-Sep-05",
-        "volume": "",
-        "issue": "",
-        "pages": "18333583261453569",
-        "ISSN": "1833-3575",
-        "DOI": "10.1177/18333583261453569",
-        "journalAbbreviation": "Health Inf Manag",
-        "language": "eng",
-        "PMID": "42698334",
-        "PMCID": "",
-        "rights": "",
-        "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-02T02:37:57Z"
-      },
-      "date_added": "2026-10-01T23:39:34Z",
-      "date_modified": "2026-10-14T08:50:18Z",
-      "condition_ids": [
-        "NC-072"
-      ]
-    },
-    {
-      "stable_id": "E049",
-      "zotero_key": "59CVR6FA",
-      "zotero_version": 845,
-      "title": "Neurodevelopmental impairment and morbidity patterns across two epochs among extremely preterm infant survivors in Australia and New Zealand.",
-      "summary": "To evaluate neurodevelopmental outcomes at 2-3 years of age among survivors of extremely preterm infant (EPI).\nAnalysis of prospectively collected Australian and New Zealand Neonatal Network data on infants born <28 weeks' gestation between 2010 and 2019.\nThe prevalence of neurodevelopmental impairment (NDI), defined as any moderate to severe cerebral palsy (CP), sensory impairment or developmental delay (score <70) at 2-3 years of age was determined. Epoch comparisons (2010-204 vs 2015-2019) and the impact of major morbidity on NDI were examined, adjusting for maternal age, antenatal steroids, gestational age, Apgar score, admission temperature, sex and breast milk feeding.\nOf 6617 EPIs, 15.5% had NDI. Developmental delay was most prevalent (14.5%), including language (11.1%), motor (5.9%), cognitive (5.7%) domains, followed by CP (3.2%), deafness (1.4%) and blindness (0.4%). Compared with infants without morbidity, adjusted odds of NDI increased with one (adjusted OR (aOR) 1.50, 95% CI 1.21 to 1.84), two (aOR 2.09, 95% CI 1.60 to 2.53) and three or more coexisting morbidities (aOR 3.56, 95% CI 2.73 to 4.65). Between epochs, bronchopulmonary dysplasia increased by 6.9% and retinopathy of prematurity by 3.8%, alongside a rise in developmental delay (10.3% to 17.8%), contributing to a 6.6% absolute increase in NDI. Survivors born at 22-23 weeks had the highest NDI rates, increasing from 23.0% to 26.4%.\nNDI rates among EPI increased over time and were associated with increasing multiple morbidities. Although changes in EPIs survival patterns may have contributed to these trends, reducing neonatal morbidities and strengthening neuroprotective care remain priorities.",
-      "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42697710/",
-      "doi": "10.1136/archdischild-2025-330101",
-      "pmid": "42697710",
-      "item_type": "journalArticle",
-      "date": "2026-Sep-04",
-      "tags": [
-        "category:Journal Article",
-        "nzneuro:condition:NC-058",
-        "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
-        "source:pubmed",
-        "type:evidence",
-        "type:publication"
-      ],
-      "extra": {
-        "NeuroNZ Evidence ID": "E049",
-        "PMID": "42697710",
-        "Source candidate ID": "pubmed:42697710",
-        "Source category": "Published research",
-        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
-        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42697710/",
-        "NeuroNZ Condition IDs": "NC-058"
-      },
-      "bibliography": {
-        "publicationTitle": "Archives of disease in childhood. Fetal and neonatal edition",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Temesgen",
-            "lastName": "Getaneh"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Nusrat",
-            "lastName": "Homaira"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Abrar",
-            "lastName": "Chughtai"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Trisha",
-            "lastName": "Parmar"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Elizabeth Maria",
-            "lastName": "Hurrion"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Georgina",
-            "lastName": "Chambers"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Alice",
-            "lastName": "Rumbold"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Kei",
-            "lastName": "Lui"
-          },
-          {
-            "creatorType": "author",
-            "name": "Australia and New Zealand Neonatal Network"
-          }
-        ],
-        "date": "2026-Sep-04",
-        "volume": "",
-        "issue": "",
-        "pages": "",
-        "ISSN": "1468-2052",
-        "DOI": "10.1136/archdischild-2025-330101",
-        "journalAbbreviation": "Arch Dis Child Fetal Neonatal Ed",
-        "language": "eng",
-        "PMID": "42697710",
-        "PMCID": "",
-        "rights": "© Author(s) (or their employer(s)) 2026. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ Group.",
-        "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-02T02:37:57Z"
-      },
-      "date_added": "2026-10-01T23:39:35Z",
-      "date_modified": "2026-10-14T08:50:17Z",
-      "condition_ids": [
-        "NC-058"
       ]
     },
     {
       "stable_id": "E050",
       "zotero_key": "Y5RPBKEL",
-      "zotero_version": 844,
+      "zotero_version": 944,
       "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",
       "summary": "Childhood stroke leads to long-term neurological impairment, impacts on quality of life and has substantial economic costs. Coordinated systems of care are required to streamline rapid diagnosis and treatment of stroke. The primary aim is to investigate the effect of Code Stroke protocols on increasing the proportion of children with stroke diagnosed within the 4.5-hour time window for reperfusion therapies.\nProspective, multicentre, quasi-experimental interventional study in nine Australian and New Zealand children's hospitals from 2020 to 2026. Children aged 1 month to <18 years with stroke symptoms are eligible for inclusion. A staged pre-implementation and post implementation study design will investigate effects of (1) Code Stroke protocols to streamline diagnosis and treatment, (2) decision support tools to improve diagnostic accuracy and (3) perfusion imaging to quantify brain at risk of infarction. Presenting characteristics, timelines of care, treatments, functional and health economic outcomes will be collected. The primary outcome is the proportion of children with stroke diagnosed within 4.5 hours, estimated using a mixed-effect logistic regression model, with the dichotomous variable time to diagnosis as the dependent variable, implementation phase as the independent fixed effect and hospitals as random effects. Sample size calculation estimates that 98 patients with radiologically confirmed stroke per phase will yield 80% power to detect change from 15% to 40% in the proportion of children diagnosed within 4.5 hours.",
       "source_organisation": "",
@@ -5333,7 +4672,7 @@
         "category:Journal Article",
         "nzneuro:condition:NC-072",
         "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
+        "source-type:Journal Articles",
         "source:pubmed",
         "type:evidence",
         "type:publication"
@@ -5466,44 +4805,418 @@
         "accessDate": "2026-10-02T02:37:57Z"
       },
       "date_added": "2026-10-01T23:39:35Z",
-      "date_modified": "2026-10-14T08:50:16Z",
+      "date_modified": "2026-10-14T09:01:17Z",
       "condition_ids": [
         "NC-072"
       ]
     },
     {
-      "stable_id": "E051",
-      "zotero_key": "W676JVMB",
-      "zotero_version": 843,
-      "title": "Proton Pump Inhibitor Co-prescription, Dabigatran Use, and Ischaemic Stroke or Transient Ischaemic Attack in Atrial Fibrillation: A Population-Based Case-Control Study.",
-      "summary": "Proton pump inhibitors (PPIs) reduce gastric acidity and lower dabigatran plasma concentrations, raising concern about a clinically relevant drug-drug interaction. We examined whether PPI co-prescription modified the association between dabigatran use and atrial fibrillation (AF)-associated ischaemic stroke (IS) or transient ischaemic attack (TIA).\nWe conducted a population-based case-control study of adults with AF in Auckland, New Zealand. Cases were patients with adjudicated IS/TIA between September 2020 and August 2021 identified from the fifth Auckland Regional Community Stroke Study, which uses multiple overlapping ascertainment sources and independent clinical adjudication. Controls were patients with AF from the same source population who remained free of IS/TIA during the surveillance period, sampled from the Ministry of Health National Minimum Dataset. Individual-level demographics, comorbidities and medication exposures were obtained from electronic clinical records and dispensing data. Multivariable logistic regression included dabigatran use, PPI use and their interaction term, with adjustment for pre-specified clinical covariates.\nThe analytic sample comprised 300 IS/TIA cases and 1,608 controls. Dabigatran use was associated with lower odds of IS/TIA (adjusted odds ratio [aOR] 0.36 [95%CI 0.24-0.53]). PPI use was associated with higher odds of IS/TIA (aOR 1.55 [95%CI 1.08-2.24]), but this association is likely subject to residual confounding and should not be interpreted as causal. The dabigatran × PPI interaction was not statistically significant (aOR 0.98 [95%CI 0.57-1.69]; p = 0.94).\nWe found no evidence of a large dabigatran-specific interaction with PPI co-prescription. These findings do not support a major clinically important attenuation of dabigatran's association with lower odds of AF-associated IS/TIA, although modest effect modification cannot be excluded. Generalisability to lower-risk primary-care AF populations and healthcare systems with different patient characteristics may be limited.",
+      "stable_id": "E049",
+      "zotero_key": "59CVR6FA",
+      "zotero_version": 943,
+      "title": "Neurodevelopmental impairment and morbidity patterns across two epochs among extremely preterm infant survivors in Australia and New Zealand.",
+      "summary": "To evaluate neurodevelopmental outcomes at 2-3 years of age among survivors of extremely preterm infant (EPI).\nAnalysis of prospectively collected Australian and New Zealand Neonatal Network data on infants born <28 weeks' gestation between 2010 and 2019.\nThe prevalence of neurodevelopmental impairment (NDI), defined as any moderate to severe cerebral palsy (CP), sensory impairment or developmental delay (score <70) at 2-3 years of age was determined. Epoch comparisons (2010-204 vs 2015-2019) and the impact of major morbidity on NDI were examined, adjusting for maternal age, antenatal steroids, gestational age, Apgar score, admission temperature, sex and breast milk feeding.\nOf 6617 EPIs, 15.5% had NDI. Developmental delay was most prevalent (14.5%), including language (11.1%), motor (5.9%), cognitive (5.7%) domains, followed by CP (3.2%), deafness (1.4%) and blindness (0.4%). Compared with infants without morbidity, adjusted odds of NDI increased with one (adjusted OR (aOR) 1.50, 95% CI 1.21 to 1.84), two (aOR 2.09, 95% CI 1.60 to 2.53) and three or more coexisting morbidities (aOR 3.56, 95% CI 2.73 to 4.65). Between epochs, bronchopulmonary dysplasia increased by 6.9% and retinopathy of prematurity by 3.8%, alongside a rise in developmental delay (10.3% to 17.8%), contributing to a 6.6% absolute increase in NDI. Survivors born at 22-23 weeks had the highest NDI rates, increasing from 23.0% to 26.4%.\nNDI rates among EPI increased over time and were associated with increasing multiple morbidities. Although changes in EPIs survival patterns may have contributed to these trends, reducing neonatal morbidities and strengthening neuroprotective care remain priorities.",
       "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42829417/",
-      "doi": "10.1007/s40261-026-01600-9",
-      "pmid": "42829417",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42697710/",
+      "doi": "10.1136/archdischild-2025-330101",
+      "pmid": "42697710",
       "item_type": "journalArticle",
-      "date": "2026-Oct-03",
+      "date": "2026-Sep-04",
       "tags": [
         "category:Journal Article",
-        "nzneuro:condition:NC-072",
+        "nzneuro:condition:NC-058",
         "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
+        "source-type:Journal Articles",
         "source:pubmed",
         "type:evidence",
         "type:publication"
       ],
       "extra": {
-        "NeuroNZ Evidence ID": "E051",
-        "PMID": "42829417",
-        "Source candidate ID": "pubmed:42829417",
+        "NeuroNZ Evidence ID": "E049",
+        "PMID": "42697710",
+        "Source candidate ID": "pubmed:42697710",
         "Source category": "Published research",
         "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
         "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42829417/",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42697710/",
+        "NeuroNZ Condition IDs": "NC-058"
+      },
+      "bibliography": {
+        "publicationTitle": "Archives of disease in childhood. Fetal and neonatal edition",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Temesgen",
+            "lastName": "Getaneh"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Nusrat",
+            "lastName": "Homaira"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Abrar",
+            "lastName": "Chughtai"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Trisha",
+            "lastName": "Parmar"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Elizabeth Maria",
+            "lastName": "Hurrion"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Georgina",
+            "lastName": "Chambers"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Alice",
+            "lastName": "Rumbold"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Kei",
+            "lastName": "Lui"
+          },
+          {
+            "creatorType": "author",
+            "name": "Australia and New Zealand Neonatal Network"
+          }
+        ],
+        "date": "2026-Sep-04",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "ISSN": "1468-2052",
+        "DOI": "10.1136/archdischild-2025-330101",
+        "journalAbbreviation": "Arch Dis Child Fetal Neonatal Ed",
+        "language": "eng",
+        "PMID": "42697710",
+        "PMCID": "",
+        "rights": "© Author(s) (or their employer(s)) 2026. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ Group.",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-02T02:37:57Z"
+      },
+      "date_added": "2026-10-01T23:39:35Z",
+      "date_modified": "2026-10-14T09:01:17Z",
+      "condition_ids": [
+        "NC-058"
+      ]
+    },
+    {
+      "stable_id": "E048",
+      "zotero_key": "MB5EDL2X",
+      "zotero_version": 942,
+      "title": "Stroke clinical documentation education program in Australia and New Zealand.",
+      "summary": "Accurate and complete clinical documentation underpins the assignment of International Classification of Disease codes used for epidemiological research, hospital activity based funding, and health service planning. Objective: To develop, implement, and evaluate an education program for clinicians and clinical documentation specialists (CDS) to improve clinical documentation of stroke.\nAn education program to improve clinical documentation of stroke was developed by the Australia and New Zealand Stroke Coding Working Group. Eligible participants were clinicians (doctors, nurses, and allied health) and CDS in Australia or New Zealand. The education program comprised 4 modules in a pre-recorded 10-minute educational video. Surveys were administered before and after the educational video to evaluate knowledge (Kirkpatrick level 2) and obtain feedback. Quantitative data were summarised using descriptive statistics. Open-text responses to the feedback survey were analysed using inductive thematic analysis.\nAmong 72 eligible participants, 41 (57%) completed the pre- and post-educational knowledge assessment surveys (n = 35 clinicians, n = 6 CDS). Compared with the pre-education survey, the median number of correct responses significantly increased in the post-education survey (pre: 3 [interquartile range (IQR) 2-4]; post: 5 [IQR 4-5]; p < 0.001). Most respondents (>90%) were satisfied with the education program, stating it provided \"practical and transferrable knowledge\" and that the education was \"quick, clear, concise.\"\nOur education program was associated with an increased knowledge of appropriate clinical documentation of stroke. Ongoing monitoring of clinical coding and clinical documentation is required to ascertain whether the education of the participants translates to improved clinical coding of stroke.Implications for health information management practice:Accurate and complete clinical documentation directly impacts clinical coding, which in turn affects reimbursement, patient safety, and data quality for epidemiological research, resource allocation, and health policy decision-making.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42698334/",
+      "doi": "10.1177/18333583261453569",
+      "pmid": "42698334",
+      "item_type": "journalArticle",
+      "date": "2026-Sep-05",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:condition:NC-072",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E048",
+        "PMID": "42698334",
+        "Source candidate ID": "pubmed:42698334",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42698334/",
         "NeuroNZ Condition IDs": "NC-072"
       },
       "bibliography": {
-        "publicationTitle": "Clinical drug investigation",
+        "publicationTitle": "Health information management : journal of the Health Information Management Association of Australia",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Catherine",
+            "lastName": "Burns"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ailie",
+            "lastName": "Sanders"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Anna",
+            "lastName": "Ranta"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Justan",
+            "lastName": "Banihashemi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Mary",
+            "lastName": "Kouvas"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lauren M",
+            "lastName": "Sanders"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Dominique A",
+            "lastName": "Cadilhac"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Chris",
+            "lastName": "Moser"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Carla",
+            "lastName": "Read"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lee",
+            "lastName": "Nedkoff"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Muideen T",
+            "lastName": "Olaiya"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Alan",
+            "lastName": "Davis"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Elizabeth",
+            "lastName": "Barrett"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Monique F",
+            "lastName": "Kilkenny"
+          }
+        ],
+        "date": "2026-Sep-05",
+        "volume": "",
+        "issue": "",
+        "pages": "18333583261453569",
+        "ISSN": "1833-3575",
+        "DOI": "10.1177/18333583261453569",
+        "journalAbbreviation": "Health Inf Manag",
+        "language": "eng",
+        "PMID": "42698334",
+        "PMCID": "",
+        "rights": "",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-02T02:37:57Z"
+      },
+      "date_added": "2026-10-01T23:39:34Z",
+      "date_modified": "2026-10-14T09:01:16Z",
+      "condition_ids": [
+        "NC-072"
+      ]
+    },
+    {
+      "stable_id": "E047",
+      "zotero_key": "F87ISJBS",
+      "zotero_version": 941,
+      "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
+      "summary": "Dietary therapy is an effective treatment for drug-resistant epilepsy; however, low adherence presents a significant barrier to use in the clinical setting. This study aims to evaluate a multimodality digital health intervention to overcome this barrier and improve outcomes in adults undertaking the modified ketogenic diet for epilepsy.\nThis is a two-arm, randomized, controlled trial. A total of 136 participants will be randomized 1:1 to receive the modified ketogenic diet as per standard clinical care, or with the addition of the multimodality digital health intervention for 12 weeks. The intervention will include three components: (1) digital diaries, (2) a novel, at-home, saliva-based ketone testing device, and (3) dynamic dietitian support.\nThe primary treatment benefit will be determined using the epilepsy desirability of outcome rank, a composite outcome measure co-designed with people living with drug-resistant epilepsy. Secondary outcomes will include seizure frequency, treatment retention, adverse events, psychiatric symptoms, quality of life, medication use, cost effectiveness, and acceptability of the intervention.\nThe results of this trial will provide evidence on the effectiveness of using this innovative digital health intervention approach to improve treatment outcomes of dietary therapy for drug-resistant epilepsy.\nThis study has received approval from the Alfred Hospital Human Research Ethics Committee (Reference No.: 723/23). The results will be disseminated via peer-reviewed publications and publicly available plain language summaries.\nAustralian New Zealand Clinical Trials Registry (ANZCTR, ACTRN12624000486527).\nThis trial aims to find out if a 12-week digital health program can improve treatment outcomes of people living with epilepsy. We will invite 136 people commencing on the modified ketogenic diet to be randomly assigned to the digital health program or standard clinic care. The treatment outcome will be assessed combining seizure frequency, side effects, and quality of life.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42704249/",
+      "doi": "10.1002/epi4.70345",
+      "pmid": "42704249",
+      "item_type": "journalArticle",
+      "date": "2026-Sep-07",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:condition:NC-023",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E047",
+        "PMID": "42704249",
+        "Source candidate ID": "pubmed:42704249",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42704249/",
+        "NeuroNZ Condition IDs": "NC-023"
+      },
+      "bibliography": {
+        "publicationTitle": "Epilepsia open",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Neha",
+            "lastName": "Kaul"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lucy",
+            "lastName": "Vivash"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Susanna",
+            "lastName": "Chen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lillian",
+            "lastName": "King"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Hannah",
+            "lastName": "Johns"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Leonid",
+            "lastName": "Churilov"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Zhibin",
+            "lastName": "Chen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "John-Paul",
+            "lastName": "Nicolo"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Danielle",
+            "lastName": "Heaven"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ella",
+            "lastName": "Meredith"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ryan",
+            "lastName": "Ervine"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lisa",
+            "lastName": "Todd"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Bernadette",
+            "lastName": "Zappa"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Zanfina",
+            "lastName": "Ademi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Gopisankar Mohanannair",
+            "lastName": "Geethadevi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Michael",
+            "lastName": "Erlichster"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Efstratios",
+            "lastName": "Skafidas"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Terence J",
+            "lastName": "O'Brien"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Patrick",
+            "lastName": "Kwan"
+          }
+        ],
+        "date": "2026-Sep-07",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "ISSN": "2470-9239",
+        "DOI": "10.1002/epi4.70345",
+        "journalAbbreviation": "Epilepsia Open",
+        "language": "eng",
+        "PMID": "42704249",
+        "PMCID": "PMC13548819",
+        "rights": "© 2026 The Author(s). Epilepsia Open published by Wiley Periodicals LLC on behalf of International League Against Epilepsy.",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-02T02:37:57Z"
+      },
+      "date_added": "2026-10-01T23:39:33Z",
+      "date_modified": "2026-10-14T09:01:15Z",
+      "condition_ids": [
+        "NC-023"
+      ]
+    },
+    {
+      "stable_id": "E046",
+      "zotero_key": "Y5IS5BVH",
+      "zotero_version": 940,
+      "title": "Dabigatran use and cerebrovascular event risk across body mass index in atrial fibrillation: a real-world nested case-control study.",
+      "summary": "Dabigatran is widely used for stroke prevention in atrial fibrillation (AF), but concerns remain regarding its effectiveness in patients with Class III obesity ( BMI ≥40 kg/m2.) We evaluated the association between dabigatran use in patients with AF and ischaemic stroke (IS) or transient ischaemic attack (TIA) across body mass index (BMI) categories in a multiethnic New Zealand population. In this retrospective nested case-control study, cases with incident IS/TIA were identified from the fifth Auckland Regional Community Stroke Study (1st September 2020-31st August 2021), and event-free controls were randomly selected from the National Minimum Dataset. Multivariable logistic regression was used to estimate adjusted odds ratios (aORs) for IS/TIA, and effect modification by BMI catergory (< 30, 30-39.9, ≥40 kg/m2) was assessed using an interaction term. Among 1,854 patients with AF (295 cases, 1,559 controls), dabigatran use was associated with lower odds of IS/TIA (adjusted odds ratio [aOR] 0.50, 95% CI 0.38-0.68). After multivariable adjustment, BMI was not independently associated with IS/TIA risk. The association between dabigatran use and lower IS/TIA risk was similar in patients with BMI <30 and 30-39.9 kg/m2, but the point estimate shifted towards the null in patients with BMI ≥40 kg/m2 and was imprecise. There was no statistical evidence of effect modification by BMI (p-interaction=0.49), although clinically important attenuation in Class III obesity could not be excluded. In this real-world nested case-control study, there was no clear statistical evidence of BMI-related effect modification; however, the study had limited power in patients with BMI ≥40 kg/m2, and clinically important attenuation, including the possibility of no reduction in IS/TIA odds with dabigatran use in Class III obesity cannot be excluded.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42704410/",
+      "doi": "10.1007/s11239-026-03394-1",
+      "pmid": "42704410",
+      "item_type": "journalArticle",
+      "date": "2026-Sep-07",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:condition:NC-072",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E046",
+        "PMID": "42704410",
+        "Source candidate ID": "pubmed:42704410",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42704410/",
+        "NeuroNZ Condition IDs": "NC-072"
+      },
+      "bibliography": {
+        "publicationTitle": "Journal of thrombosis and thrombolysis",
         "creators": [
           {
             "creatorType": "author",
@@ -5517,189 +5230,476 @@
           },
           {
             "creatorType": "author",
-            "firstName": "Harvey",
-            "lastName": "White"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Rita",
-            "lastName": "Krishnamurthi"
-          }
-        ],
-        "date": "2026-Oct-03",
-        "volume": "",
-        "issue": "",
-        "pages": "",
-        "ISSN": "1179-1918",
-        "DOI": "10.1007/s40261-026-01600-9",
-        "journalAbbreviation": "Clin Drug Investig",
-        "language": "eng",
-        "PMID": "42829417",
-        "PMCID": "",
-        "rights": "© 2026. The Author(s).",
-        "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-04T20:34:39Z"
-      },
-      "date_added": "2026-10-04T20:34:49Z",
-      "date_modified": "2026-10-14T08:50:15Z",
-      "condition_ids": [
-        "NC-072"
-      ]
-    },
-    {
-      "stable_id": "E052",
-      "zotero_key": "5KS2YET7",
-      "zotero_version": 842,
-      "title": "Stroke reperfusion in Aotearoa New Zealand: 5-year trends and a comparison of stroke clot retrieval and non-stroke clot retrieval centre presenters.",
-      "summary": "Intravenous thrombolysis (IVT) and stroke clot retrieval (SCR) are effective stroke reperfusion treatments with historical underuse and reported access disparities.\nThis study describes trends in stroke reperfusion treatment between 2020 and 2024 in New Zealand and compares outcomes between patients first presenting to SCR and non-SCR centres.\nThis observational registry-study uses data from the National Stroke Register for patients receiving reperfusion therapy. Outcomes include treatment rates, time delays, mortality and complications.\nIn 2020, 1021 of 7333 (13.9%) patients who had an ischaemic stroke had reperfusion therapy, increasing to 1237 of 6867 (18.0%) in 2024 (p<0.001). The greatest increases in therapy rates were among non-SCR centre first presenters. IVT rates increased from 11.2% in 2020 to 12.4% in 2024 (p=0.038), with reduced rates of symptomatic intracranial haemorrhage (3.2% to 1.5%; p=0.0272) and day-7 mortality (8.5% to 5.6%; p<0.001). SCR rates increased from 5.3% in 2020 to 9.7% in 2024 (p<0.001), with no change in patient outcomes. Between 2020 and 2024, national median door-to-needle time increased from 60 to 74 min (p<0.001). Patients first presenting to SCR centres were more likely to be treated with IVT within 60 min (48.4% vs 31.7%; p<0.001; adjusted OR of 2.8 (95% CI 2.0 to 4.0)).\nNew Zealand stroke reperfusion therapy rates are rising, especially at non-SCR centres, and outcomes following IVT are improving. IVT treatment delays are worsening suggesting more resources are needed to maintain workflow efficiencies as case complexity is rising.",
-      "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42824915/",
-      "doi": "10.1136/bmjno-2026-001704",
-      "pmid": "42824915",
-      "item_type": "journalArticle",
-      "date": "2026",
-      "tags": [
-        "category:Journal Article",
-        "nzneuro:condition:NC-072",
-        "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
-        "source:pubmed",
-        "type:evidence",
-        "type:publication"
-      ],
-      "extra": {
-        "NeuroNZ Evidence ID": "E052",
-        "PMID": "42824915",
-        "Source candidate ID": "pubmed:42824915",
-        "Source category": "Published research",
-        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
-        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42824915/",
-        "NeuroNZ Condition IDs": "NC-072"
-      },
-      "bibliography": {
-        "publicationTitle": "BMJ neurology open",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Morgan",
-            "lastName": "Lam"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Alicia Ls",
-            "lastName": "Tyson"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Martin N",
-            "lastName": "Punter"
-          },
-          {
-            "creatorType": "author",
             "firstName": "P Alan",
             "lastName": "Barber"
           },
           {
             "creatorType": "author",
-            "firstName": "Matthew Cl",
-            "lastName": "Phillips"
+            "firstName": "Derrick A",
+            "lastName": "Bennett"
           },
           {
             "creatorType": "author",
-            "firstName": "Teddy",
-            "lastName": "Wu"
+            "firstName": "Rita",
+            "lastName": "Krishnamurthi"
           },
           {
             "creatorType": "author",
-            "firstName": "John",
-            "lastName": "Fink"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Anne",
-            "lastName": "Ranta"
+            "firstName": "Harvey D",
+            "lastName": "White"
           }
         ],
-        "date": "2026",
-        "volume": "8",
-        "issue": "2",
-        "pages": "e001704",
-        "ISSN": "2632-6140",
-        "DOI": "10.1136/bmjno-2026-001704",
-        "journalAbbreviation": "BMJ Neurol Open",
+        "date": "2026-Sep-07",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "ISSN": "1573-742X",
+        "DOI": "10.1007/s11239-026-03394-1",
+        "journalAbbreviation": "J Thromb Thrombolysis",
         "language": "eng",
-        "PMID": "42824915",
-        "PMCID": "PMC13630056",
-        "rights": "Copyright © Author(s) (or their employer(s)) 2026. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ Group.",
+        "PMID": "42704410",
+        "PMCID": "",
+        "rights": "© 2026. The Author(s).",
         "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-04T20:34:39Z"
+        "accessDate": "2026-10-02T02:37:57Z"
       },
-      "date_added": "2026-10-04T20:34:50Z",
-      "date_modified": "2026-10-14T08:50:14Z",
+      "date_added": "2026-10-01T23:39:33Z",
+      "date_modified": "2026-10-14T09:01:15Z",
       "condition_ids": [
         "NC-072"
       ]
     },
     {
-      "stable_id": "E053",
-      "zotero_key": "TN8VWMHL",
-      "zotero_version": 840,
-      "title": "Preventing Fatal Stroke: The Hidden Survival Benefit of Left Atrial Appendage Occlusion in Cardiac Surgery.",
-      "summary": "Atrial fibrillation (AF) affects a greater proportion of cardiac surgery patients than previously appreciated, with pre-operative AF prevalence in Australia and New Zealand recently documented at 14.99%, substantially higher than prior international estimates of 5% to 11%. Both the European Society of Cardiology/European Association of Cardio-Thoracic Surgery (ESC/EACTS) and the Society of Thoracic Surgeons (STS) have now upgraded left atrial appendage occlusion (LAAO) to a Class Ia recommendation for all AF patients undergoing cardiac surgery, based principally on the Left Atrial Appendage Occlusion Study III (LAAOS III); a multicentre randomized trial demonstrating a 33% relative risk reduction in ischemic stroke or systemic embolism with concomitant LAAO (risk ratio 0.66; 95% confidence interval 0.52 to 0.84). Despite these strong guideline endorsements, real-world implementation is critically deficient: in Australia and New Zealand, 77.63% of AF patients undergoing cardiac surgery received no LAA treatment. Critically, ∼21% of all strokes in LAAOS III were fatal, signalling that the stroke reduction LAAO produced, likely prevented fatal stroke. This hidden survival benefit is implied but not explored in the existing data, awaiting only a mortality-powered trial for formal confirmation. The literature to date actively examines stroke prevention and all-cause mortality, yet LAAO fatal stroke prevention is an unreported, and important independent outcome. This review synthesizes the epidemiology, pathophysiology, and trial evidence for LAAO,and appraises the guideline landscape and global implementation gap. In conclusion, LAAO does not merely prevent neurological events; it prevents fatalstrokes.",
+      "stable_id": "E045",
+      "zotero_key": "Y9JVIYG3",
+      "zotero_version": 939,
+      "title": "Ethnic Differences in Outcomes of Endovascular Thrombectomy in New Zealand.",
+      "summary": "Stroke is a leading cause of morbidity and mortality in New Zealand, with ethnic disparities known to exist. Endovascular thrombectomy (EVT) has proven efficacy in reducing or preventing disability for stroke patients, but little is known about ethnic differences in functional outcomes following EVT in New Zealand.\nA retrospective nationwide registry-based study was conducted, including all patients who underwent EVT between 1st January 2011 through to 31st December 2023 in New Zealand. Demographic, clinical and procedural data were obtained from the National Stroke Register. Primary outcomes were mortality at 7 days and dichotomised modified Rankin Scale (mRS) at 90 days. Subgroup analysis compared patients presenting directly to EVT-capable centres with those requiring transfer.\n2852 EVT patients were included (68.7% European, 14.6% Māori, 7.4% Pacific, 8.4% Asian and 1.0% Other). Non-Europeans presented at younger ages and with greater vascular risk factors. Functional outcomes and 7-day mortality rates did not differ significantly by ethnicity. Odds of symptomatic intracranial haemorrhage (sICH) were greater in Māori (aOR 3.01, 1.42-6.38, p = 0.004), Pacific peoples (3.40, 1.22-9.53, p = 0.02) and Asian (aOR 3.57, 1.57-8.15, p = 0.002) patients compared to Europeans. Nearly half of patients (46.5%) initially presented to non-EVT capable centres; although EVT was delayed, functional and mortality outcomes remained similar.\nThis nationwide study found no significant ethnic disparities in functional outcomes or 7-day mortality following EVT, though sICH was more likely in non-Europeans. Despite treatment delays, patients initially presenting to non-EVT capable centres achieved comparable functional outcomes to those presenting directly to EVT centres.",
       "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42843495/",
-      "doi": "10.1016/j.amjcard.2026.10.007",
-      "pmid": "42843495",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42742289/",
+      "doi": "10.1111/1754-9485.70187",
+      "pmid": "42742289",
       "item_type": "journalArticle",
-      "date": "2026-Oct-07",
+      "date": "2026-Sep-15",
       "tags": [
         "category:Journal Article",
         "nzneuro:condition:NC-072",
         "nzneuro:phase2",
-        "source-type:Published Research / Journal Articles",
+        "source-type:Journal Articles",
         "source:pubmed",
         "type:evidence",
         "type:publication"
       ],
       "extra": {
-        "NeuroNZ Evidence ID": "E053",
-        "PMID": "42843495",
-        "Source candidate ID": "pubmed:42843495",
+        "NeuroNZ Evidence ID": "E045",
+        "PMID": "42742289",
+        "Source candidate ID": "pubmed:42742289",
         "Source category": "Published research",
         "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
         "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42843495/",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42742289/",
         "NeuroNZ Condition IDs": "NC-072"
       },
       "bibliography": {
-        "publicationTitle": "The American journal of cardiology",
+        "publicationTitle": "Journal of medical imaging and radiation oncology",
         "creators": [
           {
             "creatorType": "author",
-            "firstName": "Frazer",
-            "lastName": "Kirk"
+            "firstName": "Jaron",
+            "lastName": "Huang"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Alicia",
+            "lastName": "Tyson"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Muthu",
+            "lastName": "Muthappan"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Annemarei",
+            "lastName": "Ranta"
           }
         ],
-        "date": "2026-Oct-07",
+        "date": "2026-Sep-15",
         "volume": "",
         "issue": "",
         "pages": "",
-        "ISSN": "1879-1913",
-        "DOI": "10.1016/j.amjcard.2026.10.007",
-        "journalAbbreviation": "Am J Cardiol",
+        "ISSN": "1754-9485",
+        "DOI": "10.1111/1754-9485.70187",
+        "journalAbbreviation": "J Med Imaging Radiat Oncol",
         "language": "eng",
-        "PMID": "42843495",
+        "PMID": "42742289",
         "PMCID": "",
-        "rights": "Copyright © 2026. Published by Elsevier Inc.",
+        "rights": "© 2026 The Author(s). Journal of Medical Imaging and Radiation Oncology published by John Wiley & Sons Australia, Ltd on behalf of Royal Australian and New Zealand College of Radiologists.",
         "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-11T21:09:22Z"
+        "accessDate": "2026-10-02T02:37:57Z"
       },
-      "date_added": "2026-10-11T21:09:31Z",
-      "date_modified": "2026-10-14T08:44:30Z",
+      "date_added": "2026-10-01T23:39:32Z",
+      "date_modified": "2026-10-14T09:01:14Z",
       "condition_ids": [
         "NC-072"
       ]
+    },
+    {
+      "stable_id": "E044",
+      "zotero_key": "3Y7YSU2B",
+      "zotero_version": 938,
+      "title": "Primary care clinicians' perspectives on migraine management in Aotearoa New Zealand: a qualitative study.",
+      "summary": "Despite being a common and disabling neurological disease, migraine is often underdiagnosed and undertreated. Although most patients with migraine can be effectively managed in primary care, people with migraine in Aotearoa New Zealand (NZ) report multiple barriers to care and negative impacts of migraine on physical and mental health, work and quality of life.\nThis study aimed to describe the experience of primary care clinicians with managing migraine disease in NZ and identify enablers and barriers to effective care.\nClinicians were recruited through advertisements in an online newsletter and a regional email network. Semi-structured interviews were completed via phone or Zoom. Inductive thematic analysis was undertaken to identify key themes.\nFive general practitioners and three nurse practitioners were interviewed. Themes related to the clinician, healthcare system and societal factors were identified across the patient journey of seeking health care (cultural safety, primary care accessibility, awareness and health literacy), diagnosis (diagnostic knowledge, secondary care and diagnostic test accessibility and diagnostic overshadowing) and management (treatment knowledge, communication and patient education, access to ongoing care, role of other health professionals and stigma of chronic disease).\nSignificant barriers to migraine health care related to accessibility of primary care, particularly cost, wait times and availability. Advice from neurology was a valued resource, but access to in-person consultations for patients with migraine was limited. Clinician knowledge about migraine diagnosis and treatment was well supported by online and educational resources. Involving the wider primary care team in migraine management could help improve care.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/41134026/",
+      "doi": "10.1071/HC25078",
+      "pmid": "41134026",
+      "item_type": "journalArticle",
+      "date": "2026-Sep-24",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:condition:NC-038",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E044",
+        "PMID": "41134026",
+        "Source candidate ID": "pubmed:41134026",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/41134026/",
+        "NeuroNZ Condition IDs": "NC-038"
+      },
+      "bibliography": {
+        "publicationTitle": "Journal of primary health care",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Julia",
+            "lastName": "Randerson"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Fiona",
+            "lastName": "Imlach"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jonathan",
+            "lastName": "Kennedy"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Susan",
+            "lastName": "Garrett"
+          }
+        ],
+        "date": "2026-Sep-24",
+        "volume": "18",
+        "issue": "3",
+        "pages": "247-255",
+        "ISSN": "1172-6156",
+        "DOI": "10.1071/HC25078",
+        "journalAbbreviation": "J Prim Health Care",
+        "language": "eng",
+        "PMID": "41134026",
+        "PMCID": "",
+        "rights": "© 2025 The Author(s) (or their employer(s)). Published by CSIRO Publishing on behalf of Royal New Zealand College of General Practitioners.",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-02T02:37:57Z"
+      },
+      "date_added": "2026-10-01T23:39:32Z",
+      "date_modified": "2026-10-14T09:01:13Z",
+      "condition_ids": [
+        "NC-038"
+      ]
+    },
+    {
+      "stable_id": "E043",
+      "zotero_key": "45L2EVCE",
+      "zotero_version": 937,
+      "title": "Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets.",
+      "summary": "Optimal arterial oxygen tension (PaO2) thresholds in mechanically ventilated patients with nontraumatic acute brain injury (ABI), defined as intracerebral hemorrhage (ICH), aneurysmal subarachnoid hemorrhage (SAH), and acute ischemic stroke (AIS), remain uncertain. We aimed to identify ABI-specific early PaO2 thresholds associated with lowest intensive care unit (ICU) mortality in mechanically ventilated ICU patients and compare these with guideline recommendations.\nThis retrospective multicenter cohort study utilized the Australian and New Zealand Intensive Care Society Adult Patient Dataset (ANZICS-APD; N = 11,264). Bayesian logistic regression was performed with day 1 PaO2 as the independent variable and ICU mortality as the dependent variable. Priors were derived from the Medical Information Mart for Intensive Care-IV (MIMIC-IV; N = 1789) and Extubation in Neurocritical care Observational Study (ENIO; N = 544) datasets. Day 1 PaO2 thresholds were identified by calculating the range of values within 4% of the minimum mortality. The risk of ICU mortality across these PaO2 groups was compared with the European Society of Intensive Care Medicine (ESICM) recommendations.\nOf the 11,264 patients in the ANZICS-APD suitable for analysis, 4846 had ICH, 4319 had aneurysmal SAH, and 2099 had AIS. Across all ABI types, day 1 PaO2 > 299 mm Hg was rare (< 10%), with remaining patients distributed equally across the < 80, 80-120, and 120-299 mm Hg categories. The association between day 1 PaO2 and ICU mortality differed by ABI subtype: SAH showed a more pronounced U-shaped relationship than ICH and AIS. PaO2 thresholds that minimized ICU mortality (ICH: 80-230 mm Hg; SAH: 100-190 mm Hg; AIS: 100-160 mm Hg) were broader than current ESICM (PaO2 between 80 and 120 mm Hg) guideline recommendations yet conferred equivalent risk of ICU mortality. Extreme hyperoxia (> 299 mm Hg) was associated with increased risk of ICU mortality across all ABI subtypes [P(OR > 1) = 84-99%].\nIn mechanically ventilated patients with nontraumatic ABI, we defined generalizable early PaO2 thresholds that were broader than current recommendations while conferring equivalent ICU mortality risk. PaO2 exposure beyond these ranges may be harmful.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42806265/",
+      "doi": "10.1007/s12028-026-02659-0",
+      "pmid": "42806265",
+      "item_type": "journalArticle",
+      "date": "2026-Sep-28",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E043",
+        "PMID": "42806265",
+        "Source candidate ID": "pubmed:42806265",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42806265/"
+      },
+      "bibliography": {
+        "publicationTitle": "Neurocritical care",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Lavienraj",
+            "lastName": "Premraj"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Christopher",
+            "lastName": "Camarda"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Nekane",
+            "lastName": "Romero-Garcia"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Benjamin",
+            "lastName": "Seymour"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ashwin",
+            "lastName": "Subramaniam"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Rafael",
+            "lastName": "Badenes"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Denise",
+            "lastName": "Battaglini"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Shahzad",
+            "lastName": "Shaefi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "David",
+            "lastName": "Pilcher"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sung-Min",
+            "lastName": "Cho"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Nicole M",
+            "lastName": "White"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Aidan",
+            "lastName": "Burrell"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Raphaël",
+            "lastName": "Cinotti"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Chiara",
+            "lastName": "Robba"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Andrew Alexander",
+            "lastName": "Udy"
+          }
+        ],
+        "date": "2026-Sep-28",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "ISSN": "1556-0961",
+        "DOI": "10.1007/s12028-026-02659-0",
+        "journalAbbreviation": "Neurocrit Care",
+        "language": "eng",
+        "PMID": "42806265",
+        "PMCID": "",
+        "rights": "© 2026. The Author(s).",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-02T02:37:57Z"
+      },
+      "date_added": "2026-10-01T23:39:31Z",
+      "date_modified": "2026-10-14T09:01:13Z",
+      "condition_ids": []
+    },
+    {
+      "stable_id": "E042",
+      "zotero_key": "PLMUIUQ9",
+      "zotero_version": 936,
+      "title": "Characteristics of a Cohort of Individuals With SCA27B Associated With Repeat Expansions in FGF14.",
+      "summary": "Spinocerebellar ataxia 27B (SCA27B) is a recently discovered genetic cause of idiopathic late-onset cerebellar ataxia (ILOCA) due to guanine-adenine-adenine (GAA) repeat expansions (greater than 250) in FGF14. We aimed to identify and characterize a New Zealand cohort of patients with SCA27B.\nPatients with previous negative ataxia panels were identified from electronic records and tested with an updated ataxia repeat expansion panel including FGF14 and 5 other new genes.\nUpdated genetic testing for 11 of the 29 patients returned a positive result: repeat expansions in FGF14 in 9, RFC1 (associated with cerebellar ataxia, neuropathy, vestibular areflexia syndrome) in 1, and TBP (associated with SCA17) in 1. In the 9 patients with SCA27B, the clinical characteristics such as initial episodic symptoms and late age at onset (mean 56 years), were like those reported in European cohorts. Two patients in our cohort had palatal tremor. While 7 patients had a repeat expansion length greater than 250, 2 patients with a clinical phenotype consistent with SCA27B had between 200 and 250 repeats.\nIn our New Zealand cohort of patients with ILOCA, updated genetic testing revealed a diagnosis in 38%. SCA27B is a common cause of ILOCA in this cohort.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42699715/",
+      "doi": "10.1212/NXG.0000000000200424",
+      "pmid": "42699715",
+      "item_type": "journalArticle",
+      "date": "2026-Oct",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:condition:NC-003",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E042",
+        "PMID": "42699715",
+        "Source candidate ID": "pubmed:42699715",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42699715/",
+        "NeuroNZ Condition IDs": "NC-003"
+      },
+      "bibliography": {
+        "publicationTitle": "Neurology. Genetics",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Sarah C",
+            "lastName": "Anderson"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Shilpan G",
+            "lastName": "Patel"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Miriam",
+            "lastName": "Rodrigues"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Marco",
+            "lastName": "Mancuso-Marcello"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Mark",
+            "lastName": "Simpson"
+          }
+        ],
+        "date": "2026-Oct",
+        "volume": "12",
+        "issue": "5",
+        "pages": "e200424",
+        "ISSN": "2376-7839",
+        "DOI": "10.1212/NXG.0000000000200424",
+        "journalAbbreviation": "Neurol Genet",
+        "language": "eng",
+        "PMID": "42699715",
+        "PMCID": "PMC13544125",
+        "rights": "Copyright © 2026 The Author(s). Published by Wolters Kluwer Health, LLC. on behalf of the American Academy of Neurology.",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-02T02:37:57Z"
+      },
+      "date_added": "2026-10-01T23:39:31Z",
+      "date_modified": "2026-10-14T09:01:12Z",
+      "condition_ids": [
+        "NC-003"
+      ]
+    },
+    {
+      "stable_id": "E041",
+      "zotero_key": "ER5M6LXF",
+      "zotero_version": 935,
+      "title": "Speech-language pathology services for acquired communication disorders among indigenous peoples: A systematic review.",
+      "summary": "Indigenous adults experience higher rates of neurological incidents than non-Indigenous populations, increasing their risk of acquired communication disorders (ACD). However, access to culturally safe speech-language pathology (SLP) services in their language remains challenging. This review explored issues raised in the literature concerning SLP services for Indigenous adults with ACD globally. More specifically, it explored Indigenous adults with ACD\"s perspectives, highlighted the barriers reported by speech-language pathologists, and identified avenues for improvements. Despite the global scope of the search, the fourteen included articles were all based in Australia and Aotearoa New Zealand. Three descriptive themes emerged from the perspectives of Indigenous adults: 1) the impacts of language and culture; 2) a lack of information; 3) the context of SLP services. Two themes emerged as barriers to SLP care according to clinicians: 1) a lack of appropriate resources and cultural education; 2) the geographical and service delivery contexts of SLP services. Finally, the need for cultural safety emerged as the main theme for improving SLP care. Enhanced cultural education, along with adapted SLP materials, is needed to provide culturally safe care to Indigenous adults with ACD. However, these initiatives must be accompanied by systemic changes to the organizational policies shaping SLP services.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/41793278/",
+      "doi": "10.1080/17441692.2026.2640763",
+      "pmid": "41793278",
+      "item_type": "journalArticle",
+      "date": "2026-Dec-31",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E041",
+        "PMID": "41793278",
+        "Source candidate ID": "pubmed:41793278",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/41793278/"
+      },
+      "bibliography": {
+        "publicationTitle": "Global public health",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Amélie",
+            "lastName": "Sanfaçon-Verret"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Eniko",
+            "lastName": "Neashish"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Billie-Tanisha",
+            "lastName": "Moar"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Vanessa",
+            "lastName": "Taler"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Laura",
+            "lastName": "Monetta"
+          }
+        ],
+        "date": "2026-Dec-31",
+        "volume": "21",
+        "issue": "1",
+        "pages": "2640763",
+        "ISSN": "1744-1706",
+        "DOI": "10.1080/17441692.2026.2640763",
+        "journalAbbreviation": "Glob Public Health",
+        "language": "eng",
+        "PMID": "41793278",
+        "PMCID": "",
+        "rights": "",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-02T02:29:11Z"
+      },
+      "date_added": "2026-10-01T23:39:30Z",
+      "date_modified": "2026-10-14T09:01:11Z",
+      "condition_ids": []
     },
     {
       "stable_id": "E002",

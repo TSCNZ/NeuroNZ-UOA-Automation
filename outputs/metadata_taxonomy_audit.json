@@ -960,133 +960,9 @@
     "date_modified": "2026-10-14T08:50:25Z"
   },
   {
-    "zotero_key": "ER5M6LXF",
+    "zotero_key": "TN8VWMHL",
     "kind": "evidence",
-    "title": "Speech-language pathology services for acquired communication disorders among indigenous peoples: A systematic review.",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review",
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T08:50:24Z"
-  },
-  {
-    "zotero_key": "PLMUIUQ9",
-    "kind": "evidence",
-    "title": "Characteristics of a Cohort of Individuals With SCA27B Associated With Repeat Expansions in FGF14.",
-    "condition_ids": [
-      "NC-003"
-    ],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-003",
-        "name": "Ataxia",
-        "matched_term": "sca27b",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T08:50:24Z"
-  },
-  {
-    "zotero_key": "45L2EVCE",
-    "kind": "evidence",
-    "title": "Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets.",
-    "condition_ids": [],
-    "suggested_matches": [],
-    "gaps": [
-      "condition_link_needs_review",
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T08:50:23Z"
-  },
-  {
-    "zotero_key": "3Y7YSU2B",
-    "kind": "evidence",
-    "title": "Primary care clinicians' perspectives on migraine management in Aotearoa New Zealand: a qualitative study.",
-    "condition_ids": [
-      "NC-038"
-    ],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-038",
-        "name": "Migraine",
-        "matched_term": "Migraine",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T08:50:22Z"
-  },
-  {
-    "zotero_key": "Y9JVIYG3",
-    "kind": "evidence",
-    "title": "Ethnic Differences in Outcomes of Endovascular Thrombectomy in New Zealand.",
-    "condition_ids": [
-      "NC-072"
-    ],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "endovascular thrombectomy",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T08:50:21Z"
-  },
-  {
-    "zotero_key": "Y5IS5BVH",
-    "kind": "evidence",
-    "title": "Dabigatran use and cerebrovascular event risk across body mass index in atrial fibrillation: a real-world nested case-control study.",
-    "condition_ids": [
-      "NC-072"
-    ],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "cerebrovascular",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T08:50:20Z"
-  },
-  {
-    "zotero_key": "F87ISJBS",
-    "kind": "evidence",
-    "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
-    "condition_ids": [
-      "NC-023"
-    ],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-023",
-        "name": "Epilepsy",
-        "matched_term": "Epilepsy",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T08:50:19Z"
-  },
-  {
-    "zotero_key": "MB5EDL2X",
-    "kind": "evidence",
-    "title": "Stroke clinical documentation education program in Australia and New Zealand.",
+    "title": "Preventing Fatal Stroke: The Hidden Survival Benefit of Left Atrial Appendage Occlusion in Cardiac Surgery.",
     "condition_ids": [
       "NC-072"
     ],
@@ -1101,67 +977,7 @@
     "gaps": [
       "catalogue_relationship_needs_review"
     ],
-    "date_modified": "2026-10-14T08:50:18Z"
-  },
-  {
-    "zotero_key": "59CVR6FA",
-    "kind": "evidence",
-    "title": "Neurodevelopmental impairment and morbidity patterns across two epochs among extremely preterm infant survivors in Australia and New Zealand.",
-    "condition_ids": [
-      "NC-058"
-    ],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-058",
-        "name": "Neurological complications due to preterm birth",
-        "matched_term": "preterm",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T08:50:17Z"
-  },
-  {
-    "zotero_key": "Y5RPBKEL",
-    "kind": "evidence",
-    "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",
-    "condition_ids": [
-      "NC-072"
-    ],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "Stroke",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T08:50:16Z"
-  },
-  {
-    "zotero_key": "W676JVMB",
-    "kind": "evidence",
-    "title": "Proton Pump Inhibitor Co-prescription, Dabigatran Use, and Ischaemic Stroke or Transient Ischaemic Attack in Atrial Fibrillation: A Population-Based Case-Control Study.",
-    "condition_ids": [
-      "NC-072"
-    ],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "Stroke",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T08:50:15Z"
+    "date_modified": "2026-10-14T09:01:20Z"
   },
   {
     "zotero_key": "5KS2YET7",
@@ -1181,12 +997,12 @@
     "gaps": [
       "catalogue_relationship_needs_review"
     ],
-    "date_modified": "2026-10-14T08:50:14Z"
+    "date_modified": "2026-10-14T09:01:19Z"
   },
   {
-    "zotero_key": "TN8VWMHL",
+    "zotero_key": "W676JVMB",
     "kind": "evidence",
-    "title": "Preventing Fatal Stroke: The Hidden Survival Benefit of Left Atrial Appendage Occlusion in Cardiac Surgery.",
+    "title": "Proton Pump Inhibitor Co-prescription, Dabigatran Use, and Ischaemic Stroke or Transient Ischaemic Attack in Atrial Fibrillation: A Population-Based Case-Control Study.",
     "condition_ids": [
       "NC-072"
     ],
@@ -1201,7 +1017,191 @@
     "gaps": [
       "catalogue_relationship_needs_review"
     ],
-    "date_modified": "2026-10-14T08:44:30Z"
+    "date_modified": "2026-10-14T09:01:18Z"
+  },
+  {
+    "zotero_key": "Y5RPBKEL",
+    "kind": "evidence",
+    "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:17Z"
+  },
+  {
+    "zotero_key": "59CVR6FA",
+    "kind": "evidence",
+    "title": "Neurodevelopmental impairment and morbidity patterns across two epochs among extremely preterm infant survivors in Australia and New Zealand.",
+    "condition_ids": [
+      "NC-058"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-058",
+        "name": "Neurological complications due to preterm birth",
+        "matched_term": "preterm",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:17Z"
+  },
+  {
+    "zotero_key": "MB5EDL2X",
+    "kind": "evidence",
+    "title": "Stroke clinical documentation education program in Australia and New Zealand.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:16Z"
+  },
+  {
+    "zotero_key": "F87ISJBS",
+    "kind": "evidence",
+    "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
+    "condition_ids": [
+      "NC-023"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-023",
+        "name": "Epilepsy",
+        "matched_term": "Epilepsy",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:15Z"
+  },
+  {
+    "zotero_key": "Y5IS5BVH",
+    "kind": "evidence",
+    "title": "Dabigatran use and cerebrovascular event risk across body mass index in atrial fibrillation: a real-world nested case-control study.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "cerebrovascular",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:15Z"
+  },
+  {
+    "zotero_key": "Y9JVIYG3",
+    "kind": "evidence",
+    "title": "Ethnic Differences in Outcomes of Endovascular Thrombectomy in New Zealand.",
+    "condition_ids": [
+      "NC-072"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "endovascular thrombectomy",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:14Z"
+  },
+  {
+    "zotero_key": "3Y7YSU2B",
+    "kind": "evidence",
+    "title": "Primary care clinicians' perspectives on migraine management in Aotearoa New Zealand: a qualitative study.",
+    "condition_ids": [
+      "NC-038"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-038",
+        "name": "Migraine",
+        "matched_term": "Migraine",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:13Z"
+  },
+  {
+    "zotero_key": "45L2EVCE",
+    "kind": "evidence",
+    "title": "Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets.",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review",
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:13Z"
+  },
+  {
+    "zotero_key": "PLMUIUQ9",
+    "kind": "evidence",
+    "title": "Characteristics of a Cohort of Individuals With SCA27B Associated With Repeat Expansions in FGF14.",
+    "condition_ids": [
+      "NC-003"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-003",
+        "name": "Ataxia",
+        "matched_term": "sca27b",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:12Z"
+  },
+  {
+    "zotero_key": "ER5M6LXF",
+    "kind": "evidence",
+    "title": "Speech-language pathology services for acquired communication disorders among indigenous peoples: A systematic review.",
+    "condition_ids": [],
+    "suggested_matches": [],
+    "gaps": [
+      "condition_link_needs_review",
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-14T09:01:11Z"
   },
   {
     "zotero_key": "NZ4JXRAZ",
