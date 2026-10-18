@@ -1,6 +1,6 @@
 record_id,change_status,changed_fields
-NZNEURO-062,changed,primary_link; zotero_tags
-NZNEURO-063,changed,primary_link; zotero_tags
+NZNEURO-062,unchanged,
+NZNEURO-063,unchanged,
 NZNEURO-073,unchanged,
 NZNEURO-074,unchanged,
 NZNEURO-075,unchanged,

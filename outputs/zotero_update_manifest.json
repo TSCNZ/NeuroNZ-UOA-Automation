@@ -28,6 +28,16 @@
     "reason": "Neurological study focus requires review"
   },
   {
+    "candidate_id": "pubmed:42566154",
+    "title": "Impact of Psilocybin on Motor Function in Healthy Participants: A Phase 1, Randomised, Triple-Blind, Dose-Finding Study.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "review",
+    "reason": "Neurological study focus requires review"
+  },
+  {
     "candidate_id": "pubmed:42167006",
     "title": "Gradient intrafibrillar mineralized collagen scaffold promotes osteochondral regeneration by enhancing differentiation of SCRG1+ progenitor cells.",
     "collection_key": "XBQFC75N",
@@ -36,6 +46,32 @@
     "duplicate_zotero_keys": [],
     "status": "review",
     "reason": "Animal breed match does not establish NZ relevance"
+  },
+  {
+    "candidate_id": "pubmed:42881068",
+    "title": "Changes in modifiable dementia risk factors and subjective cognitive decline in mid and later life.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [
+      {
+        "condition_id": "NC-002",
+        "name": "Alzheimer's disease and other dementias",
+        "matched_term": "dementia",
+        "basis": "explicit_title"
+      }
+    ],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "created_verified",
+    "evidence_id": "E054",
+    "zotero_key": "5GWFGXQ3",
+    "date_added": "2026-10-18T19:47:54Z",
+    "date_modified": "2026-10-18T19:47:54Z",
+    "zotero_version": 963,
+    "source_unavailable_fields": [
+      "volume",
+      "issue",
+      "PMCID"
+    ]
   },
   {
     "candidate_id": "pubmed:42843495",
@@ -90,6 +126,16 @@
     ],
     "status": "duplicate",
     "reason": "Existing DOI, PMID, URL, or title in group library"
+  },
+  {
+    "candidate_id": "pubmed:42800307",
+    "title": "Proteomic signatures during pregnancy: an exploratory cohort study of long-term health indicators.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "review",
+    "reason": "Neurological study focus requires review"
   },
   {
     "candidate_id": "pubmed:42725169",
@@ -164,6 +210,16 @@
     "reason": "Neurological study focus requires review"
   },
   {
+    "candidate_id": "pubmed:42877521",
+    "title": "Establishment of an ultrasound-guided rabbit model of hepatic inflammatory pseudotumor and contrast-enhanced ultrasound pattern analysis.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "review",
+    "reason": "Animal breed match does not establish NZ relevance"
+  },
+  {
     "candidate_id": "pubmed:42824915",
     "title": "Stroke reperfusion in Aotearoa New Zealand: 5-year trends and a comparison of stroke clot retrieval and non-stroke clot retrieval centre presenters.",
     "collection_key": "XBQFC75N",
@@ -206,6 +262,23 @@
     "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
+    "candidate_id": "pubmed:42882447",
+    "title": "Tuberculous Meningitis Alters the Proteomic Landscape of Brain-Derived Extracellular Vesicles.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [
+      {
+        "condition_id": "NC-037",
+        "name": "Meningitis",
+        "matched_term": "Meningitis",
+        "basis": "explicit_title"
+      }
+    ],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "review",
+    "reason": "Animal breed match does not establish NZ relevance"
+  },
+  {
     "candidate_id": "pubmed:42784819",
     "title": "Oil on the brain: dementia in the popular press prior to the 1906 Alzheimer case report.",
     "collection_key": "XBQFC75N",
@@ -233,62 +306,77 @@
     "reason": "Neurological study focus requires review"
   },
   {
-    "candidate_id": "pubmed:41134026",
-    "title": "Primary care clinicians' perspectives on migraine management in Aotearoa New Zealand: a qualitative study.",
+    "candidate_id": "pubmed:42697710",
+    "title": "Neurodevelopmental impairment and morbidity patterns across two epochs among extremely preterm infant survivors in Australia and New Zealand.",
     "collection_key": "XBQFC75N",
     "condition_matches": [
       {
-        "condition_id": "NC-038",
-        "name": "Migraine",
-        "matched_term": "Migraine",
+        "condition_id": "NC-058",
+        "name": "Neurological complications due to preterm birth",
+        "matched_term": "preterm",
         "basis": "explicit_title"
       }
     ],
     "relationship_status": "catalogue linkage pending review",
     "duplicate_zotero_keys": [
-      "3Y7YSU2B"
+      "59CVR6FA"
     ],
-    "zotero_key": "3Y7YSU2B",
-    "evidence_id": "E044",
+    "zotero_key": "59CVR6FA",
+    "evidence_id": "E049",
     "source_unavailable_fields": [
+      "volume",
+      "issue",
+      "pages",
       "PMCID"
     ],
     "status": "duplicate",
     "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
-    "candidate_id": "pubmed:42800307",
-    "title": "Proteomic signatures during pregnancy: an exploratory cohort study of long-term health indicators.",
-    "collection_key": "XBQFC75N",
-    "condition_matches": [],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "review",
-    "reason": "Neurological study focus requires review"
-  },
-  {
-    "candidate_id": "pubmed:42742289",
-    "title": "Ethnic Differences in Outcomes of Endovascular Thrombectomy in New Zealand.",
+    "candidate_id": "pubmed:42707892",
+    "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",
     "collection_key": "XBQFC75N",
     "condition_matches": [
       {
         "condition_id": "NC-072",
         "name": "Stroke",
-        "matched_term": "endovascular thrombectomy",
+        "matched_term": "Stroke",
         "basis": "explicit_title"
       }
     ],
     "relationship_status": "catalogue linkage pending review",
     "duplicate_zotero_keys": [
-      "Y9JVIYG3"
+      "Y5RPBKEL"
     ],
-    "zotero_key": "Y9JVIYG3",
-    "evidence_id": "E045",
+    "zotero_key": "Y5RPBKEL",
+    "evidence_id": "E050",
+    "source_unavailable_fields": [],
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
+  },
+  {
+    "candidate_id": "pubmed:42698334",
+    "title": "Stroke clinical documentation education program in Australia and New Zealand.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [
+      {
+        "condition_id": "NC-072",
+        "name": "Stroke",
+        "matched_term": "Stroke",
+        "basis": "explicit_title"
+      }
+    ],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [
+      "MB5EDL2X"
+    ],
+    "zotero_key": "MB5EDL2X",
+    "evidence_id": "E048",
     "source_unavailable_fields": [
       "volume",
       "issue",
-      "pages",
-      "PMCID"
+      "PMCID",
+      "rights"
     ],
     "status": "duplicate",
     "reason": "Existing DOI, PMID, URL, or title in group library"
@@ -347,45 +435,23 @@
     "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
-    "candidate_id": "pubmed:42707892",
-    "title": "Australian Paediatric Acute Code Stroke study: study protocol for a quasi-experimental trial measuring the impact of Code Stroke protocols on time to diagnosis and access to reperfusion therapies.",
+    "candidate_id": "pubmed:42742289",
+    "title": "Ethnic Differences in Outcomes of Endovascular Thrombectomy in New Zealand.",
     "collection_key": "XBQFC75N",
     "condition_matches": [
       {
         "condition_id": "NC-072",
         "name": "Stroke",
-        "matched_term": "Stroke",
+        "matched_term": "endovascular thrombectomy",
         "basis": "explicit_title"
       }
     ],
     "relationship_status": "catalogue linkage pending review",
     "duplicate_zotero_keys": [
-      "Y5RPBKEL"
+      "Y9JVIYG3"
     ],
-    "zotero_key": "Y5RPBKEL",
-    "evidence_id": "E050",
-    "source_unavailable_fields": [],
-    "status": "duplicate",
-    "reason": "Existing DOI, PMID, URL, or title in group library"
-  },
-  {
-    "candidate_id": "pubmed:42697710",
-    "title": "Neurodevelopmental impairment and morbidity patterns across two epochs among extremely preterm infant survivors in Australia and New Zealand.",
-    "collection_key": "XBQFC75N",
-    "condition_matches": [
-      {
-        "condition_id": "NC-058",
-        "name": "Neurological complications due to preterm birth",
-        "matched_term": "preterm",
-        "basis": "explicit_title"
-      }
-    ],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [
-      "59CVR6FA"
-    ],
-    "zotero_key": "59CVR6FA",
-    "evidence_id": "E049",
+    "zotero_key": "Y9JVIYG3",
+    "evidence_id": "E045",
     "source_unavailable_fields": [
       "volume",
       "issue",
@@ -396,28 +462,25 @@
     "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
-    "candidate_id": "pubmed:42698334",
-    "title": "Stroke clinical documentation education program in Australia and New Zealand.",
+    "candidate_id": "pubmed:41134026",
+    "title": "Primary care clinicians' perspectives on migraine management in Aotearoa New Zealand: a qualitative study.",
     "collection_key": "XBQFC75N",
     "condition_matches": [
       {
-        "condition_id": "NC-072",
-        "name": "Stroke",
-        "matched_term": "Stroke",
+        "condition_id": "NC-038",
+        "name": "Migraine",
+        "matched_term": "Migraine",
         "basis": "explicit_title"
       }
     ],
     "relationship_status": "catalogue linkage pending review",
     "duplicate_zotero_keys": [
-      "MB5EDL2X"
+      "3Y7YSU2B"
     ],
-    "zotero_key": "MB5EDL2X",
-    "evidence_id": "E048",
+    "zotero_key": "3Y7YSU2B",
+    "evidence_id": "E044",
     "source_unavailable_fields": [
-      "volume",
-      "issue",
-      "PMCID",
-      "rights"
+      "PMCID"
     ],
     "status": "duplicate",
     "reason": "Existing DOI, PMID, URL, or title in group library"

@@ -4445,6 +4445,86 @@
   ],
   "evidence": [
     {
+      "stable_id": "E054",
+      "zotero_key": "5GWFGXQ3",
+      "zotero_version": 963,
+      "title": "Changes in modifiable dementia risk factors and subjective cognitive decline in mid and later life.",
+      "summary": "Exposure to modifiable dementia risk factors (MDRFs) contributes substantially to dementia risk across the life course. Less is known about persistence and changes in these factors during mid- and later life and how they relate to early neurophysiological changes associated with dementia. This study examined rates and changes in MDRFs over two years and their associations with subjective cognitive decline (SCD) among older adults.\nCohort study.\nParticipants were 2370 adults aged 55-92 years (M = 68.54, SD = 7.15; 56.5% female) who completed the 2018 and 2020 waves of a longitudinal survey of ageing in New Zealand.\nSelf-reported hypertension, diabetes, hearing impairment, vision impairment, current smoking, hazardous alcohol use, physical inactivity, depression, and loneliness were classified into four categories across waves: stable absence, reduction, onset, and stable presence. SCD was assessed in 2020. Logistic regression models were used to examine associations between MDRF categories and SCD.\nSurvey-weighted responses indicated 8.6% of older adults experienced SCD. Diabetes, hearing impairment, current vision impairment, stable presence of physical inactivity, depression, and current loneliness were associated with increased odds of SCD.\nBoth the onset and reduction of psychosocial and sensory MDRFs in mid- and later life have measurable implications for subjective cognitive outcomes in a general population sample. Prevention and reduction of diabetes, sensory loss, physical inactivity, depression, and social isolation represent meaningful targets for supporting cognitive well-being among older adults.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42881068/",
+      "doi": "10.1016/j.inpsyc.2026.100303",
+      "pmid": "42881068",
+      "item_type": "journalArticle",
+      "date": "2026-Oct-15",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:condition:NC-002",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E054",
+        "PMID": "42881068",
+        "Source candidate ID": "pubmed:42881068",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42881068/",
+        "NeuroNZ Condition IDs": "NC-002"
+      },
+      "bibliography": {
+        "publicationTitle": "International psychogeriatrics",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Joanne",
+            "lastName": "Allen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Michelle",
+            "lastName": "Kelly"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Gill",
+            "lastName": "Livingston"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Christine V",
+            "lastName": "Stephens"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Fiona M",
+            "lastName": "Alpass"
+          }
+        ],
+        "date": "2026-Oct-15",
+        "volume": "",
+        "issue": "",
+        "pages": "100303",
+        "ISSN": "1741-203X",
+        "DOI": "10.1016/j.inpsyc.2026.100303",
+        "journalAbbreviation": "Int Psychogeriatr",
+        "language": "eng",
+        "PMID": "42881068",
+        "PMCID": "",
+        "rights": "Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-18T19:47:45Z"
+      },
+      "date_added": "2026-10-18T19:47:54Z",
+      "date_modified": "2026-10-18T19:47:54Z",
+      "condition_ids": [
+        "NC-002"
+      ]
+    },
+    {
       "stable_id": "E053",
       "zotero_key": "TN8VWMHL",
       "zotero_version": 948,

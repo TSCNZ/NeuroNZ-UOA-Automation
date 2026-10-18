@@ -960,6 +960,26 @@
     "date_modified": "2026-10-14T08:50:25Z"
   },
   {
+    "zotero_key": "5GWFGXQ3",
+    "kind": "evidence",
+    "title": "Changes in modifiable dementia risk factors and subjective cognitive decline in mid and later life.",
+    "condition_ids": [
+      "NC-002"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-002",
+        "name": "Alzheimer's disease and other dementias",
+        "matched_term": "dementia",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-18T19:47:54Z"
+  },
+  {
     "zotero_key": "TN8VWMHL",
     "kind": "evidence",
     "title": "Preventing Fatal Stroke: The Hidden Survival Benefit of Left Atrial Appendage Occlusion in Cardiac Surgery.",
