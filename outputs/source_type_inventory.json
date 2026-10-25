@@ -672,7 +672,7 @@
     ]
   },
   "Journal Articles": {
-    "count": 14,
+    "count": 15,
     "items": [
       {
         "zotero_key": "3Y7YSU2B",
@@ -728,7 +728,7 @@
         "stable_id": "E047",
         "pmid": "42704249",
         "date_added": "2026-10-01T23:39:33Z",
-        "date_modified": "2026-10-14T09:01:15Z"
+        "date_modified": "2026-10-25T18:11:31Z"
       },
       {
         "zotero_key": "MB5EDL2X",
@@ -745,6 +745,14 @@
         "pmid": "42699715",
         "date_added": "2026-10-01T23:39:31Z",
         "date_modified": "2026-10-14T09:01:12Z"
+      },
+      {
+        "zotero_key": "T9F83FAD",
+        "title": "The Prevalence of Dementia Diagnosis and Delivery of Appropriate Dementia Care in Aboriginal Community Controlled Health Services.",
+        "stable_id": "E055",
+        "pmid": "42924637",
+        "date_added": "2026-10-25T18:11:29Z",
+        "date_modified": "2026-10-25T18:11:29Z"
       },
       {
         "zotero_key": "TN8VWMHL",

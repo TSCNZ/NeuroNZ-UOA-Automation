@@ -4445,6 +4445,256 @@
   ],
   "evidence": [
     {
+      "stable_id": "E047",
+      "zotero_key": "F87ISJBS",
+      "zotero_version": 965,
+      "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
+      "summary": "Dietary therapy is an effective treatment for drug-resistant epilepsy; however, low adherence presents a significant barrier to use in the clinical setting. This study aims to evaluate a multimodality digital health intervention to overcome this barrier and improve outcomes in adults undertaking the modified ketogenic diet for epilepsy.\nThis is a two-arm, randomized, controlled trial. A total of 136 participants will be randomized 1:1 to receive the modified ketogenic diet as per standard clinical care, or with the addition of the multimodality digital health intervention for 12 weeks. The intervention will include three components: (1) digital diaries, (2) a novel, at-home, saliva-based ketone testing device, and (3) dynamic dietitian support.\nThe primary treatment benefit will be determined using the epilepsy desirability of outcome rank, a composite outcome measure co-designed with people living with drug-resistant epilepsy. Secondary outcomes will include seizure frequency, treatment retention, adverse events, psychiatric symptoms, quality of life, medication use, cost effectiveness, and acceptability of the intervention.\nThe results of this trial will provide evidence on the effectiveness of using this innovative digital health intervention approach to improve treatment outcomes of dietary therapy for drug-resistant epilepsy.\nThis study has received approval from the Alfred Hospital Human Research Ethics Committee (Reference No.: 723/23). The results will be disseminated via peer-reviewed publications and publicly available plain language summaries.\nAustralian New Zealand Clinical Trials Registry (ANZCTR, ACTRN12624000486527).\nThis trial aims to find out if a 12-week digital health program can improve treatment outcomes of people living with epilepsy. We will invite 136 people commencing on the modified ketogenic diet to be randomly assigned to the digital health program or standard clinic care. The treatment outcome will be assessed combining seizure frequency, side effects, and quality of life.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42704249/",
+      "doi": "10.1002/epi4.70345",
+      "pmid": "42704249",
+      "item_type": "journalArticle",
+      "date": "2026-Sep-07",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:condition:NC-023",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E047",
+        "PMID": "42704249",
+        "Source candidate ID": "pubmed:42704249",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42704249/",
+        "NeuroNZ Condition IDs": "NC-023"
+      },
+      "bibliography": {
+        "publicationTitle": "Epilepsia open",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Neha",
+            "lastName": "Kaul"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lucy",
+            "lastName": "Vivash"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Susanna",
+            "lastName": "Chen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lillian",
+            "lastName": "King"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Hannah",
+            "lastName": "Johns"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Leonid",
+            "lastName": "Churilov"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Zhibin",
+            "lastName": "Chen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "John-Paul",
+            "lastName": "Nicolo"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Danielle",
+            "lastName": "Heaven"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ella",
+            "lastName": "Meredith"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ryan",
+            "lastName": "Ervine"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lisa",
+            "lastName": "Todd"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Bernadette",
+            "lastName": "Zappa"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Zanfina",
+            "lastName": "Ademi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Gopisankar Mohanannair",
+            "lastName": "Geethadevi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Michael",
+            "lastName": "Erlichster"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Efstratios",
+            "lastName": "Skafidas"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Terence J",
+            "lastName": "O'Brien"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Patrick",
+            "lastName": "Kwan"
+          }
+        ],
+        "date": "2026-Sep-07",
+        "volume": "11",
+        "issue": "5",
+        "pages": "1718-1728",
+        "ISSN": "2470-9239",
+        "DOI": "10.1002/epi4.70345",
+        "journalAbbreviation": "Epilepsia Open",
+        "language": "eng",
+        "PMID": "42704249",
+        "PMCID": "PMC13548819",
+        "rights": "© 2026 The Author(s). Epilepsia Open published by Wiley Periodicals LLC on behalf of International League Against Epilepsy.",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-02T02:37:57Z"
+      },
+      "date_added": "2026-10-01T23:39:33Z",
+      "date_modified": "2026-10-25T18:11:31Z",
+      "condition_ids": [
+        "NC-023"
+      ]
+    },
+    {
+      "stable_id": "E055",
+      "zotero_key": "T9F83FAD",
+      "zotero_version": 964,
+      "title": "The Prevalence of Dementia Diagnosis and Delivery of Appropriate Dementia Care in Aboriginal Community Controlled Health Services.",
+      "summary": "This study aimed to assess the recorded prevalence of a dementia diagnosis and the receipt of appropriate dementia care among current Aboriginal and Torres Strait Islander clients of Aboriginal and Community Controlled Health Services (ACCHS) aged 45 and over, as documented in medical records. ACCHSs are Australian primary healthcare organisations that are initiated, governed and operated by local Aboriginal and Torres Strait Islander communities. A manual audit of medical records was undertaken by a staff member from each participating ACCHS to identify current clients with a documented diagnosis of dementia and examine their receipt of key elements of dementia-related care. Across 9 ACCHSs located in New South Wales, a total of 70 clients with a recorded diagnosis of dementia were identified (1.2% recorded prevalence rate). The majority of clients with a dementia diagnosis had documented receipt of elements of appropriate dementia care including an active chronic disease management plan (61%), annual health assessment (56%), referral to aged care services (69%), and assessment of one or more dementia-related risks (94%). However, less than half of clients had a documented cognitive assessment within the last 12 months (41%) or completed any advance planning documentation (37%). Clients with a dementia diagnosis received a mean of 3.6 out of 6 assessed elements of best practice dementia care. As with primary care nationally and internationally, ACCHSs require co-designed support strategies to enhance their processes for dementia diagnosis and documentation and to build upon their delivery of best-practice dementia care. Priority dementia care areas for older clients with a confirmed dementia diagnosis include the evaluation of dementia-related risks such as elder abuse and driving safety, and the implementation of advance care planning including discussion or completion of relevant legal documents.Australian New Zealand Clinical Trials Registry (https://anzctr.org.au/): Registration Number: 12621000905864.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42924637/",
+      "doi": "10.1177/14713012261501208",
+      "pmid": "42924637",
+      "item_type": "journalArticle",
+      "date": "2026-Oct-23",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:condition:NC-002",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E055",
+        "PMID": "42924637",
+        "Source candidate ID": "pubmed:42924637",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42924637/",
+        "NeuroNZ Condition IDs": "NC-002"
+      },
+      "bibliography": {
+        "publicationTitle": "Dementia (London, England)",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Natasha",
+            "lastName": "Noble"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jamie",
+            "lastName": "Bryant"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Alexandra",
+            "lastName": "McGhie"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Nola",
+            "lastName": "Ries"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Alan",
+            "lastName": "Clough"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Phillip",
+            "lastName": "Naden"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Peter",
+            "lastName": "Silberberg"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Robert",
+            "lastName": "Davis"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Megan",
+            "lastName": "Freund"
+          }
+        ],
+        "date": "2026-Oct-23",
+        "volume": "",
+        "issue": "",
+        "pages": "14713012261501208",
+        "ISSN": "1741-2684",
+        "DOI": "10.1177/14713012261501208",
+        "journalAbbreviation": "Dementia (London)",
+        "language": "eng",
+        "PMID": "42924637",
+        "PMCID": "",
+        "rights": "",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-10-25T18:11:19Z"
+      },
+      "date_added": "2026-10-25T18:11:29Z",
+      "date_modified": "2026-10-25T18:11:29Z",
+      "condition_ids": [
+        "NC-002"
+      ]
+    },
+    {
       "stable_id": "E054",
       "zotero_key": "5GWFGXQ3",
       "zotero_version": 963,
@@ -5215,156 +5465,6 @@
       "date_modified": "2026-10-14T09:01:15Z",
       "condition_ids": [
         "NC-072"
-      ]
-    },
-    {
-      "stable_id": "E047",
-      "zotero_key": "F87ISJBS",
-      "zotero_version": 954,
-      "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
-      "summary": "Dietary therapy is an effective treatment for drug-resistant epilepsy; however, low adherence presents a significant barrier to use in the clinical setting. This study aims to evaluate a multimodality digital health intervention to overcome this barrier and improve outcomes in adults undertaking the modified ketogenic diet for epilepsy.\nThis is a two-arm, randomized, controlled trial. A total of 136 participants will be randomized 1:1 to receive the modified ketogenic diet as per standard clinical care, or with the addition of the multimodality digital health intervention for 12 weeks. The intervention will include three components: (1) digital diaries, (2) a novel, at-home, saliva-based ketone testing device, and (3) dynamic dietitian support.\nThe primary treatment benefit will be determined using the epilepsy desirability of outcome rank, a composite outcome measure co-designed with people living with drug-resistant epilepsy. Secondary outcomes will include seizure frequency, treatment retention, adverse events, psychiatric symptoms, quality of life, medication use, cost effectiveness, and acceptability of the intervention.\nThe results of this trial will provide evidence on the effectiveness of using this innovative digital health intervention approach to improve treatment outcomes of dietary therapy for drug-resistant epilepsy.\nThis study has received approval from the Alfred Hospital Human Research Ethics Committee (Reference No.: 723/23). The results will be disseminated via peer-reviewed publications and publicly available plain language summaries.\nAustralian New Zealand Clinical Trials Registry (ANZCTR, ACTRN12624000486527).\nThis trial aims to find out if a 12-week digital health program can improve treatment outcomes of people living with epilepsy. We will invite 136 people commencing on the modified ketogenic diet to be randomly assigned to the digital health program or standard clinic care. The treatment outcome will be assessed combining seizure frequency, side effects, and quality of life.",
-      "source_organisation": "",
-      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42704249/",
-      "doi": "10.1002/epi4.70345",
-      "pmid": "42704249",
-      "item_type": "journalArticle",
-      "date": "2026-Sep-07",
-      "tags": [
-        "category:Journal Article",
-        "nzneuro:condition:NC-023",
-        "nzneuro:phase2",
-        "source-type:Journal Articles",
-        "source:pubmed",
-        "type:evidence",
-        "type:publication"
-      ],
-      "extra": {
-        "NeuroNZ Evidence ID": "E047",
-        "PMID": "42704249",
-        "Source candidate ID": "pubmed:42704249",
-        "Source category": "Published research",
-        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
-        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
-        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42704249/",
-        "NeuroNZ Condition IDs": "NC-023"
-      },
-      "bibliography": {
-        "publicationTitle": "Epilepsia open",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Neha",
-            "lastName": "Kaul"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Lucy",
-            "lastName": "Vivash"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Susanna",
-            "lastName": "Chen"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Lillian",
-            "lastName": "King"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Hannah",
-            "lastName": "Johns"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Leonid",
-            "lastName": "Churilov"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Zhibin",
-            "lastName": "Chen"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "John-Paul",
-            "lastName": "Nicolo"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Danielle",
-            "lastName": "Heaven"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Ella",
-            "lastName": "Meredith"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Ryan",
-            "lastName": "Ervine"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Lisa",
-            "lastName": "Todd"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Bernadette",
-            "lastName": "Zappa"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Zanfina",
-            "lastName": "Ademi"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Gopisankar Mohanannair",
-            "lastName": "Geethadevi"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Michael",
-            "lastName": "Erlichster"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Efstratios",
-            "lastName": "Skafidas"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Terence J",
-            "lastName": "O'Brien"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Patrick",
-            "lastName": "Kwan"
-          }
-        ],
-        "date": "2026-Sep-07",
-        "volume": "",
-        "issue": "",
-        "pages": "",
-        "ISSN": "2470-9239",
-        "DOI": "10.1002/epi4.70345",
-        "journalAbbreviation": "Epilepsia Open",
-        "language": "eng",
-        "PMID": "42704249",
-        "PMCID": "PMC13548819",
-        "rights": "© 2026 The Author(s). Epilepsia Open published by Wiley Periodicals LLC on behalf of International League Against Epilepsy.",
-        "libraryCatalog": "PubMed",
-        "accessDate": "2026-10-02T02:37:57Z"
-      },
-      "date_added": "2026-10-01T23:39:33Z",
-      "date_modified": "2026-10-14T09:01:15Z",
-      "condition_ids": [
-        "NC-023"
       ]
     },
     {

@@ -48,8 +48,8 @@
     "reason": "Animal breed match does not establish NZ relevance"
   },
   {
-    "candidate_id": "pubmed:42881068",
-    "title": "Changes in modifiable dementia risk factors and subjective cognitive decline in mid and later life.",
+    "candidate_id": "pubmed:42924637",
+    "title": "The Prevalence of Dementia Diagnosis and Delivery of Appropriate Dementia Care in Aboriginal Community Controlled Health Services.",
     "collection_key": "XBQFC75N",
     "condition_matches": [
       {
@@ -62,16 +62,60 @@
     "relationship_status": "catalogue linkage pending review",
     "duplicate_zotero_keys": [],
     "status": "created_verified",
-    "evidence_id": "E054",
+    "evidence_id": "E055",
+    "zotero_key": "T9F83FAD",
+    "date_added": "2026-10-25T18:11:29Z",
+    "date_modified": "2026-10-25T18:11:29Z",
+    "zotero_version": 964,
+    "source_unavailable_fields": [
+      "volume",
+      "issue",
+      "PMCID",
+      "rights"
+    ]
+  },
+  {
+    "candidate_id": "pubmed:42912972",
+    "title": "Clinical profiles of ambulatory and non-ambulatory school-aged children and young people with cerebral palsy in Aotearoa New Zealand: implications for the health education interface.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [
+      {
+        "condition_id": "NC-011",
+        "name": "Cerebral palsy",
+        "matched_term": "Cerebral palsy",
+        "basis": "explicit_title"
+      }
+    ],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "review",
+    "reason": "Neurological study focus requires review"
+  },
+  {
+    "candidate_id": "pubmed:42881068",
+    "title": "Changes in modifiable dementia risk factors and subjective cognitive decline in mid and later life.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [
+      {
+        "condition_id": "NC-002",
+        "name": "Alzheimer's disease and other dementias",
+        "matched_term": "dementia",
+        "basis": "explicit_title"
+      }
+    ],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [
+      "5GWFGXQ3"
+    ],
     "zotero_key": "5GWFGXQ3",
-    "date_added": "2026-10-18T19:47:54Z",
-    "date_modified": "2026-10-18T19:47:54Z",
-    "zotero_version": 963,
+    "evidence_id": "E054",
     "source_unavailable_fields": [
       "volume",
       "issue",
       "PMCID"
-    ]
+    ],
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42843495",
@@ -146,6 +190,36 @@
     "duplicate_zotero_keys": [],
     "status": "review",
     "reason": "Neurological study focus requires review"
+  },
+  {
+    "candidate_id": "pubmed:42704249",
+    "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [
+      {
+        "condition_id": "NC-023",
+        "name": "Epilepsy",
+        "matched_term": "Epilepsy",
+        "basis": "explicit_title"
+      }
+    ],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [
+      "F87ISJBS"
+    ],
+    "zotero_key": "F87ISJBS",
+    "evidence_id": "E047",
+    "source_unavailable_fields": [],
+    "status": "metadata_updated_verified",
+    "changed_fields": [
+      "issue",
+      "pages",
+      "volume"
+    ],
+    "previous_date_modified": "2026-10-14T09:01:15Z",
+    "date_added": "2026-10-01T23:39:33Z",
+    "date_modified": "2026-10-25T18:11:31Z",
+    "zotero_version": 965
   },
   {
     "candidate_id": "pubmed:42699715",
@@ -262,50 +336,6 @@
     "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
-    "candidate_id": "pubmed:42882447",
-    "title": "Tuberculous Meningitis Alters the Proteomic Landscape of Brain-Derived Extracellular Vesicles.",
-    "collection_key": "XBQFC75N",
-    "condition_matches": [
-      {
-        "condition_id": "NC-037",
-        "name": "Meningitis",
-        "matched_term": "Meningitis",
-        "basis": "explicit_title"
-      }
-    ],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "review",
-    "reason": "Animal breed match does not establish NZ relevance"
-  },
-  {
-    "candidate_id": "pubmed:42784819",
-    "title": "Oil on the brain: dementia in the popular press prior to the 1906 Alzheimer case report.",
-    "collection_key": "XBQFC75N",
-    "condition_matches": [
-      {
-        "condition_id": "NC-002",
-        "name": "Alzheimer's disease and other dementias",
-        "matched_term": "dementia",
-        "basis": "explicit_title"
-      }
-    ],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "review",
-    "reason": "Historical commentary requires data relevance review"
-  },
-  {
-    "candidate_id": "pubmed:42619342",
-    "title": "Changing frequencies: Boston Naming Test normative data for Australian young adults.",
-    "collection_key": "XBQFC75N",
-    "condition_matches": [],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "review",
-    "reason": "Neurological study focus requires review"
-  },
-  {
     "candidate_id": "pubmed:42697710",
     "title": "Neurodevelopmental impairment and morbidity patterns across two epochs among extremely preterm infant survivors in Australia and New Zealand.",
     "collection_key": "XBQFC75N",
@@ -404,32 +434,6 @@
       "issue",
       "pages",
       "PMCID"
-    ],
-    "status": "duplicate",
-    "reason": "Existing DOI, PMID, URL, or title in group library"
-  },
-  {
-    "candidate_id": "pubmed:42704249",
-    "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
-    "collection_key": "XBQFC75N",
-    "condition_matches": [
-      {
-        "condition_id": "NC-023",
-        "name": "Epilepsy",
-        "matched_term": "Epilepsy",
-        "basis": "explicit_title"
-      }
-    ],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [
-      "F87ISJBS"
-    ],
-    "zotero_key": "F87ISJBS",
-    "evidence_id": "E047",
-    "source_unavailable_fields": [
-      "volume",
-      "issue",
-      "pages"
     ],
     "status": "duplicate",
     "reason": "Existing DOI, PMID, URL, or title in group library"

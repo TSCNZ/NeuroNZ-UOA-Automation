@@ -42,6 +42,7 @@ NZNEURO-011,review,public_text,Contains Verification pending text that should re
 pubmed:42751425,review,candidate,Neurological study focus requires review
 pubmed:42566154,review,candidate,Neurological study focus requires review
 pubmed:42167006,review,candidate,Animal breed match does not establish NZ relevance
+pubmed:42912972,review,candidate,Neurological study focus requires review
 pubmed:42800307,review,candidate,Neurological study focus requires review
 pubmed:42725169,review,candidate,Neurological study focus requires review
 pubmed:42686207,review,candidate,Neurological study focus requires review
@@ -49,9 +50,6 @@ pubmed:42679829,review,candidate,Neurological study focus requires review
 pubmed:42507461,review,candidate,Neurological study focus requires review
 pubmed:41368923,review,candidate,Neurological study focus requires review
 pubmed:42877521,review,candidate,Animal breed match does not establish NZ relevance
-pubmed:42882447,review,candidate,Animal breed match does not establish NZ relevance
-pubmed:42784819,review,candidate,Historical commentary requires data relevance review
-pubmed:42619342,review,candidate,Neurological study focus requires review
 ,review,candidate,Dataset source discovery failed: neurological: Expecting value: line 1 column 1 (char 0)
 ,review,candidate,Dataset source discovery failed: stroke: Expecting value: line 1 column 1 (char 0)
 ,review,candidate,Dataset source discovery failed: dementia: Expecting value: line 1 column 1 (char 0)
@@ -135,6 +133,8 @@ XG5EYQIA,review,metadata_taxonomy,condition_link_needs_review
 65DRYX68,review,metadata_taxonomy,condition_link_needs_review
 4CAPJL5I,review,metadata_taxonomy,condition_link_needs_review
 VSLYTTQ9,review,metadata_taxonomy,condition_link_needs_review
+F87ISJBS,review,metadata_taxonomy,catalogue_relationship_needs_review
+T9F83FAD,review,metadata_taxonomy,catalogue_relationship_needs_review
 5GWFGXQ3,review,metadata_taxonomy,catalogue_relationship_needs_review
 TN8VWMHL,review,metadata_taxonomy,catalogue_relationship_needs_review
 5KS2YET7,review,metadata_taxonomy,catalogue_relationship_needs_review
@@ -143,7 +143,6 @@ W676JVMB,review,metadata_taxonomy,catalogue_relationship_needs_review
 Y5RPBKEL,review,metadata_taxonomy,catalogue_relationship_needs_review
 MB5EDL2X,review,metadata_taxonomy,catalogue_relationship_needs_review
 Y5IS5BVH,review,metadata_taxonomy,catalogue_relationship_needs_review
-F87ISJBS,review,metadata_taxonomy,catalogue_relationship_needs_review
 Y9JVIYG3,review,metadata_taxonomy,catalogue_relationship_needs_review
 45L2EVCE,review,metadata_taxonomy,condition_link_needs_review; catalogue_relationship_needs_review
 3Y7YSU2B,review,metadata_taxonomy,catalogue_relationship_needs_review

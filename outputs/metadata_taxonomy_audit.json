@@ -960,6 +960,46 @@
     "date_modified": "2026-10-14T08:50:25Z"
   },
   {
+    "zotero_key": "F87ISJBS",
+    "kind": "evidence",
+    "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
+    "condition_ids": [
+      "NC-023"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-023",
+        "name": "Epilepsy",
+        "matched_term": "Epilepsy",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-25T18:11:31Z"
+  },
+  {
+    "zotero_key": "T9F83FAD",
+    "kind": "evidence",
+    "title": "The Prevalence of Dementia Diagnosis and Delivery of Appropriate Dementia Care in Aboriginal Community Controlled Health Services.",
+    "condition_ids": [
+      "NC-002"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-002",
+        "name": "Alzheimer's disease and other dementias",
+        "matched_term": "dementia",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-10-25T18:11:29Z"
+  },
+  {
     "zotero_key": "5GWFGXQ3",
     "kind": "evidence",
     "title": "Changes in modifiable dementia risk factors and subjective cognitive decline in mid and later life.",
@@ -1111,26 +1151,6 @@
         "condition_id": "NC-072",
         "name": "Stroke",
         "matched_term": "cerebrovascular",
-        "basis": "explicit_title"
-      }
-    ],
-    "gaps": [
-      "catalogue_relationship_needs_review"
-    ],
-    "date_modified": "2026-10-14T09:01:15Z"
-  },
-  {
-    "zotero_key": "F87ISJBS",
-    "kind": "evidence",
-    "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",
-    "condition_ids": [
-      "NC-023"
-    ],
-    "suggested_matches": [
-      {
-        "condition_id": "NC-023",
-        "name": "Epilepsy",
-        "matched_term": "Epilepsy",
         "basis": "explicit_title"
       }
     ],
