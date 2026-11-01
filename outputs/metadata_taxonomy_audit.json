@@ -960,6 +960,46 @@
     "date_modified": "2026-10-14T08:50:25Z"
   },
   {
+    "zotero_key": "XHJ9ICA2",
+    "kind": "evidence",
+    "title": "Socioeconomic deprivation and dementia risk in New Zealand: A modelling study.",
+    "condition_ids": [
+      "NC-002"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-002",
+        "name": "Alzheimer's disease and other dementias",
+        "matched_term": "dementia",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-11-01T18:21:56Z"
+  },
+  {
+    "zotero_key": "7XUK8NGB",
+    "kind": "evidence",
+    "title": "Differences in Epilepsy Etiology, Type, Syndrome, and Severity Between Māori and Non-Māori-Non-Pasifika Children With Epilepsy in New Zealand.",
+    "condition_ids": [
+      "NC-023"
+    ],
+    "suggested_matches": [
+      {
+        "condition_id": "NC-023",
+        "name": "Epilepsy",
+        "matched_term": "Epilepsy",
+        "basis": "explicit_title"
+      }
+    ],
+    "gaps": [
+      "catalogue_relationship_needs_review"
+    ],
+    "date_modified": "2026-11-01T18:21:55Z"
+  },
+  {
     "zotero_key": "F87ISJBS",
     "kind": "evidence",
     "title": "A randomized controlled trial of a multimodality digital health intervention to aid the delivery of the modified ketogenic diet therapy for epilepsy: The Keto eCoach trial protocol.",

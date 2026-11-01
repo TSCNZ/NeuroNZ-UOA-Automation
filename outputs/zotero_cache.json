@@ -4445,6 +4445,196 @@
   ],
   "evidence": [
     {
+      "stable_id": "E057",
+      "zotero_key": "XHJ9ICA2",
+      "zotero_version": 967,
+      "title": "Socioeconomic deprivation and dementia risk in New Zealand: A modelling study.",
+      "summary": "We aimed to estimate the population attributable fraction for dementia associated with neighbourhood deprivation and the potential impact of reducing deprivation on dementia prevalence over time.\nWe calculated the population attributable fraction across Aotearoa New Zealand for 13 risks (less education, hypertension, obesity, smoking, depression, physical inactivity, social isolation, diabetes, excessive alcohol, air pollution, hearing loss, vision loss, high low-density lipoprotein cholesterol) stratified by deprivation and ethnicity. We modelled the impact of reducing deprivation on dementia prevalence over 30 years.\nPopulation attributable fraction increased with deprivation, from 36.0% in the least deprived to 45.8% in the most deprived quintile. Modelled reductions in deprivation were predicted to produce greater dementia prevalence reductions at all time points for Māori and Pacific peoples compared to Europeans.\nDementia prevention potential increases as deprivation increases. The impact of reducing deprivation increases over 30 years. Projected benefits are disproportionately greater in populations in areas of higher deprivation.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42543877/",
+      "doi": "10.1177/00048674261470616",
+      "pmid": "42543877",
+      "item_type": "journalArticle",
+      "date": "2026-Nov",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:condition:NC-002",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E057",
+        "PMID": "42543877",
+        "Source candidate ID": "pubmed:42543877",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42543877/",
+        "NeuroNZ Condition IDs": "NC-002"
+      },
+      "bibliography": {
+        "publicationTitle": "The Australian and New Zealand journal of psychiatry",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Etuini",
+            "lastName": "Ma'u"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Nicholas",
+            "lastName": "Rush"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jade",
+            "lastName": "Tamatea"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Malakai",
+            "lastName": "'Ofanoa"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sebastian",
+            "lastName": "Walsh"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Gill",
+            "lastName": "Livingston"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Naaheed",
+            "lastName": "Mukadam"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Gary",
+            "lastName": "Cheung"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sarah",
+            "lastName": "Cullum"
+          }
+        ],
+        "date": "2026-Nov",
+        "volume": "60",
+        "issue": "11",
+        "pages": "1063-1073",
+        "ISSN": "1440-1614",
+        "DOI": "10.1177/00048674261470616",
+        "journalAbbreviation": "Aust N Z J Psychiatry",
+        "language": "eng",
+        "PMID": "42543877",
+        "PMCID": "PMC13716974",
+        "rights": "",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-11-01T18:21:47Z"
+      },
+      "date_added": "2026-11-01T18:21:56Z",
+      "date_modified": "2026-11-01T18:21:56Z",
+      "condition_ids": [
+        "NC-002"
+      ]
+    },
+    {
+      "stable_id": "E056",
+      "zotero_key": "7XUK8NGB",
+      "zotero_version": 966,
+      "title": "Differences in Epilepsy Etiology, Type, Syndrome, and Severity Between Māori and Non-Māori-Non-Pasifika Children With Epilepsy in New Zealand.",
+      "summary": "The World Health Organization's Intersectoral Global Action Plan on Epilepsy and other Neurologic Disorders 2022-2031 aims to minimize epilepsy burden, with an emphasis on Indigenous peoples. Māori, the Indigenous peoples of New Zealand, have a similar prevalence of treated epilepsy to non-Māori yet suffer an increased epilepsy burden. This study aims to describe epilepsy etiology, syndrome, and severity in Māori children compared with non-Māori-non-Pasifika children.\nRetrospective population-based study using the New Zealand Pharmaceutical Collection. Medical records were reviewed to compare epilepsy etiology, type, syndrome, and severity between Māori and age-matched and sex-matched non-Māori-non-Pasifika children (younger than 18 years) with treated epilepsy. Period prevalence of etiology was compared: logistic regression (odds ratio, OR) for comparisons of within-cohort proportions and Poisson regression (rate ratio, RR) for comparison of population prevalence.\nCohort of 337 Māori and 421 non-Māori-non-Pasifika children (female: 45.4% Māori and 46.6% non-Māori-non-Pasifika). The median age of first seizure was 3.0 years for Māori (interquartile range [IQR]: 0.9-8.0) and 4.0 years for non-Māori-non-Pasifika (IQR: 1.3-8.0). Māori children were more likely to live in high deprivation areas (quintile 5: 48.4% Māori vs 17.3% non-Māori-non-Pasifika). Māori children were more likely to have a preventable cause of their epilepsy than non-Māori-non-Pasifika children (RR: 2.32; 95% CI 1.41-3.80) and more likely to have a structural (RR: 1.43, 95% CI 1.04-1.97) or infectious (RR: 4.72, 95% CI 1.43-15.8) etiology. After adjustment for socioeconomic status and rurality, there was no longer evidence for a difference by ethnicity. Focal epilepsy was the most common epilepsy type (65.6% Māori and 59.4% non-Māori-non-Pasifika), followed by genetic epilepsies (20.2% Māori and 21.9% non-Māori-non-Pasifika). An epilepsy syndrome was identified in 26% of Māori and 36% of non-Māori-non-Pasifika children. Māori children were less likely to have a self-limited epilepsy syndrome (OR: 0.51, 95% CI 0.30-0.83) or developmental and epileptic encephalopathy (OR: 0.59, 95% CI 0.40-0.88) but more likely to have intellectual disability and epilepsy (OR: 1.65, 95% CI 1.18-2.32).\nHealth inequities exist for Māori children who are twice as likely to have preventable epilepsy than non-Māori-non-Pasifika children. This inequity is largely driven by socioeconomic status and rurality.",
+      "source_organisation": "",
+      "primary_link": "https://pubmed.ncbi.nlm.nih.gov/42932852/",
+      "doi": "10.1212/WNL.0000000000218688",
+      "pmid": "42932852",
+      "item_type": "journalArticle",
+      "date": "2026-Nov-24",
+      "tags": [
+        "category:Journal Article",
+        "nzneuro:condition:NC-023",
+        "nzneuro:phase2",
+        "source-type:Journal Articles",
+        "source:pubmed",
+        "type:evidence",
+        "type:publication"
+      ],
+      "extra": {
+        "NeuroNZ Evidence ID": "E056",
+        "PMID": "42932852",
+        "Source candidate ID": "pubmed:42932852",
+        "Source category": "Published research",
+        "Availability / Access": "Public PubMed abstract; full-text access varies by publisher",
+        "Review status": "Automated source and relevance checks passed; catalogue linkage pending review",
+        "All evidence URLs": "https://pubmed.ncbi.nlm.nih.gov/42932852/",
+        "NeuroNZ Condition IDs": "NC-023"
+      },
+      "bibliography": {
+        "publicationTitle": "Neurology",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Ngaire F",
+            "lastName": "Keenan"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "James",
+            "lastName": "Stanley"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jeannine L",
+            "lastName": "Stairmand"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Shayma",
+            "lastName": "Ali"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Erik W",
+            "lastName": "Andersen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Suzanne Lee",
+            "lastName": "Davis"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lynette Grant",
+            "lastName": "Sadleir"
+          }
+        ],
+        "date": "2026-Nov-24",
+        "volume": "107",
+        "issue": "10",
+        "pages": "e218688",
+        "ISSN": "1526-632X",
+        "DOI": "10.1212/WNL.0000000000218688",
+        "journalAbbreviation": "Neurology",
+        "language": "eng",
+        "PMID": "42932852",
+        "PMCID": "",
+        "rights": "",
+        "libraryCatalog": "PubMed",
+        "accessDate": "2026-11-01T18:21:47Z"
+      },
+      "date_added": "2026-11-01T18:21:55Z",
+      "date_modified": "2026-11-01T18:21:55Z",
+      "condition_ids": [
+        "NC-023"
+      ]
+    },
+    {
       "stable_id": "E047",
       "zotero_key": "F87ISJBS",
       "zotero_version": 965,

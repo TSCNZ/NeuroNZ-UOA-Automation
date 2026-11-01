@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-10-25T18:11:04.823652+00:00",
+  "started_at": "2026-11-01T18:21:28.645638+00:00",
   "status": "completed_with_review",
-  "github_run_id": "40220018079",
-  "unresolved_gap_records": 275,
-  "finished_at": "2026-10-25T18:13:38.715188+00:00",
+  "github_run_id": "41336191872",
+  "unresolved_gap_records": 277,
+  "finished_at": "2026-11-01T18:24:04.470272+00:00",
   "mode": "validated_evidence_import",
   "zotero_updates": {
-    "created_verified": 1,
-    "metadata_updated_verified": 1,
-    "duplicates": 13,
+    "created_verified": 2,
+    "metadata_updated_verified": 0,
+    "duplicates": 15,
     "review": 15,
     "manifest": "outputs/zotero_update_manifest.json"
   },
@@ -24,7 +24,7 @@
     "International Data Systems": 4,
     "Use of NZ Neurological Data": 8,
     "Published Research": 2,
-    "Journal Articles": 15
+    "Journal Articles": 17
   },
   "collections": [
     {
@@ -38,8 +38,8 @@
       "collection_type": "evidence",
       "collection_name": "02 Evidence Log",
       "collection_key": "25TARGNW",
-      "items_fetched": 117,
-      "records_with_stable_id": 117
+      "items_fetched": 119,
+      "records_with_stable_id": 119
     },
     {
       "collection_type": "taxonomy",
@@ -52,9 +52,9 @@
   "quality": {
     "blocker_count": 2,
     "review_count": 38,
-    "review_queue_count": 330,
+    "review_queue_count": 332,
     "source_monitor_count": 18,
-    "candidate_record_count": 30,
+    "candidate_record_count": 32,
     "catalogue_link_checks": 79
   },
   "outputs": [

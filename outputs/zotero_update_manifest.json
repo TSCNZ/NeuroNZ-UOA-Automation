@@ -28,6 +28,31 @@
     "reason": "Neurological study focus requires review"
   },
   {
+    "candidate_id": "pubmed:42932852",
+    "title": "Differences in Epilepsy Etiology, Type, Syndrome, and Severity Between Māori and Non-Māori-Non-Pasifika Children With Epilepsy in New Zealand.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [
+      {
+        "condition_id": "NC-023",
+        "name": "Epilepsy",
+        "matched_term": "Epilepsy",
+        "basis": "explicit_title"
+      }
+    ],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "created_verified",
+    "evidence_id": "E056",
+    "zotero_key": "7XUK8NGB",
+    "date_added": "2026-11-01T18:21:55Z",
+    "date_modified": "2026-11-01T18:21:55Z",
+    "zotero_version": 966,
+    "source_unavailable_fields": [
+      "PMCID",
+      "rights"
+    ]
+  },
+  {
     "candidate_id": "pubmed:42566154",
     "title": "Impact of Psilocybin on Motor Function in Healthy Participants: A Phase 1, Randomised, Triple-Blind, Dose-Finding Study.",
     "collection_key": "XBQFC75N",
@@ -38,6 +63,30 @@
     "reason": "Neurological study focus requires review"
   },
   {
+    "candidate_id": "pubmed:42543877",
+    "title": "Socioeconomic deprivation and dementia risk in New Zealand: A modelling study.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [
+      {
+        "condition_id": "NC-002",
+        "name": "Alzheimer's disease and other dementias",
+        "matched_term": "dementia",
+        "basis": "explicit_title"
+      }
+    ],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "created_verified",
+    "evidence_id": "E057",
+    "zotero_key": "XHJ9ICA2",
+    "date_added": "2026-11-01T18:21:56Z",
+    "date_modified": "2026-11-01T18:21:56Z",
+    "zotero_version": 967,
+    "source_unavailable_fields": [
+      "rights"
+    ]
+  },
+  {
     "candidate_id": "pubmed:42167006",
     "title": "Gradient intrafibrillar mineralized collagen scaffold promotes osteochondral regeneration by enhancing differentiation of SCRG1+ progenitor cells.",
     "collection_key": "XBQFC75N",
@@ -46,6 +95,16 @@
     "duplicate_zotero_keys": [],
     "status": "review",
     "reason": "Animal breed match does not establish NZ relevance"
+  },
+  {
+    "candidate_id": "pubmed:42946313",
+    "title": "Methods for evaluating living guidelines: Early guidance based on practical experience.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "review",
+    "reason": "Neurological study focus requires review"
   },
   {
     "candidate_id": "pubmed:42924637",
@@ -60,19 +119,19 @@
       }
     ],
     "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "created_verified",
-    "evidence_id": "E055",
+    "duplicate_zotero_keys": [
+      "T9F83FAD"
+    ],
     "zotero_key": "T9F83FAD",
-    "date_added": "2026-10-25T18:11:29Z",
-    "date_modified": "2026-10-25T18:11:29Z",
-    "zotero_version": 964,
+    "evidence_id": "E055",
     "source_unavailable_fields": [
       "volume",
       "issue",
       "PMCID",
       "rights"
-    ]
+    ],
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42912972",
@@ -210,16 +269,8 @@
     "zotero_key": "F87ISJBS",
     "evidence_id": "E047",
     "source_unavailable_fields": [],
-    "status": "metadata_updated_verified",
-    "changed_fields": [
-      "issue",
-      "pages",
-      "volume"
-    ],
-    "previous_date_modified": "2026-10-14T09:01:15Z",
-    "date_added": "2026-10-01T23:39:33Z",
-    "date_modified": "2026-10-25T18:11:31Z",
-    "zotero_version": 965
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42699715",
@@ -284,16 +335,6 @@
     "reason": "Neurological study focus requires review"
   },
   {
-    "candidate_id": "pubmed:42877521",
-    "title": "Establishment of an ultrasound-guided rabbit model of hepatic inflammatory pseudotumor and contrast-enhanced ultrasound pattern analysis.",
-    "collection_key": "XBQFC75N",
-    "condition_matches": [],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "review",
-    "reason": "Animal breed match does not establish NZ relevance"
-  },
-  {
     "candidate_id": "pubmed:42824915",
     "title": "Stroke reperfusion in Aotearoa New Zealand: 5-year trends and a comparison of stroke clot retrieval and non-stroke clot retrieval centre presenters.",
     "collection_key": "XBQFC75N",
@@ -312,26 +353,6 @@
     "zotero_key": "5KS2YET7",
     "evidence_id": "E052",
     "source_unavailable_fields": [],
-    "status": "duplicate",
-    "reason": "Existing DOI, PMID, URL, or title in group library"
-  },
-  {
-    "candidate_id": "pubmed:42806265",
-    "title": "Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets.",
-    "collection_key": "XBQFC75N",
-    "condition_matches": [],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [
-      "45L2EVCE"
-    ],
-    "zotero_key": "45L2EVCE",
-    "evidence_id": "E043",
-    "source_unavailable_fields": [
-      "volume",
-      "issue",
-      "pages",
-      "PMCID"
-    ],
     "status": "duplicate",
     "reason": "Existing DOI, PMID, URL, or title in group library"
   },
@@ -456,6 +477,26 @@
     ],
     "zotero_key": "Y9JVIYG3",
     "evidence_id": "E045",
+    "source_unavailable_fields": [
+      "volume",
+      "issue",
+      "pages",
+      "PMCID"
+    ],
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
+  },
+  {
+    "candidate_id": "pubmed:42806265",
+    "title": "Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [
+      "45L2EVCE"
+    ],
+    "zotero_key": "45L2EVCE",
+    "evidence_id": "E043",
     "source_unavailable_fields": [
       "volume",
       "issue",
