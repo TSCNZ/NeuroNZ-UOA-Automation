@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-11-01T18:21:28.645638+00:00",
+  "started_at": "2026-11-08T18:22:42.020123+00:00",
   "status": "completed_with_review",
-  "github_run_id": "41336191872",
+  "github_run_id": "42509698897",
   "unresolved_gap_records": 277,
-  "finished_at": "2026-11-01T18:24:04.470272+00:00",
+  "finished_at": "2026-11-08T18:24:57.719825+00:00",
   "mode": "validated_evidence_import",
   "zotero_updates": {
-    "created_verified": 2,
+    "created_verified": 0,
     "metadata_updated_verified": 0,
-    "duplicates": 15,
+    "duplicates": 17,
     "review": 15,
     "manifest": "outputs/zotero_update_manifest.json"
   },

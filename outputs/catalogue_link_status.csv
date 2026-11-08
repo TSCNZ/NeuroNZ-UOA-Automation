@@ -20,7 +20,7 @@ NZNEURO-072,National Stroke Reperfusion Register,https://doi.org/10.1111/imj.163
 NZNEURO-054,PBNZ Specialist Scope Register,https://physioboard.org.nz/specialist,ok,200,,HEAD
 NZNEURO-055,"Acute encephalitis in adults, Auckland (2005-2009)",https://www.sciencedirect.com/science/article/pii/S0967586812001750,http_error,403,Forbidden,GET
 NZNEURO-056,Ethnic inequalities in 30-day ischaemic stroke survival,https://nzmj.org.nz/journal/vol-129-no-1437/are-ethnic-inequalities-in-30-day-ischaemic-stroke-survival-emerging-as-treatment-becomes-more-effective,ok,200,,HEAD
-NZNEURO-057,Atrial fibrillation in NZ primary care,https://pubmed.ncbi.nlm.nih.gov/27798365/,ok,200,,HEAD
+NZNEURO-057,Atrial fibrillation in NZ primary care,https://pubmed.ncbi.nlm.nih.gov/27798365/,ok,203,,HEAD
 NZNEURO-058,"Changes in stroke incidence, Auckland, 1981-91",https://doi.org/10.1016/0140-6736(93)92938-p,ok,200,,HEAD
 NZNEURO-059,"Ethnic disparities in stroke subtypes, 2002-2003",https://doi.org/10.1016/S1474-4422(05)70325-2,ok,200,,HEAD
 NZNEURO-060,"Ethnic and HLA patterns related to MS, Wellington",https://pmc.ncbi.nlm.nih.gov/articles/PMC1028646/,ok,200,,HEAD
@@ -31,12 +31,12 @@ NZNEURO-045,BIONIC (2010-11) and BIONIC2 (2021-22),,missing_url,,No URL supplied
 NZNEURO-046,Auckland TIA Study (ATIAS) 2011-12,https://doi.org/10.1161/STROKEAHA.116.014010,http_error,403,Forbidden,GET
 NZNEURO-047,Stroke Research Clinic,https://www.auckland.ac.nz/en/fmhs/research/our-research-centres/fmhs-university-research-centres/cbr/clinics/stroke-research-clinic.html,ok,200,,HEAD
 NZNEURO-048,Dunedin Study - adult ADHD analysis,https://psychiatryonline.org/doi/10.1176/appi.ajp.2015.14101266,http_error,403,Forbidden,GET
-NZNEURO-049,NZ's Neurologist Workforce (2015 study),https://pubmed.ncbi.nlm.nih.gov/26365844/,ok,200,,HEAD
+NZNEURO-049,NZ's Neurologist Workforce (2015 study),https://pubmed.ncbi.nlm.nih.gov/26365844/,ok,203,,HEAD
 NZNEURO-050,"NZ Neurologist Workforce 2024 Analysis (Ranta et al., 2026)",https://doi.org/10.1136/bmjno-2025-001397,http_error,403,Forbidden,GET
 NZNEURO-051,MCNZ Annual Workforce Survey + Data Dashboard,https://www.mcnz.org.nz/about-us/our-data/,ok,200,,HEAD
 NZNEURO-052,NZPB Register - Neuropsychologist Scope,https://psychologistsboard.org.nz/,ok,200,,HEAD
 NZNEURO-053,Health Workforce Information Programme (HWIP),https://www.tewhatuora.govt.nz/for-health-professionals/health-workforce-development/health-workforce-initiatives/health-workforce-information-programme,ok,200,,HEAD
-NZNEURO-032,New Zealand Health Survey (NZHS) - Children 0-14,https://minhealthnz.shinyapps.io/nz-health-survey-2024-25-annual-data-explorer/,ok,200,,HEAD
+NZNEURO-032,New Zealand Health Survey (NZHS) - Children 0-14,https://minhealthnz.shinyapps.io/nz-health-survey-2024-25-annual-data-explorer/,ok,202,,GET
 NZNEURO-033,Growing Up in New Zealand,https://www.growingup.co.nz/,ok,200,,HEAD
 NZNEURO-034,Youth Health and Wellbeing Survey,https://msd.govt.nz/about-msd-and-our-work/publications-resources/consultations/youth-health-and-wellbeing-survey-results/index.html,ok,200,,HEAD
 NZNEURO-035,MS prevalence in NZ,https://journals.sagepub.com/doi/10.1177/1352458510379614,http_error,403,Forbidden,GET
@@ -51,8 +51,8 @@ NZNEURO-030,"Survey of Family, Income and Employment (SoFIE)",https://www.otago.
 NZNEURO-031,New Zealand Health Survey (NZHS) - Adults 15+,https://minhealthnz.shinyapps.io/nz-health-survey-2024-25-annual-data-explorer/,ok,200,,HEAD
 NZNEURO-013,National Patient Flow (NPF),https://www.tewhatuora.govt.nz/publications/national-patient-flow-file-specification,ok,200,,HEAD
 NZNEURO-014,B4 School Check (Well Child Tamariki Ora),https://www.tewhatuora.govt.nz/for-health-professionals/clinical-guidance/specific-life-stage-health-information/child-health/well-child-tamariki-programme/te-mahau-tarearea-o-tamariki-ora/b4-school-check,ok,200,,HEAD
-NZNEURO-015,Pharmac NPPA Outcome Data,https://schedule.pharmac.govt.nz/nppaoutcomedata.php,ok,200,,HEAD
-NZNEURO-016,Pharmaceutical Schedule + Special Authority criteria,https://schedule.pharmac.govt.nz/,ok,200,,HEAD
+NZNEURO-015,Pharmac NPPA Outcome Data,https://schedule.pharmac.govt.nz/nppaoutcomedata.php,http_error,502,Bad Gateway,HEAD
+NZNEURO-016,Pharmaceutical Schedule + Special Authority criteria,https://schedule.pharmac.govt.nz/,http_error,502,Bad Gateway,HEAD
 NZNEURO-017,EpiSurv - National Notifiable Diseases database,https://www.esr.cri.nz/our-research/nga-kete/infectious-disease-intelligence/notifiable-diseases/,ok,200,,HEAD
 NZNEURO-018,CARM database (Centre for Adverse Reactions Monitoring),https://nzphvc-carm.otago.ac.nz/home/,ok,200,,HEAD
 NZNEURO-019,"HealthOne (shared electronic patient record, South Island)",https://healthone.org.nz/what-is-healthone,http_error,403,Forbidden,GET

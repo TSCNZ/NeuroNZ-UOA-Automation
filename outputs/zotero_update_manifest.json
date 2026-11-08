@@ -40,17 +40,37 @@
       }
     ],
     "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "created_verified",
-    "evidence_id": "E056",
+    "duplicate_zotero_keys": [
+      "7XUK8NGB"
+    ],
     "zotero_key": "7XUK8NGB",
-    "date_added": "2026-11-01T18:21:55Z",
-    "date_modified": "2026-11-01T18:21:55Z",
-    "zotero_version": 966,
+    "evidence_id": "E056",
     "source_unavailable_fields": [
       "PMCID",
       "rights"
-    ]
+    ],
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
+  },
+  {
+    "candidate_id": "pubmed:42984478",
+    "title": "Mā te kimi ka kite, Mā te kite ka mōhio, Mā te mōhio ka Mārama Seek and discover, discover and know, know and become enlightened.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "review",
+    "reason": "Neurological study focus requires review"
+  },
+  {
+    "candidate_id": "pubmed:42976894",
+    "title": "Presentation, management, and outcomes of ectopic Cushing syndrome: an international, multicentre, retrospective, cohort study.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "review",
+    "reason": "Neurological study focus requires review"
   },
   {
     "candidate_id": "pubmed:42566154",
@@ -75,16 +95,16 @@
       }
     ],
     "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "created_verified",
-    "evidence_id": "E057",
+    "duplicate_zotero_keys": [
+      "XHJ9ICA2"
+    ],
     "zotero_key": "XHJ9ICA2",
-    "date_added": "2026-11-01T18:21:56Z",
-    "date_modified": "2026-11-01T18:21:56Z",
-    "zotero_version": 967,
+    "evidence_id": "E057",
     "source_unavailable_fields": [
       "rights"
-    ]
+    ],
+    "status": "duplicate",
+    "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
     "candidate_id": "pubmed:42167006",
@@ -307,26 +327,6 @@
   {
     "candidate_id": "pubmed:42679829",
     "title": "Adolescent health across Asia Pacific, 2000-23: a systematic analysis for the Global Burden of Disease Study 2023.",
-    "collection_key": "XBQFC75N",
-    "condition_matches": [],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "review",
-    "reason": "Neurological study focus requires review"
-  },
-  {
-    "candidate_id": "pubmed:42507461",
-    "title": "Erythropoietin for Neonatal Hypoxic-Ischemic Encephalopathy: A Randomized Clinical Trial.",
-    "collection_key": "XBQFC75N",
-    "condition_matches": [],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "review",
-    "reason": "Neurological study focus requires review"
-  },
-  {
-    "candidate_id": "pubmed:41368923",
-    "title": "An international survey of research capacity and culture in speech-language pathology: Preliminary findings.",
     "collection_key": "XBQFC75N",
     "condition_matches": [],
     "relationship_status": "catalogue linkage pending review",
