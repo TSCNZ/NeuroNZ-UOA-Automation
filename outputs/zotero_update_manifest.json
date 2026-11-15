@@ -53,6 +53,26 @@
     "reason": "Existing DOI, PMID, URL, or title in group library"
   },
   {
+    "candidate_id": "pubmed:43026161",
+    "title": "Does the adult divisional clinical examination still reflect how physicians practise? A qualitative study of Royal Australasian College of Physicians Fellows' and trainees' perceptions.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "review",
+    "reason": "Neurological study focus requires review"
+  },
+  {
+    "candidate_id": "pubmed:43030795",
+    "title": "The Epidemiology of Syringomyelia and Associated Conditions: A Literature Review.",
+    "collection_key": "XBQFC75N",
+    "condition_matches": [],
+    "relationship_status": "catalogue linkage pending review",
+    "duplicate_zotero_keys": [],
+    "status": "review",
+    "reason": "Neurological study focus requires review"
+  },
+  {
     "candidate_id": "pubmed:42984478",
     "title": "Mā te kimi ka kite, Mā te kite ka mōhio, Mā te mōhio ka Mārama Seek and discover, discover and know, know and become enlightened.",
     "collection_key": "XBQFC75N",
@@ -313,26 +333,6 @@
     "source_unavailable_fields": [],
     "status": "duplicate",
     "reason": "Existing DOI, PMID, URL, or title in group library"
-  },
-  {
-    "candidate_id": "pubmed:42686207",
-    "title": "Potential Neonatal Donors in Australia: A National Cohort Study.",
-    "collection_key": "XBQFC75N",
-    "condition_matches": [],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "review",
-    "reason": "Neurological study focus requires review"
-  },
-  {
-    "candidate_id": "pubmed:42679829",
-    "title": "Adolescent health across Asia Pacific, 2000-23: a systematic analysis for the Global Burden of Disease Study 2023.",
-    "collection_key": "XBQFC75N",
-    "condition_matches": [],
-    "relationship_status": "catalogue linkage pending review",
-    "duplicate_zotero_keys": [],
-    "status": "review",
-    "reason": "Neurological study focus requires review"
   },
   {
     "candidate_id": "pubmed:42824915",

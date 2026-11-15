@@ -40,6 +40,8 @@ NZNEURO-004,review,public_text,Contains Verification pending text that should re
 NZNEURO-008,review,age_group,Recommended filter/enrichment field is blank
 NZNEURO-011,review,public_text,Contains Verification pending text that should remain internal unless approved
 pubmed:42751425,review,candidate,Neurological study focus requires review
+pubmed:43026161,review,candidate,Neurological study focus requires review
+pubmed:43030795,review,candidate,Neurological study focus requires review
 pubmed:42984478,review,candidate,Neurological study focus requires review
 pubmed:42976894,review,candidate,Neurological study focus requires review
 pubmed:42566154,review,candidate,Neurological study focus requires review
@@ -48,8 +50,6 @@ pubmed:42946313,review,candidate,Neurological study focus requires review
 pubmed:42912972,review,candidate,Neurological study focus requires review
 pubmed:42800307,review,candidate,Neurological study focus requires review
 pubmed:42725169,review,candidate,Neurological study focus requires review
-pubmed:42686207,review,candidate,Neurological study focus requires review
-pubmed:42679829,review,candidate,Neurological study focus requires review
 ,review,candidate,Dataset source discovery failed: neurological: Expecting value: line 1 column 1 (char 0)
 ,review,candidate,Dataset source discovery failed: stroke: Expecting value: line 1 column 1 (char 0)
 ,review,candidate,Dataset source discovery failed: dementia: Expecting value: line 1 column 1 (char 0)

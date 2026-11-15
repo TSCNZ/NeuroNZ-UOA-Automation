@@ -36,7 +36,7 @@ NZNEURO-050,"NZ Neurologist Workforce 2024 Analysis (Ranta et al., 2026)",https:
 NZNEURO-051,MCNZ Annual Workforce Survey + Data Dashboard,https://www.mcnz.org.nz/about-us/our-data/,ok,200,,HEAD
 NZNEURO-052,NZPB Register - Neuropsychologist Scope,https://psychologistsboard.org.nz/,ok,200,,HEAD
 NZNEURO-053,Health Workforce Information Programme (HWIP),https://www.tewhatuora.govt.nz/for-health-professionals/health-workforce-development/health-workforce-initiatives/health-workforce-information-programme,ok,200,,HEAD
-NZNEURO-032,New Zealand Health Survey (NZHS) - Children 0-14,https://minhealthnz.shinyapps.io/nz-health-survey-2024-25-annual-data-explorer/,ok,202,,GET
+NZNEURO-032,New Zealand Health Survey (NZHS) - Children 0-14,https://minhealthnz.shinyapps.io/nz-health-survey-2024-25-annual-data-explorer/,ok,200,,HEAD
 NZNEURO-033,Growing Up in New Zealand,https://www.growingup.co.nz/,ok,200,,HEAD
 NZNEURO-034,Youth Health and Wellbeing Survey,https://msd.govt.nz/about-msd-and-our-work/publications-resources/consultations/youth-health-and-wellbeing-survey-results/index.html,ok,200,,HEAD
 NZNEURO-035,MS prevalence in NZ,https://journals.sagepub.com/doi/10.1177/1352458510379614,http_error,403,Forbidden,GET
@@ -51,8 +51,8 @@ NZNEURO-030,"Survey of Family, Income and Employment (SoFIE)",https://www.otago.
 NZNEURO-031,New Zealand Health Survey (NZHS) - Adults 15+,https://minhealthnz.shinyapps.io/nz-health-survey-2024-25-annual-data-explorer/,ok,200,,HEAD
 NZNEURO-013,National Patient Flow (NPF),https://www.tewhatuora.govt.nz/publications/national-patient-flow-file-specification,ok,200,,HEAD
 NZNEURO-014,B4 School Check (Well Child Tamariki Ora),https://www.tewhatuora.govt.nz/for-health-professionals/clinical-guidance/specific-life-stage-health-information/child-health/well-child-tamariki-programme/te-mahau-tarearea-o-tamariki-ora/b4-school-check,ok,200,,HEAD
-NZNEURO-015,Pharmac NPPA Outcome Data,https://schedule.pharmac.govt.nz/nppaoutcomedata.php,http_error,502,Bad Gateway,HEAD
-NZNEURO-016,Pharmaceutical Schedule + Special Authority criteria,https://schedule.pharmac.govt.nz/,http_error,502,Bad Gateway,HEAD
+NZNEURO-015,Pharmac NPPA Outcome Data,https://schedule.pharmac.govt.nz/nppaoutcomedata.php,ok,200,,HEAD
+NZNEURO-016,Pharmaceutical Schedule + Special Authority criteria,https://schedule.pharmac.govt.nz/,ok,200,,HEAD
 NZNEURO-017,EpiSurv - National Notifiable Diseases database,https://www.esr.cri.nz/our-research/nga-kete/infectious-disease-intelligence/notifiable-diseases/,ok,200,,HEAD
 NZNEURO-018,CARM database (Centre for Adverse Reactions Monitoring),https://nzphvc-carm.otago.ac.nz/home/,ok,200,,HEAD
 NZNEURO-019,"HealthOne (shared electronic patient record, South Island)",https://healthone.org.nz/what-is-healthone,http_error,403,Forbidden,GET
